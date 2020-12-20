@@ -1,0 +1,13 @@
+<NER>Charles A. Greenhall</NER>
+<NER>Charles C. Ryerson 
+ Cold Regions Research and Engineering Laboratory 
+ US Army Engineer Research and Development Center 
+ Report</NER>
+<NER>Charles C. Ryerson</NER>
+<NER>Charles E. Joachim</NER>
+<NER>Charles G. Sammis', Ronald L. Biegel', and Ares J. Rosakis</NER>
+<NER>Charles J. Koch</NER>
+<NER>Charles Jack</NER>
+<NER>Charles R. Doarn</NER>
+<NER>Charles Rong, Deryn Chu, and John Hopkins 
+Sensors and Electron Devices Directorate,</NER>

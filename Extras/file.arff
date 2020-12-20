@@ -1,0 +1,141 @@
+@relation Data
+
+@attribute LexicalFeatures0 {NUMBER,PUNCT,CAP_LETTER,CAP_WORD,ALL_CAPS,LINE_FEED,OTHER}
+@attribute PartsOfSpeech0 {ARTICLE,CONJ,PERIOD,COMMA,HYPHEN,OTHER}
+@attribute FirstName0 numeric
+@attribute LastName0 numeric
+@attribute DictionaryWord0 numeric
+@attribute Place0 numeric
+@attribute Honorific0 numeric
+@attribute Prefix0 numeric
+@attribute Suffix0 numeric
+@attribute NonPersonalProperName0 numeric
+@attribute StopList0 numeric
+@attribute LexicalFeatures1 {NUMBER,PUNCT,CAP_LETTER,CAP_WORD,ALL_CAPS,LINE_FEED,OTHER}
+@attribute PartsOfSpeech1 {ARTICLE,CONJ,PERIOD,COMMA,HYPHEN,OTHER}
+@attribute FirstName1 numeric
+@attribute LastName1 numeric
+@attribute DictionaryWord1 numeric
+@attribute Place1 numeric
+@attribute Honorific1 numeric
+@attribute Prefix1 numeric
+@attribute Suffix1 numeric
+@attribute NonPersonalProperName1 numeric
+@attribute StopList1 numeric
+@attribute LexicalFeatures2 {NUMBER,PUNCT,CAP_LETTER,CAP_WORD,ALL_CAPS,LINE_FEED,OTHER}
+@attribute PartsOfSpeech2 {ARTICLE,CONJ,PERIOD,COMMA,HYPHEN,OTHER}
+@attribute FirstName2 numeric
+@attribute LastName2 numeric
+@attribute DictionaryWord2 numeric
+@attribute Place2 numeric
+@attribute Honorific2 numeric
+@attribute Prefix2 numeric
+@attribute Suffix2 numeric
+@attribute NonPersonalProperName2 numeric
+@attribute StopList2 numeric
+@attribute LexicalFeatures3 {NUMBER,PUNCT,CAP_LETTER,CAP_WORD,ALL_CAPS,LINE_FEED,OTHER}
+@attribute PartsOfSpeech3 {ARTICLE,CONJ,PERIOD,COMMA,HYPHEN,OTHER}
+@attribute FirstName3 numeric
+@attribute LastName3 numeric
+@attribute DictionaryWord3 numeric
+@attribute Place3 numeric
+@attribute Honorific3 numeric
+@attribute Prefix3 numeric
+@attribute Suffix3 numeric
+@attribute NonPersonalProperName3 numeric
+@attribute StopList3 numeric
+@attribute LexicalFeatures4 {NUMBER,PUNCT,CAP_LETTER,CAP_WORD,ALL_CAPS,LINE_FEED,OTHER}
+@attribute PartsOfSpeech4 {ARTICLE,CONJ,PERIOD,COMMA,HYPHEN,OTHER}
+@attribute FirstName4 numeric
+@attribute LastName4 numeric
+@attribute DictionaryWord4 numeric
+@attribute Place4 numeric
+@attribute Honorific4 numeric
+@attribute Prefix4 numeric
+@attribute Suffix4 numeric
+@attribute NonPersonalProperName4 numeric
+@attribute StopList4 numeric
+@attribute LexicalFeatures5 {NUMBER,PUNCT,CAP_LETTER,CAP_WORD,ALL_CAPS,LINE_FEED,OTHER}
+@attribute PartsOfSpeech5 {ARTICLE,CONJ,PERIOD,COMMA,HYPHEN,OTHER}
+@attribute FirstName5 numeric
+@attribute LastName5 numeric
+@attribute DictionaryWord5 numeric
+@attribute Place5 numeric
+@attribute Honorific5 numeric
+@attribute Prefix5 numeric
+@attribute Suffix5 numeric
+@attribute NonPersonalProperName5 numeric
+@attribute StopList5 numeric
+@attribute LexicalFeatures6 {NUMBER,PUNCT,CAP_LETTER,CAP_WORD,ALL_CAPS,LINE_FEED,OTHER}
+@attribute PartsOfSpeech6 {ARTICLE,CONJ,PERIOD,COMMA,HYPHEN,OTHER}
+@attribute FirstName6 numeric
+@attribute LastName6 numeric
+@attribute DictionaryWord6 numeric
+@attribute Place6 numeric
+@attribute Honorific6 numeric
+@attribute Prefix6 numeric
+@attribute Suffix6 numeric
+@attribute NonPersonalProperName6 numeric
+@attribute StopList6 numeric
+@attribute LexicalFeatures7 {NUMBER,PUNCT,CAP_LETTER,CAP_WORD,ALL_CAPS,LINE_FEED,OTHER}
+@attribute PartsOfSpeech7 {ARTICLE,CONJ,PERIOD,COMMA,HYPHEN,OTHER}
+@attribute FirstName7 numeric
+@attribute LastName7 numeric
+@attribute DictionaryWord7 numeric
+@attribute Place7 numeric
+@attribute Honorific7 numeric
+@attribute Prefix7 numeric
+@attribute Suffix7 numeric
+@attribute NonPersonalProperName7 numeric
+@attribute StopList7 numeric
+@attribute LexicalFeatures8 {NUMBER,PUNCT,CAP_LETTER,CAP_WORD,ALL_CAPS,LINE_FEED,OTHER}
+@attribute PartsOfSpeech8 {ARTICLE,CONJ,PERIOD,COMMA,HYPHEN,OTHER}
+@attribute FirstName8 numeric
+@attribute LastName8 numeric
+@attribute DictionaryWord8 numeric
+@attribute Place8 numeric
+@attribute Honorific8 numeric
+@attribute Prefix8 numeric
+@attribute Suffix8 numeric
+@attribute NonPersonalProperName8 numeric
+@attribute StopList8 numeric
+@attribute LexicalFeatures9 {NUMBER,PUNCT,CAP_LETTER,CAP_WORD,ALL_CAPS,LINE_FEED,OTHER}
+@attribute PartsOfSpeech9 {ARTICLE,CONJ,PERIOD,COMMA,HYPHEN,OTHER}
+@attribute FirstName9 numeric
+@attribute LastName9 numeric
+@attribute DictionaryWord9 numeric
+@attribute Place9 numeric
+@attribute Honorific9 numeric
+@attribute Prefix9 numeric
+@attribute Suffix9 numeric
+@attribute NonPersonalProperName9 numeric
+@attribute StopList9 numeric
+@attribute LexicalFeatures10 {NUMBER,PUNCT,CAP_LETTER,CAP_WORD,ALL_CAPS,LINE_FEED,OTHER}
+@attribute PartsOfSpeech10 {ARTICLE,CONJ,PERIOD,COMMA,HYPHEN,OTHER}
+@attribute FirstName10 numeric
+@attribute LastName10 numeric
+@attribute DictionaryWord10 numeric
+@attribute Place10 numeric
+@attribute Honorific10 numeric
+@attribute Prefix10 numeric
+@attribute Suffix10 numeric
+@attribute NonPersonalProperName10 numeric
+@attribute StopList10 numeric
+@attribute PersonalName {BP,CP,OTHER}
+
+@data
+OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,?
+OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,?
+OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,?
+OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,1,1,1,0,0,0,0,0,?
+OTHER,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,?
+CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,?
+CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,0,0,1,1,0,0,0,0,0,?
+PUNCT,OTHER,0,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,0,0,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,?
+CAP_WORD,OTHER,1,0,0,0,0,0,0,0,0,CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,0,0,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,?
+CAP_WORD,OTHER,1,1,0,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,0,0,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,?
+PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,0,0,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,?
+OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,0,0,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,?
+CAP_WORD,OTHER,1,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,0,0,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,?
+CAP_WORD,OTHER,0,1,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,0,0,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,?
+CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,OTHER,OTHER,1,0,1,0,0,0,0,0,1,CAP_WORD,OTHER,0,0,1,1,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,CAP_WORD,OTHER,0,0,1,0,0,0,0,0,0,PUNCT,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,OTHER,OTHER,0,0,0,0,0,0,0,0,0,?

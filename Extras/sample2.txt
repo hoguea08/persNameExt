@@ -1,0 +1,3476 @@
+<NER>(?primary?) discharge diagnoses (</NER>
+<NER>(AAW), antisubmarine warfare (ASW), mine countermeasures (MCM),</NER>
+<NER>(AOSN-II) Experiment in the Monterey</NER>
+<NER>(ARPA-E) : Background, Status, and</NER>
+<NER>(ASCMs), surface-to - air missiles (SAMs), land-based aircraft, naval mines</NER>
+<NER>(ATC) HotBlox material. This material is known</NER>
+<NER>(Armed Forces Journal, November 20 04</NER>
+<NER>(C) 20 08</NER>
+<NER>(CBO). The Navy had downplayed CBO?s estimates in 20 07, referring to them in testimony</NER>
+<NER>(CCOs). Greater coordination is required to ap- fancy and in some aspects falls short of the</NER>
+<NER>(CGF)</NER>
+<NER>(COASTAL) Program to focus on such applications.</NER>
+<NER>(CTBT). These shots were organized and conducted by the Geophysical Institute of Israel (GII).</NER>
+<NER>(CU- 97 18</NER>
+<NER>(Corps) is the world?s</NER>
+<NER>(DIS) networking protocols for local and long</NER>
+<NER>(DMSS) was searched to identify all outpatient visits</NER>
+<NER>(DMT). The Apr 97 DMT demonstration will</NER>
+<NER>(DOD) C- 5 Galaxy and C- 1</NER>
+<NER>(DOD) began developing</NER>
+<NER>(DOD) policy to compare</NER>
+<NER>(DON CIO) NGEN / NNE Strategy & CONOPS Task</NER>
+<NER>(DSTO) is part of the Department of Defence and</NER>
+<NER>(DTIC) (http : / / www. dtic. mil)</NER>
+<NER>(DTRA-ASCO) sponsored the event, which was hosted by the Naval</NER>
+<NER>(DVL). Data from this sensor suite is combined to provide</NER>
+<NER>(Draft</NER>
+<NER>(E 2 EDS</NER>
+<NER>(ER- 01 15</NER>
+<NER>(ESTCP</NER>
+<NER>(ESTF) to submit a semi-annual report to the congressional defense committees on the</NER>
+<NER>(FAA) Reauthorization : An</NER>
+<NER>(FCS) is a complex of information</NER>
+<NER>(Figure 2)</NER>
+<NER>(Figure 3). Finally, medians and ranges of</NER>
+<NER>(Figure 3). Hospitalization rates were higher</NER>
+<NER>(Figure 4). For example, at least 5 %</NER>
+<NER>(GOES), meteorological and</NER>
+<NER>(HODW) [ 7 ], derivative based updating (DBU) [ 8 ], and</NER>
+<NER>(HRA). If a soldier completed more than one HRA</NER>
+<NER>(HROV) Light Fiber Optic</NER>
+<NER>(IBCTs) as opposed to heavier FCS BCTs</NER>
+<NER>(IC), overseeing and directing the implementation of the National Intelligence Program</NER>
+<NER>(ICD- 9 -CM : 99 1.4), chilblains (ICD- 9 -CM : 99 1.5)</NER>
+<NER>(ICD- 9 -CM code 46 0 - 46 6) or"pneumonia</NER>
+<NER>(ICP), Ships Parts Control Center (SPCC), Mechanicsburg, PA.</NER>
+<NER>(IMIP) 
+ By 
+ <PER>Major Philip L. Cunningham</PER>, USA 
+ Foreign Military Sales (FMS) customers are often critical of the high cost and long lead time 
+ of weapon systems they have purchased. They are usually familiar with auditing and quality 
+ services and from time to time even request DOD services on their commercial contracts. DOD's 
+ Industrial Modernization Incentive Program (IMIP) is another important tool used to keep costs 
+ down, improve quality, and shorten lead time</NER>
+<NER>(IMIP) 
+ By 
+ <PER>Major Philip L. Cunningham</PER>,</NER>
+<NER>(IMIP</NER>
+<NER>(IO) TARGET DEVELOPMENT AND</NER>
+<NER>(ISAF), to which the United States contributes troops, and the separate U. S. -led OEF mission</NER>
+<NER>(JAWS</NER>
+<NER>(K</NER>
+<NER>(LOCO). I will work collaboratively with the investigators of this project to integrate my</NER>
+<NER>(MDDF) undertakes missions in support of the Maryland National Guard and the citizens of the state</NER>
+<NER>(MDNG?s) horse cavalry</NER>
+<NER>(MHEKF) creates a composite track where the</NER>
+<NER>(MOOTW), must recognize that the intermin- forces operating unilaterally or with</NER>
+<NER>(MSU) and the California Department of Forestry and Fire Protection (<PER>Cal Fire</PER>) joined forces to evaluate a range of</NER>
+<NER>(ManTech)</NER>
+<NER>(NAD) of ODC Turkey has played a major role in this modernization program. The construction</NER>
+<NER>(NAVOCEANO) historically have estimated roughness manually. This paper describes the development and</NER>
+<NER>(NAVOCEANO) obtain bottom clutter and roughness estimations for MIW directly from sidescan sonar</NER>
+<NER>(NAVSUP), acting as lead system command for security assistance,</NER>
+<NER>(NCDMM) was requested to evaluate and</NER>
+<NER>(NCO) by enabling authorized</NER>
+<NER>(NCO), troop ratios do not allow this beyond a very limited scope. Further, it has</NER>
+<NER>(NDBC) measure many environmental variables,</NER>
+<NER>(NIST) ; the A. l (MEAN) time scale of tlie</NER>
+<NER>(NOAA) / National Ocean Service (NOS) / Center</NER>
+<NER>(NWLP) whose backbone is the National Water</NER>
+<NER>(Nagel and Plambeck 19 98). Most prairie plants are perennial, storing the carbohydrates</NER>
+<NER>(OMB) issue a memorandum entitled ?Administration Research</NER>
+<NER>(OMB) survey standards. GAO</NER>
+<NER>(P. L.10 9 - 14 8, Title X), and the National Defense Authorization Act for FY 20 06 (P. L.10 9 - 16 3</NER>
+<NER>(PEPA) and the respective diamine was melted above 20 0 ' C for 1 hour to form</NER>
+<NER>(PLAN) because of both personal and professional reasons. My interest was first</NER>
+<NER>(POSTPRINT</NER>
+<NER>(PUBLISHED AS THE JOURNAL UNITED STATES ARTILLERY FRO"18 92 TO JUNE, 19 22</NER>
+<NER>(PUBLISHED AS THE JOURNAL UNITED STATES ARTILLERY FROM 18 92 TO JUNE, 19 22</NER>
+<NER>(PUBLISHED AS THE JOURNAL UNITED STATES ARTILLERY FROM 18 92 TO JUNE.19 22</NER>
+<NER>(Pa</NER>
+<NER>(Pd), and Probability of False Alarm (Pfa)</NER>
+<NER>(PeBl. ISHED AS THE JoeR"Al. U"'TED STATESARTIl. l. ERY FROM 18 92 TO JUNE, 19 22</NER>
+<NER>(Personnel and Readiness</NER>
+<NER>(PuBLISHED M THE JOURNAL UNITED STATES ARTILLERY FROM 18 92 TO JUNE.19 22</NER>
+<NER>(PuBUSHEO AS THE JOURNAL UNITED STATES ARTILLERY FIlOM 18 92 TO JUNE.1 ll 2</NER>
+<NER>(Publi 8 hed a 8 the Journal United State 8 Artillery from 18 92 to June, 19 22</NER>
+<NER>(Published as the Journal United States Artillery from 18 92 to June, 19 22</NER>
+<NER>(RD : 6.3 per 1, 00 0 p-yrs), neoplasms (RD : 3.7</NER>
+<NER>(Ret.)</NER>
+<NER>(SAF</NER>
+<NER>(SBR) systems. A candidate SBR system employing</NER>
+<NER>(SCADA) infrastructure. The implicit assumption is that</NER>
+<NER>(SOAP</NER>
+<NER>(SSC</NER>
+<NER>(SSI). Detecting clutter and determining roughness manually can be time consuming and could produce</NER>
+<NER>(Section 12 30, Public Law 11 0 - 18 1</NER>
+<NER>(Section 12 31, Public Law 11 0 - 18 1</NER>
+<NER>(Supplement to the FY 03 ? FY 07 Plan</NER>
+<NER>(TEAM), Spiral</NER>
+<NER>(Table 1). For example, between 20 01 and 20 05,</NER>
+<NER>(Table 1). The largest decreases in</NER>
+<NER>(Table 1)</NER>
+<NER>(Table 2). The most frequent diagnoses</NER>
+<NER>(Table 2)</NER>
+<NER>(The ROIM</NER>
+<NER>(U. PIV), infrared thermography (IRT) and high-speed-high-resolution imaging (HSHR). This</NER>
+<NER>(UAV) HOUCK AIRCRAFT DESIGN</NER>
+<NER>(UDDI</NER>
+<NER>(ULH) transmission systems are designed to transport systems back-to-back and adjusting the number</NER>
+<NER>(USC) policy to those who believe coproduction programs are overblown</NER>
+<NER>(UUV) master plan. Bluefin Robotics Corporation and</NER>
+<NER>(W 91 1 NF- 05 - 1 - 04 26) 
+ Final Report 
+ Prepared for : 
+ <PER>Dr. David Chris Arney</PER> 
+ US Army Research Office 
+ Research Triangle Park, NC 27 70 9 - 22 11 
+ Email : david. arney 1@us. army.</NER>
+<NER>(W 91 1 NF- 05 - 1 - 04 26</NER>
+<NER>(WHOI) Department of Applied Ocean Physics and</NER>
+<NER>(WRMR</NER>
+<NER>(WTO) in the Doha Development Agenda round of multilateral negotiations. Furthermore</NER>
+<NER>(a) Papers published in peer-reviewed journals (N / A for none</NER>
+<NER>(among other things). In general, the scientific</NER>
+<NER>(b) Papers published in non-peer-reviewed journals or in conference proceedings (N / A for none</NER>
+<NER>(c)</NER>
+<NER>(center) ensures that the key</NER>
+<NER>(change, 20 00 to 20 04 : + 11 hospitalizations ; + 3.6 %</NER>
+<NER>(change, 20 00 to 20 04 : - 2, 02 2 ; - 17.8 %),</NER>
+<NER>(components) at the geographic coordinates (latitude and longitude</NER>
+<NER>(d)</NER>
+<NER>(data not shown). Fort Wainwright (Alaska) had</NER>
+<NER>(e. g., Nevada, Lop Nor, Novaya Zemlya, Semipalatinsk, India, Pakistan, and North Korea). We show</NER>
+<NER>(figure 1). Among females, rates declined</NER>
+<NER>(figure 2)</NER>
+<NER>(http : / / www. dtic. mil)</NER>
+<NER>(i) Global Pressure Drop and Pressure</NER>
+<NER>(i) study local liquid and vapor velocities, wall temperatures and void fractions</NER>
+<NER>(if one was available) or the reportable event record</NER>
+<NER>(ii) establish global pressure drop and exit quality</NER>
+<NER>(iii) validate or modify a two-phase branching flow model to predict pressure drop and</NER>
+<NER>(includes numerous projects on fuel cells</NER>
+<NER>(iv) study uniformity of flow distribution within the fractal-like geometry</NER>
+<NER>(kg / m</NER>
+<NER>(km</NER>
+<NER>(lidar) and passive techniques. This aerosol study should be very beneficial to the Navy in the areas</NER>
+<NER>(m / s</NER>
+<NER>(n = 1, 33 6), and other cellulitis and abscess (n = 1, 29 1</NER>
+<NER>(n = 1, 39 5), and other cellulitis and abscess (n = 1, 19 3</NER>
+<NER>(n = 22)</NER>
+<NER>(n = 2, 35 7), affective psychoses (n = 1, 55 8)</NER>
+<NER>(n = 32 7, 53 5) and respiratory disorders (n = 19 5, 99 7</NER>
+<NER>(n = 75 4), affective psychoses (n = 61 3), and</NER>
+<NER>(n = 78), abdominal pain (n = 45), pneumonia (n = 31)</NER>
+<NER>(nearly simultaneous) attacks on a grid, which a</NER>
+<NER>(rate difference : 3.38 per 10 00 p-yrs ; rate ratio : 5.41</NER>
+<NER>(rate difference : 7.22 per 10 00 p-yrs ; rate ratio : 9.46)</NER>
+<NER>(something that is hard to define)</NER>
+<NER>(source : Military Entrance Processing Command,</NER>
+<NER>(supported by the Virology Laboratory,</NER>
+<NER>(table 1)</NER>
+<NER>(temperature and humidity) ; intensity of</NER>
+<NER>(to keep aircraft and aircrew out of harms way), and</NER>
+<NER>(typically 40 - 60 %). Divergent sets that represent the diversity of protein sequences in</NER>
+<NER>(which can include both the overcrowding of otherwise important information as well as unwanted data or noise)</NER>
+<NER>(www. nps. edu / ADSC), being supported by the U. S</NER>
+<NER>(.</NER>
+<NER>(</NER>
+<NER>) -</NER>
+<NER>).</NER>
+<NER>* 
+ <PER>David A. Lamb</PER> and <PER>David Gorsich</PER> 
+ US Army RDECOM / TARDEC 
+ <PER>Kyung K. Choi</PER>, <PER>Yoojeong Noh</PER>, and <PER>Ikjin Lee</PER> 
+ Department of Mechanical & Industrial Engineering, College of Engineering 
+</NER>
+<NER>* 
+ <PER>David A. Lamb</PER> and <PER>David Gorsich</PER> 
+ US Army RDECOM / TARDEC 
+ <PER>Kyung K. Choi</PER>, <PER>Yoojeong Noh</PER>, and <PER>Ikjin Lee</PER> 
+ Department of Mechanical & Industrial Engineering, College of</NER>
+<NER>* 
+ <PER>Michael Simini</PER>, <PER>Ronald T. Checkai</PER>, <PER>Jan E. Kolakowski</PER>, <PER>Roman G. Kuperman</PER>, 
+ <PER>Carlton T. Phillips</PER>, and <PER>Carl W. Kurnas</PER> 
+ U. S. Army Edgewood Chemical Biological Center (ECBC) 
+ Aberdeen Proving Ground, MD 21 01 0 - 54 24 USA 
+ ABSTRACT 
+ Ecological Soil Screening Levels (Eco-SSL)</NER>
+<NER>* 
+ <PER>Michael Simini</PER>, <PER>Ronald T. Checkai</PER>, <PER>Jan E. Kolakowski</PER>, <PER>Roman G. Kuperman</PER>, 
+ <PER>Carlton T. Phillips</PER>, and <PER>Carl W. Kurnas</PER> 
+ U. S. Army Edgewood Chemical Biological Center (ECBC) 
+ Aberdeen Proving Ground, MD 21 01 0 - 54 24</NER>
+<NER>* 
+ <PER>Ryan D. Tiaden</PER> F 
+ <PER>Oleg A. Yakimenko</PER> F</NER>
+<NER>* 
+ TIME TRANSFER 
+</NER>
+<NER>*) DFVLR =</NER>
+<NER>* *) SEL = Standard Elektrik Lorenz,</NER>
+<NER>* * Disclaimer : Reference herein to any specific commercial company, product, process, or service by trade name, trademark, manufacturer, or</NER>
+<NER>* *</NER>
+<NER>* + +</NER>
+<NER>* ?</NER>
+<NER>* Pan of the"Stephen R. Leone Festschrift"</NER>
+<NER>* SEARCH AND RESCUE OPERATIONS</NER>
+<NER>* This work was supported by US ARMY ? TARDEC under</NER>
+<NER>* UNCLASSIFIED</NER>
+<NER>* unmannedsystems@spawar. navy. mil ; tel : 61 9 - 55 3 - 07 07 ; fax : 61 9 - 55 3 - 61 88 ; www. spawar. navy. mil /</NER>
+<NER>* zkira@gatech. edu ; phone 1 (40 4) 89 4 - 93 11 ; http : / / www. cc. gatech. edu / ai / robot - lab</NER>
+<NER>*</NER>
+<NER>+ 
+ <PER>Benjamin Armstrong</PER>, <PER>Jesse Pentzer</PER>, <PER>Douglas Odell</PER> *, <PER>Thomas Bean</PER>, <PER>John Canning</PER>, <PER>Donald Pugsley</PER>, <PER>James Frenzel</PER> 
+ <PER>Michael Anderson</PER>, <PER>Dean Edwards</PER> 
+ * Acoustic Research Detachment, 33 96 4 N. Main Street, Bayview, ID 83 80 3 
+</NER>
+<NER>+ / - 10</NER>
+<NER>+ / - 25</NER>
+<NER>+ 1, 11 7 hospitalizations ; + 11.0 %), disorders of</NER>
+<NER>+ [ (l-i) + + N-l) ] y (O) &,</NER>
+<NER>+</NER>
+<NER>, oo 1</NER>
+<NER>,. r..</NER>
+<NER>- 1 + 32 N- 1</NER>
+<NER>- 2 + $ (2 N- 1) (9</NER>
+<NER>- 2, 83 2), mental disorders (20 05 versus 20 03 : - 1, 10 9)</NER>
+<NER>- 57.1 %), and musculoskeletal disorders (change, 20 0</NER>
+<NER>- Assess the impact of the interaction of predators with aggregations of prey animals on</NER>
+<NER>- Determine the scales of aggregation of acoustic scatterers in the coastal</NER>
+<NER>- Qualification for Land Vehicle Tires for Tire Privatization Initiative (TPI</NER>
+<NER>- Understand the role of predation in determining the scales of these</NER>
+<NER>- ] DISTRIBUTION STATEMENT F. Further dissemination only as directed</NER>
+<NER>- ] DISTRIBUTION STATEMENT C. Distribution authorized to U. S.</NER>
+<NER>- mm SAIL m- 
+ AMMmftauM. 
+ <PER>Barry R. Williams</PER> 
+ <PER>Melissa S. Hulet</PER> 
+ SCIENCE APPLICATIONS 
+ INTERNATIONAL CORPORATION 
+ A i an c Samuels 
+ <PER>Ronald W. Miles, Jr.</PER> 
+ RESEARCH AND TECHNOLOGY</NER>
+<NER>- or case by case, the analysis of the real effects produced by IM or MURAT</NER>
+<NER>- the transition of 1.1 or 1.2 munitions to 1.2 u. r, 1.3, 1.4 or 1.6 munitions, which</NER>
+<NER>-</NER>
+<NER>-Cooperative Approved Tire List (CATL</NER>
+<NER>-Product Description (ZZ-T- 39 1, ZZ-T- 41 0, ZZ-T- 16 19</NER>
+<NER>-SAE J 20 14 / Manufacturer?s Approved Part No</NER>
+<NER>-ourselves</NER>
+<NER>.". ---,,..... u : _ -........... -. -</NER>
+<NER>.05)</NER>
+<NER>.8.04 1.3 - 88 20 08 09 10 23</NER>
+<NER>. A material form of insurance against loss of life, liberty</NER>
+<NER>. NAVY IN THE 21 ST</NER>
+<NER>...... II</NER>
+<NER>.</NER>
+<NER>/ Polarizable Continuum</NER>
+<NER>/ ZfL ; k / h</NER>
+<NER>/ [ Q fcf-oM</NER>
+<NER>/. Understanding nanoparticle magnetic domain wall movement and its effect on</NER>
+<NER>/</NER>
+<NER>0 + (4 S) + CH 4 done in our group.4 Interestingly, these</NER>
+<NER>0 + (4 S) + NH, ('A,</NER>
+<NER>0 - 78 03 - 88 82 - 8 / 05 / $20.00 (C) 20 05</NER>
+<NER>0 - 93 33 95 7 - 31 -</NER>
+<NER>0 - 93 39 57 - 31 -</NER>
+<NER>0 -r - 2</NER>
+<NER>01 / 05 / 20 0</NER>
+<NER>05 April 20 0</NER>
+<NER>08 85 - 89 50 / 04 $20.00 ? 20 04</NER>
+<NER>0.02</NER>
+<NER>0.04 per 1, 00 0 p-yrs). Rates were higher</NER>
+<NER>0.0</NER>
+<NER>0.28 per 10 00 p-yrs ; male-to-female rate ratio : 1.07)</NER>
+<NER>0.3 per 1, 00 0 p-yrs), and respiratory disorders (RD</NER>
+<NER>0. <PER>M. Strayer</PER></NER>
+<NER>0.</NER>
+<NER>0</NER>
+<NER>1 %</NER>
+<NER>1) 11 3. Structural, chemical and dielectric properties of ceramic injection molded Ba (Zn 1 / 3 Ta 2 / 3) O 3 microwave dielectric ceramics</NER>
+<NER>1) ?Development and optimization of essential tools for the design of electromagnetic band gap filters?, Semiconductor</NER>
+<NER>1) A crustal and uppermost mantle velocity model was inferred from the travel times of the</NER>
+<NER>1) By measuring the irradiance field at high frequency we will be able to provide the</NER>
+<NER>1 * 11 12</NER>
+<NER>1 - 1</NER>
+<NER>1 -</NER>
+<NER>1 -Aug- 1</NER>
+<NER>1 -D simulations have shown that a target driven by a KrF laser can have a gain above 12 5 [ 1, 2 ]</NER>
+<NER>10 - 12 June 20 0</NER>
+<NER>10 -meter (discus-hull), and the 12 -meter (</NER>
+<NER>10 00 p-yrs ; male-to-female rate ratio : 1.31)</NER>
+<NER>10 00 s. The first two were procured in FY 20 07 using split funding (i. e.,</NER>
+<NER>10 0, 00 0 person-years) ; in contrast, the rate</NER>
+<NER>10 0</NER>
+<NER>10 12 5 Torino,</NER>
+<NER>10 1, 30</NER>
+<NER>10 3.</NER>
+<NER>10 9 - 36 6)), the International Covenant on Civil and Political Rights (ICCPR), and the</NER>
+<NER>10 March 20 0</NER>
+<NER>10, 00 3 (3</NER>
+<NER>10, 00</NER>
+<NER>10, 17 6 (2</NER>
+<NER>10, 24 6 (3</NER>
+<NER>10, 98 7 (2</NER>
+<NER>10.</NER>
+<NER>10</NER>
+<NER>11 * 2</NER>
+<NER>11 0 Vernon</NER>
+<NER>11 1 - 8)</NER>
+<NER>11 11 11 11 11 1</NER>
+<NER>11 11 11 11 1 ?? 11 1</NER>
+<NER>11 11 1</NER>
+<NER>11 11</NER>
+<NER>11 12 1</NER>
+<NER>11 1 ??? 11 11..11 11 11 11.</NER>
+<NER>11 1 th Congress, in its appropriation, authorization, and oversight roles may wish to review</NER>
+<NER>11 1</NER>
+<NER>11 23</NER>
+<NER>11 2</NER>
+<NER>11 5.</NER>
+<NER>11 7.</NER>
+<NER>11 99 XXXX)</NER>
+<NER>11 September 20 0</NER>
+<NER>11, 01 0 (2</NER>
+<NER>11, 20 09) provides no economic aid to Iraq with the exception of demining assistance.</NER>
+<NER>11.11</NER>
+<NER>11.</NER>
+<NER>11</NER>
+<NER>12 - 14 June 20 07, at</NER>
+<NER>12 - 40</NER>
+<NER>12 -Jan- 1</NER>
+<NER>12 / 2 / 20 08 6 : 42 : 56</NER>
+<NER>12 / 28 / 0</NER>
+<NER>12 0</NER>
+<NER>12 1</NER>
+<NER>12 23</NER>
+<NER>12 34 4</NER>
+<NER>12 34</NER>
+<NER>12 3</NER>
+<NER>12 February 20 0</NER>
+<NER>12 th</NER>
+<NER>12.75 ? Synthetic Aperture Sonar (SAS), High Resolution and Automatic</NER>
+<NER>12. DISTRIBUTION / AVAILABILITY STATEMENT.</NER>
+<NER>12.</NER>
+<NER>12</NER>
+<NER>13 8.</NER>
+<NER>13 June 20 0</NER>
+<NER>13 May 20 0</NER>
+<NER>13 th</NER>
+<NER>13. SUPPLEMENTARY NOTES. Enter information</NER>
+<NER>13.</NER>
+<NER>13</NER>
+<NER>14 - 18 July 20 03</NER>
+<NER>14 0</NER>
+<NER>14 1</NER>
+<NER>14 9, 52</NER>
+<NER>14, 94 6 (1</NER>
+<NER>14. ABSTRACT. A brief (approximately 20 0 words</NER>
+<NER>14. SUBJECT</NER>
+<NER>14.</NER>
+<NER>14</NER>
+<NER>15 -Dec- 1</NER>
+<NER>15 -May- 1</NER>
+<NER>15 -year civil war</NER>
+<NER>15 00</NER>
+<NER>15 2 mm</NER>
+<NER>15 and 24 years old, 1 the age range of</NER>
+<NER>15. NUMBER OF</NER>
+<NER>15. SUBJECT TERMS. Key words or phrases</NER>
+<NER>15</NER>
+<NER>16 0</NER>
+<NER>16 48 major powers have engaged in a full-scale the Nation in this interwar period must be</NER>
+<NER>16 November 20 0</NER>
+<NER>16, 73 2 (1</NER>
+<NER>16. PRICE CODE</NER>
+<NER>16. SECURITY CLASSIFICATION. Enter</NER>
+<NER>16.</NER>
+<NER>16</NER>
+<NER>17 - 18 April 20 0</NER>
+<NER>17 - 24 25 - 34 35 + Black Minority</NER>
+<NER>17 2.</NER>
+<NER>17 5 long-term, continuously operating water level</NER>
+<NER>17 5</NER>
+<NER>17 83 onward the United States has sent sizable ity as long as possible and being ready to</NER>
+<NER>17 June 20 0</NER>
+<NER>17, 77 8 (1</NER>
+<NER>17</NER>
+<NER>18 01 Maple Ave</NER>
+<NER>18 01 State Route 17 <PER>C Owego</PER>, NY 13 82 7 - 39 9</NER>
+<NER>18 01</NER>
+<NER>18 0</NER>
+<NER>18 1.</NER>
+<NER>18 3</NER>
+<NER>18 CROSSTALK The Journal of Defense Software</NER>
+<NER>18</NER>
+<NER>19 20 we have the plan for It structure which, if followed through</NER>
+<NER>19 31 10 1.</NER>
+<NER>19 49 Geneva Conventions......................................................................................................1</NER>
+<NER>19 78 - 1 - 42 44 - 26 22 - 5 / 09 / $25.00 ? 20 09</NER>
+<NER>19 79 as a department-level activity within the U. S.</NER>
+<NER>19 7</NER>
+<NER>19 88). Gentner describes a mental model as ` ` a</NER>
+<NER>19 8.</NER>
+<NER>19 90 - 19 9</NER>
+<NER>19 90 - 20 01</NER>
+<NER>19 90 to 19 97 compared to 19 98 to 20 01 (figure 1)</NER>
+<NER>19 91)</NER>
+<NER>19 94 - 20 0</NER>
+<NER>19 96) Army active duty personnel rosters (source :</NER>
+<NER>19 96. The initiative enables DOD</NER>
+<NER>19 97 - 19 9</NER>
+<NER>19 97 19 9</NER>
+<NER>19 97 through 20 00.3 This report extends</NER>
+<NER>19 97, there were 1, 43 7 hospitalizations of</NER>
+<NER>19 98 - 19 9</NER>
+<NER>19 98 - 20 00</NER>
+<NER>19 98 ; Nov 19 98</NER>
+<NER>19 99 - 20 0</NER>
+<NER>19 9</NER>
+<NER>19 refereed journal papers, 21 technical conference presentations / proceedings,</NER>
+<NER>19.</NER>
+<NER>19</NER>
+<NER>1 April 19 72 - 30 June 19 73 (U</NER>
+<NER>1 EXECUTIVE SUMMARY...............................................................................</NER>
+<NER>1 For detailed information about the three levels of the MEMS Qualification Badge see the MEMS Academy Handbook</NER>
+<NER>1 January 19 90 through 31 December 20 01.</NER>
+<NER>1 LT.0. <PER>M. Namoos</PER></NER>
+<NER>1 Leveraged by NASA LaRC IRAC Flight</NER>
+<NER>1 Mention of a trademark, vendor, or</NER>
+<NER>1 Research Scientist, ERC Inc. ; Ph.D Candidate, University of Michigan, Plasmadynamics and Electric</NER>
+<NER>1 Shock</NER>
+<NER>1 Title : Blood biochemistries following repeated days of First Strike Ration or Meal, Ready to Eat</NER>
+<NER>1 inch equals 2, 50 0</NER>
+<NER>1, 00 0 p-yrs), and mental disorders (RD : 3.2 per 1, 00</NER>
+<NER>1, 00 0 p-yrs), skin / subcutaneous tissue disorders (RD</NER>
+<NER>1, 04</NER>
+<NER>1, 05 1 (14</NER>
+<NER>1, 08</NER>
+<NER>1, 14</NER>
+<NER>1, 15</NER>
+<NER>1, 23</NER>
+<NER>1, 43</NER>
+<NER>1, 48</NER>
+<NER>1, 49</NER>
+<NER>1, 51</NER>
+<NER>1, 52</NER>
+<NER>1, 54 1 (13</NER>
+<NER>1, 54 3 (12</NER>
+<NER>1, 58 5 (11</NER>
+<NER>1, 66</NER>
+<NER>1, 81</NER>
+<NER>1, 89</NER>
+<NER>1, 93</NER>
+<NER>1, 95 8 (10</NER>
+<NER>1, 95</NER>
+<NER>1, 97</NER>
+<NER>1,</NER>
+<NER>1.0 EXECUTIVE SUMMARY................................................................................................</NER>
+<NER>1.0 EXECUTIVE SUMMARY................................................</NER>
+<NER>1.0 INTRODUCTION........................................................1 -</NER>
+<NER>1.0 INTRODUCTION.............................................................................................................</NER>
+<NER>1.0</NER>
+<NER>1.11 11 11.11 11.1</NER>
+<NER>1.1 : Strategic</NER>
+<NER>1.1 BACKGROUND...................................................1 -</NER>
+<NER>1.1 BACKGROUND.................................................................................................1 -</NER>
+<NER>1.1 Background...........................................................................................................................</NER>
+<NER>1.1 Background.....................................................................................................................</NER>
+<NER>1.1 Background.........................................................................................................</NER>
+<NER>1.1 Technology Transfer</NER>
+<NER>1.1</NER>
+<NER>1.2 : Key Elements of the</NER>
+<NER>1.2 OBJECTIVES OF THE DEMONSTRATION....................................................1 -</NER>
+<NER>1.2 OBJECTIVES.....................................................1 -</NER>
+<NER>1.2 Objectives of the Demonstration and Regulatory Drivers..............................................</NER>
+<NER>1.2 Objectives of the Demonstration..........................................................................................</NER>
+<NER>1.2 Scope...................................................................................................................</NER>
+<NER>1.2 x 10 ~"M cm-Vs.5 High level ah initio calculations on the</NER>
+<NER>1.2</NER>
+<NER>1.35</NER>
+<NER>1.3 APPROACH......................................................1 -</NER>
+<NER>1.3 Process................................................................................................................</NER>
+<NER>1.3 REGULATORY DRIVERS................................................................................1 -</NER>
+<NER>1.3 Regulatory Drivers................................................................................................................</NER>
+<NER>1.4 REPORT ORGANIZATION..........................................1 -</NER>
+<NER>1.4 STAKEHOLDER / END-USER ISSUES.............................................................1 -</NER>
+<NER>1.4 Stakeholder / End - User Issues................................................................................................</NER>
+<NER>1.4 Vision..................................................................................................................</NER>
+<NER>1.55 x 1</NER>
+<NER>1.5 Strategy...............................................................................................................</NER>
+<NER>1.6 Architectural Vectors..........................................................................................</NER>
+<NER>1.6.1 Multiple Phenomenologies.........................................................................</NER>
+<NER>1.6.2 Interchangeable Solutions...........................................................................</NER>
+<NER>1.6.3 Synergy of PNT with Communications......................................................</NER>
+<NER>1.6.4 Cooperative Organizational Structures.......................................................</NER>
+<NER>1.7 Architecture Recommendations..........................................................................</NER>
+<NER>1.8 Conclusion..........................................................................................................</NER>
+<NER>1.8 W / cm 2 and 2.6 W / cm 2. The inlet water temperature was fixed near 88 ? C. To study the influence of</NER>
+<NER>1. <PER>M. Costello</PER>, <PER>E. Beyer</PER>, ?Performance of a Projectile / Rotor Kinetic Energy Reduction System, ? AHS International Specialist Meeting</NER>
+<NER>1. <PER>M. V. Gurudev</PER> Dutt, <PER>Jun Cheng</PER>, <PER>Bo Li</PER>,</NER>
+<NER>1. Backseat-driver paradigm : A division between ?low-level? control and ?high-level? control on</NER>
+<NER>1. Be unclassified, approved for public release, distribution unlimited, and is exempt</NER>
+<NER>1. Be unclassified, approved public release, distribution unlimited, and is exempt from US export licensing and other export</NER>
+<NER>1. Be unclassified</NER>
+<NER>1. C 2 Concepts, Theory and</NER>
+<NER>1. Conduct research on historical topics pertinent to</NER>
+<NER>1. Engaging America?s</NER>
+<NER>1. Executive Summary</NER>
+<NER>1. Executive</NER>
+<NER>1. Facilitate better understanding and integration of desert tortoise science and its application to population estimates, habitat evaluation</NER>
+<NER>1. Facilitates Net-Centric</NER>
+<NER>1. I have reviewed the findings and recommendations of the assessment</NER>
+<NER>1. INTRODUCTION......................................................</NER>
+<NER>1. Introduction.................................................................................................................................</NER>
+<NER>1. Oda Y., <PER>F. W. Larimer</PER>, <PER>P. S. Chain</PER>, <PER>S. Malfatti</PER>, <PER>M. V. Shin</PER>, <PER>L. M., Vergez</PER>, <PER>L. Hauser</PER>, M</NER>
+<NER>1. People who have worked on the</NER>
+<NER>1. Prevent pirate attacks by reducing the vulnerability of the maritime domain to piracy...</NER>
+<NER>1. REPORT DATE. Full publication date, including 8. PERFORMING ORGANIZATION REPORT NUMBER</NER>
+<NER>1. Radar Sensor Network Using A New Triphase Coded Waveform : Theory and Application</NER>
+<NER>1. THE GPS SIGNAL</NER>
+<NER>1. To obtain sustained (nearly continuous) high temporal resolution measurements of</NER>
+<NER>1. To provide adequate personnel for the development</NER>
+<NER>1.</NER>
+<NER>1</NER>
+<NER>2) ?Realization of electromagnetic Band Gap Filters using advanced ceramic injection molding methods?, Semiconductor</NER>
+<NER>2). The phenomenological description of these"shadow-zone"arrivals was to be used to test the</NER>
+<NER>2). The system was designed and implemented by</NER>
+<NER>2 - IM AND</NER>
+<NER>2 -</NER>
+<NER>2 -D</NER>
+<NER>20 - 2</NER>
+<NER>20 00 - 20 05...............................................................................................</NER>
+<NER>20 00 - 20 0</NER>
+<NER>20 01). The optical measurements will be combined with physical measurements to improve</NER>
+<NER>20 01 were included. Two noncases were</NER>
+<NER>20 01, 20 03, and 20 0</NER>
+<NER>20 01. Cases were ascertained from reports to the from the preceding year (table 1)</NER>
+<NER>20 02 - 20 05....................................................................................................................................</NER>
+<NER>20 02, primary responsibility for</NER>
+<NER>20 03), which lacks flexibility during code generation process. As such, we use</NER>
+<NER>20 03). A bright corresponds to reflected acoustical energy, a shadow represents a lack of reflected energy, and</NER>
+<NER>20 03 and 50 % lower than in 19 96 (Figure 1)</NER>
+<NER>20 03. To date, about $49 billion has been appropriated for Iraq reconstruction. Most recently,</NER>
+<NER>20 04, the same categories of conditions were</NER>
+<NER>20 04</NER>
+<NER>20 05 - 20 06 and announced several new audits that reach to the core of IRRF</NER>
+<NER>20 05 Workplace and</NER>
+<NER>20 06, major force</NER>
+<NER>20 07 Workplace and</NER>
+<NER>20 07 and can be found on the</NER>
+<NER>20 08 05 02 08</NER>
+<NER>20 08 07 17 22</NER>
+<NER>20 08 09 10 25</NER>
+<NER>20 08 Access to</NER>
+<NER>20 08 Army Corrosion</NER>
+<NER>20 08, H. R. Rep. No.11 0 - 27 9, page 12 8, requests the Defense Energy Security Task</NER>
+<NER>20 08, there have been 28 events designated as NSSEs. Some of these events have</NER>
+<NER>20 09 03 19 17</NER>
+<NER>20 09 03 24 15</NER>
+<NER>20 09 03 25 27</NER>
+<NER>20 09 05 11 23</NER>
+<NER>20 09 06 24 19</NER>
+<NER>20 09 ?Go or No Go? Review.............................................................................................</NER>
+<NER>20 09 Review of</NER>
+<NER>20 09..............................................................................................................................................</NER>
+<NER>20 0</NER>
+<NER>20 76 South</NER>
+<NER>20 th</NER>
+<NER>20.</NER>
+<NER>20</NER>
+<NER>21 82 D- 11 68 0 (AUMS / SEG</NER>
+<NER>21 August 20 0</NER>
+<NER>21.</NER>
+<NER>21</NER>
+<NER>22 13</NER>
+<NER>22 September 20 0</NER>
+<NER>23 June 20 08 / Vol.16, No.13 / OPTICS EXPRESS 99 5</NER>
+<NER>23.</NER>
+<NER>23</NER>
+<NER>24 -hour air operations. Beginning</NER>
+<NER>24.</NER>
+<NER>24</NER>
+<NER>25 - 2</NER>
+<NER>25 3</NER>
+<NER>25 4 is brushed into the surface porosity of the</NER>
+<NER>25 7</NER>
+<NER>26 -Jan- 1</NER>
+<NER>26 -Mar- 1</NER>
+<NER>26.</NER>
+<NER>26</NER>
+<NER>27 5 -member Transitional Parliament was inaugurated in Kenya. In October 20 04,</NER>
+<NER>27.</NER>
+<NER>27</NER>
+<NER>28 -Oct- 1</NER>
+<NER>28 0</NER>
+<NER>28 8.</NER>
+<NER>28 April 20 0</NER>
+<NER>28 days or more after a previous diagnosis.</NER>
+<NER>28.</NER>
+<NER>28</NER>
+<NER>29 (9.9 %) were immersion-type, 9 (3.1 %) were</NER>
+<NER>29 1 (17</NER>
+<NER>29</NER>
+<NER>2 <PER>LT Brandon Eliason</PER></NER>
+<NER>2 <PER>LT Jessica H. Gilman</PER></NER>
+<NER>2 A job opportunities, and retains a system of post-certification audits of H - 2 A</NER>
+<NER>2 B regulations. The new rules became effective on January 17, 20 09. Under the</NER>
+<NER>2 GROUP</NER>
+<NER>2 IEEEAC paper # 16 84, Version 1, Updated 20 08 : 11 : 0</NER>
+<NER>2 INTRODUCTION...........................................................................................</NER>
+<NER>2 Leveraged by ARO, and transitioned to NPS for further use in USSOCOM supported TNT</NER>
+<NER>2 nd Annual Ground-Automotive Power & Energy</NER>
+<NER>2 tons / acre of live organic matter (biomass), and may easily exceed that given climatic</NER>
+<NER>2, 15 8 (9</NER>
+<NER>2, 17</NER>
+<NER>2, 36</NER>
+<NER>2, 44</NER>
+<NER>2, 50 05, 00</NER>
+<NER>2, 57 9 (7</NER>
+<NER>2, 99</NER>
+<NER>2.0 BACKGROUND : SOIL VAPOR EXTRACTION ENHANCEMENT TECHNOLOGIES.2 -</NER>
+<NER>2.0 PREVIOUS APPROACHES TO RFI RESPONSE AND</NER>
+<NER>2.0 TECHNOLOGY DESCRIPTION......................................................................................</NER>
+<NER>2.0 TECHNOLOGY DESCRIPTION...................................................................................</NER>
+<NER>2.0 TECHNOLOGY DESCRIPTION...........................................</NER>
+<NER>2.1 Background.........................................................................................................</NER>
+<NER>2.1 Optical Nonlinearities of Liquid Crystals and Neat Organic Liquids -</NER>
+<NER>2.1 Optical Nonlinearities of Liquid Crystals</NER>
+<NER>2.1 TECHNOLOGY BACKGROUND..................................</NER>
+<NER>2.1 TECHNOLOGY DEVELOPMENT AND APPLICATION...............................2 -</NER>
+<NER>2.1 TECHNOLOGY DEVELOPMENT AND APPLICATION..................................</NER>
+<NER>2.1 Technology Development and Application....................................................................</NER>
+<NER>2.1 Technology Developments and Application.........................................................................</NER>
+<NER>2.1 Text Search and Document</NER>
+<NER>2.1 hereby approve all the findings and recommendations except the</NER>
+<NER>2.1.1 Data Acquisition System Hardware...............................................................................</NER>
+<NER>2.1.1 Technology Background..........................................................................2 -</NER>
+<NER>2.1.1 Utility..........................................................................................................</NER>
+<NER>2.1.2 Architectural Need......................................................................................</NER>
+<NER>2.1.2 UX - Analyze Software....................................................................................................</NER>
+<NER>2.1.3 Related Efforts............................................................................................</NER>
+<NER>2.2 Factors Affecting Cost and Performance........................................................................</NER>
+<NER>2.2 Guidance and Direction....................................................................................1</NER>
+<NER>2.2 Nonlinear nematic liquid crystals - Enhanced</NER>
+<NER>2.2 PREVIOUS TESTING OF THE TECHNOLOGY.............................................2 -</NER>
+<NER>2.2 PROCESS DESCRIPTION....................................................................................</NER>
+<NER>2.2 Previous Testing of the Technology.....................................................................................</NER>
+<NER>2.2 THEORY OF OPERATION.........................................</NER>
+<NER>2.2.1 UX - Analyze...................................................................................................................</NER>
+<NER>2.2.2 Characterization Modules..............................................................................................</NER>
+<NER>2.2.3 Classification Module....................................................................................................</NER>
+<NER>2.2.4 Data Analysis Documentation.......................................................................................</NER>
+<NER>2.3 ADVANTAGES AND LIM ITATIONS OF EM SURVEYS...............</NER>
+<NER>2.3 Extremely nonlinear multi-photon absorbing neat organic</NER>
+<NER>2.3 FACTORS AFFECTING COST AND PERFORMANCE.................................2 -</NER>
+<NER>2.3 Factors Affecting Cost and Performance..............................................................................</NER>
+<NER>2.3 PREVIOUS TESTING OF THE TECHNOLOGY................................................</NER>
+<NER>2.3 Participants........................................................................................................1</NER>
+<NER>2.4 ADVANTAGES AND LIMITATIONS OF THE TECHNOLOGY...................2 -</NER>
+<NER>2.4 ADVANTAGES AND LIMITATIONS OF THE TECHNOLOGY......................</NER>
+<NER>2.4 Advantages and Limitations of the Technology.................................................................1</NER>
+<NER>2.4 Longer Time Scale [ microseconds - CW ] Optical Limiting Actions 1</NER>
+<NER>2.4 Methodology.....................................................................................................1</NER>
+<NER>2.4 million tons of cargo to</NER>
+<NER>2.4.1 Data Gathering..........................................................................................1</NER>
+<NER>2.4.2 Concept Development...............................................................................1</NER>
+<NER>2.4.2.1 Architectural Trade Space.....................................................................1</NER>
+<NER>2.4.2.1.1 Trade Axes......................................................................................1</NER>
+<NER>2.4.2.1.2 Architectural Concepts....................................................................1</NER>
+<NER>2.4.2.2 Representative Architectures................................................................1</NER>
+<NER>2.4.2.3 Hybrid Architectures.............................................................................1</NER>
+<NER>2.4.3 Development of Recommendations..........................................................1</NER>
+<NER>2. Publish-Subscribe Middleware : The term ?middleware? here refers to the architecture software</NER>
+<NER>2. <PER>Schaefer, A. L.</PER>, E. P. <PER>Greenberg, C. M.</PER> <PER>Oliver, Y. Oda, J.</PER> J. <PER>Huang, G. Bittan-Banin, C.</PER> M</NER>
+<NER>2. ANALYSIS OF MICRO-DOPPLER</NER>
+<NER>2. Assessment Tools and</NER>
+<NER>2. Empowering the interagency</NER>
+<NER>2. Enhance the integration of science with management and policy ;</NER>
+<NER>2. Ensures that GIG capabilities can</NER>
+<NER>2. First Author (et ai) : <PER>Matthew R. Ely</PER>, <PER>Susan M. McGraw</PER>, <PER>Brent C. Ruby</PER>, <PER>John S. Cuddy</PER>. <PER>Dustin Slivka,/PER>. <PER>Jennifer</PER> Rood, <PER>Scott J. Montain</PER></NER>
+<NER>2. Include MORS Form 71 2 CD as the first page of the presentation</NER>
+<NER>2. Include</NER>
+<NER>2. Interrupt and terminate acts of piracy consistent with international law and the</NER>
+<NER>2. Long term behaviour of the UTC (1 EN) time</NER>
+<NER>2. Prepare and present instruction in military history</NER>
+<NER>2. RELATED WORK...................................................</NER>
+<NER>2. RELATED</NER>
+<NER>2. REPORT TYPE. State the type of report, such as NAME (S</NER>
+<NER>2. Synthesis ofhigh resistivity softferrite nanoparticles for low loss RFpolymer composites</NER>
+<NER>2. Technical Accomplishments - Narrative</NER>
+<NER>2. Technical accomplishments-</NER>
+<NER>2. Technology Description..............................................................................................................</NER>
+<NER>2. To obtain sustained (nearly continuous) high temporal resolution of IOPs and AOPs [</NER>
+<NER>2. To provide the necessary personnel for the overhead of</NER>
+<NER>2. include MORS</NER>
+<NER>2.</NER>
+<NER>2</NER>
+<NER>3) ?Investigation of the influence of point defects and microstructure on the high field properties of practical ferroelectric materials?,</NER>
+<NER>30 - 3</NER>
+<NER>30 00.05, Military Support for Stability, Security, Transition, and Reconstruction (SSTR</NER>
+<NER>30 5 th Communications Squadron (<PER>Kenn Mann</PER></NER>
+<NER>30 7 (16</NER>
+<NER>30 BAY</NER>
+<NER>30 SEPTEMBER 19 7</NER>
+<NER>30 cases of culture proven Mycobacterium tuberculosis were treated at WRAMC in 19 92, 17 cases in 19 93</NER>
+<NER>30.</NER>
+<NER>30</NER>
+<NER>31 97 4 K 71 70 41 4 - 1</NER>
+<NER>31 May 20 0</NER>
+<NER>31.</NER>
+<NER>31</NER>
+<NER>32 1</NER>
+<NER>32 nd AIAA / ASME / SAE /</NER>
+<NER>33 00 Russell</NER>
+<NER>33 9</NER>
+<NER>33.</NER>
+<NER>33</NER>
+<NER>34 5</NER>
+<NER>34</NER>
+<NER>35 - 3</NER>
+<NER>35 50 Aberdeen Ave</NER>
+<NER>35</NER>
+<NER>36</NER>
+<NER>37.</NER>
+<NER>37</NER>
+<NER>38.</NER>
+<NER>39.</NER>
+<NER>39</NER>
+<NER>3 D underwater imaging using vector acoustic</NER>
+<NER>3 Leveraged by AFRL WP / Boeing under CerTA FCS</NER>
+<NER>3 Navy Entomological Center of Excellence, Box 43</NER>
+<NER>3, 02 6 (8</NER>
+<NER>3, 11 0 (7</NER>
+<NER>3, 30 1 (7</NER>
+<NER>3,</NER>
+<NER>3.0 AIR SPARGING.........................................................3 -</NER>
+<NER>3.0 DEMONSTRATION DESIGN..........................................................................................</NER>
+<NER>3.0 DEMONSTRATION DESIGN........................................................................................</NER>
+<NER>3.1 Experimental Design.......................................................................................................</NER>
+<NER>3.1 PERFORMANCE OBJECTIVES..........................................................................</NER>
+<NER>3.1 Performance Objectives......................................................................................................1</NER>
+<NER>3.1 TECHNOLOGY OVERVIEW.........................................3 -</NER>
+<NER>3.1 also direct the MEDCOM Staff Judge Advocate to make appropriate</NER>
+<NER>3.2 APPLICABILITY..................................................3 -</NER>
+<NER>3.2 Sampling Plan.................................................................................................................</NER>
+<NER>3.2 Selecting Test Sites.............................................................................................................1</NER>
+<NER>3.2 TEST SITE / FACILITY HISTORY / CHARACTERISTICS................................1</NER>
+<NER>3.2.1 Groundwater Sampling...............................................................................................</NER>
+<NER>3.2.2 Permeability Testing...................................................................................................</NER>
+<NER>3.2.3 Demobilization............................................................................................................</NER>
+<NER>3.3 ENGINEERING DESCRIPTION.......................................3 -</NER>
+<NER>3.3 PHYSICAL SETUP OPERATION......................................................................1</NER>
+<NER>3.3 Selection of Analytical / Testing Methods........................................................................</NER>
+<NER>3.3 Test Site History / Characteristics.........................................................................................1</NER>
+<NER>3.3.1 Air Flow Within the Subsurface..................................3 -</NER>
+<NER>3.3.2 Equipment Requirements and Operational Parameters.................3 -</NER>
+<NER>3.3.2.1 Air Sparging Wells and Probes............................3 -</NER>
+<NER>3.3.2.2 Manifolds, Valves, and Instrumentation....................3 - 1</NER>
+<NER>3.3.2.3 Air Compressor or Blower...............................3 - 1</NER>
+<NER>3.3.3 Monitoring of System Performance..............................3 - 1</NER>
+<NER>3.4 PERFORMANCE AND COST ANALYSIS.............................3 - 1</NER>
+<NER>3.4 Present Operations..............................................................................................................1</NER>
+<NER>3.4 SAMPLING / MONITORING PROCEDURES....................................................1</NER>
+<NER>3.4.1 Performance................................................3 - 1</NER>
+<NER>3.4.1.1 U. S. Department of Energy</NER>
+<NER>3.4.1.2 Toluene Remediation at a Former Industrial Facility...........3 - 1</NER>
+<NER>3.4.1.3 Electro-Voice, Inc., Demonstration Site.....................3 - 1</NER>
+<NER>3.4.2 Cost Analysis...............................................3 - 1</NER>
+<NER>3.4.2.1 Cost for Department of Energy-Patented In</NER>
+<NER>3.4.2.2 Cost for Subsurface Volatilization Ventilation System.........3 - 2</NER>
+<NER>3.5 ANALYTICAL PROCEDURES..........................................................................1</NER>
+<NER>3.5 Pre - Demonstration Testing and Analysis...........................................................................1</NER>
+<NER>3.5 VENDORS...................................................3. -.2.1</NER>
+<NER>3.5.1 Demonstration Set-Up and Start-Up........................................................3 -</NER>
+<NER>3.5.2 Period of Operation and Area Characterized...........................................3 -</NER>
+<NER>3.5.3 Site Conditions Affecting Data Collection..............................................3 -</NER>
+<NER>3.5.4 Demobilization.........................................................................................3 -</NER>
+<NER>3.6 STRENGTHS AND LIMITATIONS.................................3. -.2</NER>
+<NER>3.6 Testing and Evaluation Plan...............................................................................................1</NER>
+<NER>3.6.1 Demonstration Set - up and Start - up..............................................................................1</NER>
+<NER>3.6.2 Period of Operation......................................................................................................1</NER>
+<NER>3.6.3 Area characterized or Remediated...............................................................................1</NER>
+<NER>3.7 RECOMMENDATIONS.........................................3. -.2.</NER>
+<NER>3.7 times higher among females than males (</NER>
+<NER>3.7.1 Data Collection........................................................................................3 -</NER>
+<NER>3.7.2 Safety Issues.............................................................................................3 -</NER>
+<NER>3.7.3 Data Processing Steps..............................................................................3 -</NER>
+<NER>3.7.4 Processing Lidar Points to Create Seamless Surface Models................3 - 1</NER>
+<NER>3.7</NER>
+<NER>3.8 REFERENCES................................................3 -.2.3</NER>
+<NER>3. Cognitive and Social</NER>
+<NER>3. DATES COVERED (From - To</NER>
+<NER>3. DATES COVERED. Indicate the time during</NER>
+<NER>3. Demonstration Design..............................................................................................................1</NER>
+<NER>3. Development of a procedure for fabrication and processing of polymer</NER>
+<NER>3. Ensure that those who commit acts of piracy are held accountable for their actions</NER>
+<NER>3. Equipping for an information-based</NER>
+<NER>3. Have an approved MORS form 71 2 A / B</NER>
+<NER>3. Have an</NER>
+<NER>3. INDEPENDENT COMPONENT DECOMPOSITION</NER>
+<NER>3. PERFORMANCE MONITORING SOFTWARE...........</NER>
+<NER>3. Serve as the U. S. Army Training and</NER>
+<NER>3. Through the use of information science technologies - including knowledge management, data discovery, modeling and</NER>
+<NER>3. To obtain sustained (nearly continuous) high temporal resolution measurements of</NER>
+<NER>3. To provide an adequate, organized, balanced and</NER>
+<NER>3. a MORS form 71 2 A or be in the MORS Office no later than 14 June 20 07</NER>
+<NER>3.</NER>
+<NER>3</NER>
+<NER>4"</NER>
+<NER>4) ?Development and optimization of essential tools for the design of electromagnetic Band Gap Filters?, Semiconductor</NER>
+<NER>4 -Airmen? design, and the opportunity to execute $74 7.6 M in other</NER>
+<NER>40 % higher than among males</NER>
+<NER>40 % of active duty soldiers</NER>
+<NER>40 - 4</NER>
+<NER>40 0 Army Navy Drive (Room 80 1</NER>
+<NER>40</NER>
+<NER>41.</NER>
+<NER>43 2 - 92 3</NER>
+<NER>43 3 MHz (X = 69.28 cm) and 86 8 MHz (X = 34.56 cm) was measured</NER>
+<NER>43.</NER>
+<NER>44 5 DEAD INDIAN MEMORIAL</NER>
+<NER>44.</NER>
+<NER>45 55 Overlook Ave</NER>
+<NER>45 55 Overlook Avenue,</NER>
+<NER>45.</NER>
+<NER>45</NER>
+<NER>46</NER>
+<NER>47 D) without added PRL. In an effort to evaluate the individual roles of the different ? S 2</NER>
+<NER>47 D cells</NER>
+<NER>48</NER>
+<NER>49.</NER>
+<NER>49</NER>
+<NER>4 CROSSTALK The Journal of Defense Software</NER>
+<NER>4 DESIGN</NER>
+<NER>4 H n + 76</NER>
+<NER>4 Leveraged by NASA LaRC under Sensorcraft project of Air</NER>
+<NER>4, 08 0 (6</NER>
+<NER>4, 65 7 (6</NER>
+<NER>4, 82 9 (6</NER>
+<NER>4.0 DUAL-PHASE EXTRACTION...........................................4. -.1</NER>
+<NER>4.0 PERFORMANCE ASSESSMENT..................................................................................1</NER>
+<NER>4.0 PERFORMANCE ASSESSMENT.................................................................................</NER>
+<NER>4.1 Groundwater Hydraulics.................................................................................................</NER>
+<NER>4.1 PERFORMANCE DATA.....................................................................................1</NER>
+<NER>4.1 Performance Criteria...........................................................................................................2</NER>
+<NER>4.1 TECHNOLOGY OVERVIEW.......................................4 -.1</NER>
+<NER>4.2 APPLICABILIT Y...............................................4 -.2.</NER>
+<NER>4.2 Longevity of the Oil Emulsion.....................................................................................1</NER>
+<NER>4.2 PERFORMANCE CRITERIA.............................................................................1</NER>
+<NER>4.2 Performance Confirmation Methods...................................................................................2</NER>
+<NER>4.2.1 Contaminant Propser. t. ie.....................................4 -.2</NER>
+<NER>4.2.2 Contaminant Phsas. e.......................................4. -.3</NER>
+<NER>4.2.3 Soil Characterisst. ic........................................4. -.4</NER>
+<NER>4.3 DATA ASSESSMENT.........................................................................................1</NER>
+<NER>4.3 Data Analysis, Interpretation, and Evaluation....................................................................2</NER>
+<NER>4.3 ENGINEERING DESCRIPTION.....................................4. - 5</NER>
+<NER>4.3 Long-term Effectiveness of the EOS ? PRB..................................................................1</NER>
+<NER>4.3.11. Pilot Testign........................................4 -.5</NER>
+<NER>4.3.12. Extraction Well Densi. g...............................4. -.</NER>
+<NER>4.3.13. Extraction Equipment Dne. s. ig...........................4. -</NER>
+<NER>4.3.14. System Monitogri. n...................................4. - 9</NER>
+<NER>4.3.1 Dual-Phase Extraction SystemnD. e. s. i. g.........................4. -</NER>
+<NER>4.3.1 Geophysical Prove Out (GPO).....................................................................................2</NER>
+<NER>4.3.1 Perchlorate................................................................................................................1</NER>
+<NER>4.3.1 Vial Measurements...................................................................................1</NER>
+<NER>4.3.1.1 Upgradient Monitor Wells................................................................................1</NER>
+<NER>4.3.1.2 Injection Wells..................................................................................................1</NER>
+<NER>4.3.1.3 Downgradient Monitor Wells...........................................................................1</NER>
+<NER>4.3.1.4 Mass Removal and Discussion.........................................................................1</NER>
+<NER>4.3.21. Drop-Tube Entrainment Extnra. ct. i. o......................4 -</NER>
+<NER>4.3.22. Well-Screen Entraintm. e. n.............................4. - 1</NER>
+<NER>4.3.2 Flow-Through Cell Measurements...........................................................1</NER>
+<NER>4.3.2 CT- 3 A Survey Area.....................................................................................................2</NER>
+<NER>4.3.2 Chlorinated Ethanes..................................................................................................2</NER>
+<NER>4.3.2 Dual-Phase Extraction System Charasc. t. e. ri. s. ti. c..................4 -</NER>
+<NER>4.3.2.1 Upgradient Monitor Wells................................................................................2</NER>
+<NER>4.3.2.2 Injection Wells..................................................................................................2</NER>
+<NER>4.3.2.3 Downgradient Monitor Wells...........................................................................2</NER>
+<NER>4.3.2.4 TCA Chlorine Number.....................................................................................2</NER>
+<NER>4.3.2.5 Mass Removal...................................................................................................2</NER>
+<NER>4.3.3 Chlorinated Ethenes..................................................................................................2</NER>
+<NER>4.3.3 Qualitative Metrics.......................................................................................................4</NER>
+<NER>4.3.3.1 Upgradient Monitor Wells................................................................................2</NER>
+<NER>4.3.3.2 Injection Wells..................................................................................................2</NER>
+<NER>4.3.3.3 Downgradient Monitor Wells...........................................................................3</NER>
+<NER>4.3.3.4 PCE Chlorine Number......................................................................................3</NER>
+<NER>4.3.4 Biogeochemical Parameters ? Competing Electron Acceptors................................3</NER>
+<NER>4.3.4 Discussion....................................................................................................................4</NER>
+<NER>4.3.4.1 Dissolved Oxygen.............................................................................................3</NER>
+<NER>4.3.4.2 Nitrate...............................................................................................................3</NER>
+<NER>4.3.4.3 Sulfate...............................................................................................................3</NER>
+<NER>4.3.4.4 Iron and Manganese..........................................................................................3</NER>
+<NER>4. Be turned into the MORS office no later than : DEADLINE : 14 June 20 07 (</NER>
+<NER>4. Be turned into</NER>
+<NER>4. Be turned</NER>
+<NER>4. EVALUATION OF ROBOT PERFORMANCE.............</NER>
+<NER>4. Facilitating audience</NER>
+<NER>4. Performance Assessment..........................................................................................................2</NER>
+<NER>4. Personnel supported --</NER>
+<NER>4. TITLE AND</NER>
+<NER>4. TITLE. Enter title and subtitle with volume number 11. SPONSOR / MONITOR'S REPORT NUMBER (S)</NER>
+<NER>4. To obtain sustained (nearly continuous) high temporal and vertical resolution measurements</NER>
+<NER>4. To provide adequate peace garrisons for the coast</NER>
+<NER>4. Understanding the influence of magnetic particle orientation within polymer</NER>
+<NER>4.</NER>
+<NER>4</NER>
+<NER>5) ?Investigation of the influence of point defects and microstructure on the high field properties of practical ferroelectric materials?,</NER>
+<NER>50 th</NER>
+<NER>51</NER>
+<NER>52</NER>
+<NER>54</NER>
+<NER>56 0 - 56 9.2 Deaths of servicemembers</NER>
+<NER>56 00 US 1 North, Ft. Pierce, FL 34 94</NER>
+<NER>57 20 Integrity Drive ? Millington, Tennessee 38 05 5 - 10 00 ? www. nprst. navy.</NER>
+<NER>58). At MTF A, between January 19 90 and</NER>
+<NER>58.</NER>
+<NER>59.</NER>
+<NER>5 ADAPCO, 28 00 South Financial Court, Sanford,</NER>
+<NER>5 a. CONTRACT NUMBER. Enter all contract</NER>
+<NER>5 a. CONTRACT</NER>
+<NER>5 b.</NER>
+<NER>5 c. PROGRAM ELEMENT NUMBER. Enter</NER>
+<NER>5 c. PROGRAM ELEMENT</NER>
+<NER>5 d. PROJECT NUMBER. Enter all project numbers as included elsewhere such as : prepared in</NER>
+<NER>5 d. PROJECT</NER>
+<NER>5 e. TASK NUMBER. Enter all task numbers as</NER>
+<NER>5 f. WORK UNIT NUMBER. Enter all work</NER>
+<NER>5.1 Cost Reporting....................................................................................................................4</NER>
+<NER>5.5</NER>
+<NER>5. Construction and evaluation of nanocomposite antenna performance. An inverted</NER>
+<NER>5. Cost Assessment.......................................................................................................................4</NER>
+<NER>5. DISCUSSION...........................................................</NER>
+<NER>5. List of Refereed Journal Publications</NER>
+<NER>5. To provide adequate garrisons in peace and war for</NER>
+<NER>5.</NER>
+<NER>5</NER>
+<NER>6 -May- 1</NER>
+<NER>60 0 g of the resin was injected at 1.38 MPa and then cured at 37 1 ' C for 2 hours. The</NER>
+<NER>60 5</NER>
+<NER>60</NER>
+<NER>62</NER>
+<NER>63 7</NER>
+<NER>63.</NER>
+<NER>63</NER>
+<NER>64.7</NER>
+<NER>65</NER>
+<NER>67</NER>
+<NER>68</NER>
+<NER>6 th Annual</NER>
+<NER>6, 08 6 (5</NER>
+<NER>6, 23 5 (4</NER>
+<NER>6, 32 0 (5</NER>
+<NER>6, 99 0 (5</NER>
+<NER>6.1 End - Users Issues.................................................................................................................4</NER>
+<NER>6. AUTHOR (S). Enter name (s) of person (s</NER>
+<NER>6. AUTHOR (S</NER>
+<NER>6. Conference Presentations</NER>
+<NER>6. FUTURE WORK......................................................</NER>
+<NER>6. Implementation Issues..............................................................................................................4</NER>
+<NER>6.</NER>
+<NER>6</NER>
+<NER>7 - 57 0</NER>
+<NER>70 3 (15</NER>
+<NER>70.</NER>
+<NER>71 2 A / B. If</NER>
+<NER>71 2 A /</NER>
+<NER>71 2</NER>
+<NER>71.</NER>
+<NER>71</NER>
+<NER>72.</NER>
+<NER>73 5.</NER>
+<NER>74</NER>
+<NER>75 32 plain weave glass fabric and Dow Chemical's Derakane 41 1 - 35 0 vinyl ester resin.</NER>
+<NER>75</NER>
+<NER>76</NER>
+<NER>77.</NER>
+<NER>78 00 HAMPTON BOULEVARD ? NORFOLK, VIRGINIA 23 51 1 - 17 0</NER>
+<NER>78 4 - 35 4</NER>
+<NER>78.</NER>
+<NER>7 ? / 45 ? buttress threads out-of-tolerance from</NER>
+<NER>7 fit VISAM Journal, Spring 19 9</NER>
+<NER>7, 05 2 (4</NER>
+<NER>7, 39 8 (4</NER>
+<NER>7. CONCLUSIONS.....................................................1</NER>
+<NER>7. Invention Disclosure and Book</NER>
+<NER>7. References.................................................................................................................................4</NER>
+<NER>7.</NER>
+<NER>7</NER>
+<NER>80 % of the IRRF has been obligated and it also directed the SIGIR to report on</NER>
+<NER>80 1</NER>
+<NER>80 6 - 53 8</NER>
+<NER>80 6 - 57 2</NER>
+<NER>80 JFQ / Winter 19 93 ? 9</NER>
+<NER>81</NER>
+<NER>83.</NER>
+<NER>85.</NER>
+<NER>86</NER>
+<NER>87 25 John J. Kingman Rd., Fort Belvoir,</NER>
+<NER>87 25 John J. Kingman Rd., Suite # 09 4</NER>
+<NER>87 25 John J. Kingman Rd</NER>
+<NER>87 25</NER>
+<NER>87 5</NER>
+<NER>87.</NER>
+<NER>8, 89 4 (3</NER>
+<NER>8.8</NER>
+<NER>8. ACKNOWLEDGEMENTS.......................................1</NER>
+<NER>8. Points of Contact.......................................................................................................................5</NER>
+<NER>8. Technology Transfer - Interactions with DOD</NER>
+<NER>8.</NER>
+<NER>8</NER>
+<NER>9 / 1 / 05 - 8 / 20 / 0</NER>
+<NER>9 / 11 ERA : INTEGRATING THE EFFECTS</NER>
+<NER>9 / 30 / 07 - 9 / 30 / 0</NER>
+<NER>90 - 17 7</NER>
+<NER>91 9 - 43 3 - 24 0</NER>
+<NER>91.</NER>
+<NER>94 JFQ / Spring / Summer 20 0</NER>
+<NER>95 % confidence</NER>
+<NER>95.</NER>
+<NER>95</NER>
+<NER>96 00 BAUD</NER>
+<NER>96</NER>
+<NER>98</NER>
+<NER>99 2.0 - 99 2.9). If more than one source documented</NER>
+<NER>9 th revision, clinical modifications). Records</NER>
+<NER>9 th revision, codes 48 0 - 48 7) or a principal diagnosis of"acute respiratory infection", e. g. pharyngitis</NER>
+<NER>9.21 x 1</NER>
+<NER>9.8</NER>
+<NER>9. Graduate</NER>
+<NER>9. SPONSORING / MONITORING</NER>
+<NER>9.</NER>
+<NER>9</NER>
+<NER>; I I</NER>
+<NER>; { L - +</NER>
+<NER>;.</NER>
+<NER>;</NER>
+<NER>< 1</NER>
+<NER>< 2</NER>
+<NER></NER>
+<NER><</NER>
+<NER>A COST-EFFECTIVENESS ANALYSIS OF</NER>
+<NER>A FRL-RW-EG-TR- 20 09 - 70 2</NER>
+<NER>A High Resolution, Light-Weight, Synthetic Aperture Radar for UAV Application (U</NER>
+<NER>A NEW APPROACH TO ASSESSMENT AND DESIGN OF INSENSITIVE MUNITIONS</NER>
+<NER>A NEW EXPLOSIVES ACCIDENT</NER>
+<NER>A Non-Invasive Approach to Assertive and</NER>
+<NER>A POINT SPREAD</NER>
+<NER>A Raman Spectroscopy and Ab Initio</NER>
+<NER>A Stock Propeller Design for the High Speed</NER>
+<NER>A TIME SCALE ALGORITHM</NER>
+<NER>A Time for</NER>
+<NER>A Two-Sided Optimization for</NER>
+<NER><PER>A. B. Kara</PER>, ' <PER>A. J. Wallcraft</PER>, ' <PER>P. J. Martin</PER>, ' and <PER>E. P. Chassignel</PER> ? 
+ Received I April 20 07 ; revised 27 August 20 07 ; accepted 8 October 20 07 ; published 23 February 20 08</NER>
+<NER><PER>A. B. Kara</PER>, ' <PER>A. J. Wallcraft</PER>, ' <PER>P. J. Martin</PER>, ' and <PER>E. P. Chassignel</PER></NER>
+<NER><PER>A. Birol Kara</PER> 3 *, <PER>Alan J. Wallcraft</PER> a, <PER>Harley E. Hurlburt</PER> a, <PER>E. V. Stanev</PER> b, l 
+"Oceanography Division, Naval Research Laboratory. Slennis Space Center, MS. USA 
+ '' ICBM- Physical Oceanography, University of Oldenburg, Oldenburg, Germany 
+ Available online 8 December 20 0</NER>
+<NER><PER>A. Birol Kara</PER> 3 *, <PER>Alan J. Wallcraft</PER> a, <PER>Harley E. Hurlburt</PER> a, <PER>E. V. Stanev</PER> b, l 
+"Oceanography Division, Naval Research Laboratory. Slennis Space Center, MS. USA 
+ '' ICBM- Physical Oceanography, University of Oldenburg, Oldenburg,</NER>
+<NER><PER>A. Birol Kara</PER> 3 *, <PER>Alan J. Wallcraft</PER> a, <PER>Harley E. Hurlburt</PER> a, <PER>E. V. Stanev</PER> b,</NER>
+<NER><PER>A. Harmegnies</PER>, <PER>G. Panfilo</PER>, and <PER>E. F. Arias</PER> 
+ International Bureau of Weights and Measures (BIPM) 
+ Pavillon de Breteuil F- 92 31 2 S ? vres Cedex, France 
+ Associated astronomer at Paris Observatory, France 
+ E-mail : aharmeg@bipm. org, gpanfilo@bipm. org, farias@bipm.</NER>
+<NER><PER>A. Harmegnies</PER>, <PER>G. Panfilo</PER>, and <PER>E. F. Arias</PER> 
+ International Bureau of Weights and Measures (BIPM) 
+ Pavillon de Breteuil F- 92 31 2 S ? vres Cedex, France 
+ E-mail : aharmeg@bipm. org, gpanfilo@bipm. org, farias@bipm. org 
+</NER>
+<NER><PER>A. Harmegnies</PER>, <PER>G. Panfilo</PER>, and <PER>E. F. Arias</PER> 
+ International Bureau of Weights and Measures (BIPM) 
+ Pavillon de Breteuil F- 92 31 2 S ? vres Cedex, France 
+ E-mail : aharmeg@bipm. org, gpanfilo@bipm. org, farias@bipm.</NER>
+<NER><PER>A. Harmegnies</PER>, <PER>G. Panfilo</PER>, and <PER>E. F. Arias</PER> 
+ International Bureau of Weights and Measures (BIPM) 
+ Pavillon de Breteuil F- 92 31 2 S ? vres Cedex,</NER>
+<NER><PER>A. Harmegnies</PER>, <PER>G. Panfilo</PER>, and <PER>E. F. Arias</PER></NER>
+<NER><PER>A. J. Healey</PER>, <PER>D. P. Horner</PER>,</NER>
+<NER><PER>A. J. Van Oierendonck</PER> 
+ Stanford Telecommunications, Inc. 
+ and 
+ <PER>R. Grover Brown</PER> 
+ Electrical Engineering and Computer Engineering Department 
+ Iowa State</NER>
+<NER><PER>A. J. Van Oierendonck</PER></NER>
+<NER><PER>A. Lamb</PER>,</NER>
+<NER><PER>A. Olagbemiro</PER>, <PER>J. Mun</PER>, and <PER>M. Shing</PER></NER>
+<NER><PER>ALLEN S. COMFORT</PER></NER>
+<NER>AMERICORPS GRANT</NER>
+<NER>AN ACTIVITY-BASED NON-LINEAR</NER>
+<NER><PER>ANDRE, TERENCE S</PER></NER>
+<NER><PER>ANDREW S. NATSIOS</PER></NER>
+<NER>AS AN UPDATE</NER>
+<NER>ASK, DON?T TELL?</NER>
+<NER>ASTRONOMIE FONDAMENTALE</NER>
+<NER>AT NICT,</NER>
+<NER>AUVs, UAVs</NER>
+<NER><PER>Aalseth, Craig E</PER></NER>
+<NER><PER>Aaron Altman</PER> 
+ University of</NER>
+<NER><PER>Aaron Altman</PER></NER>
+<NER><PER>Aaron M. Scheer</PER></NER>
+<NER><PER>Abate, J E</PER></NER>
+<NER><PER>Abelson, Dafna M</PER></NER>
+<NER><PER>Ablowitz, Mark J</PER></NER>
+<NER><PER>Abouraddy, Ayman</PER></NER>
+<NER><PER>Abramson, Mark</PER></NER>
+<NER>Abstract- Multipath interference is a major source of</NER>
+<NER><PER>Adam Charles DeJesus</PER></NER>
+<NER><PER>Adam M. Fullenkamp</PER> 
+ National Research Council 
+ <PER>Kathleen M. Robinette</PER> 
+ Biomechanics Branch 
+ Biosciences and Protection Division 
+ <PER>Hein A. M. Daanen</PER> 
+ TNO Defense 
+ Security and Safety Business Unit Human Factors 
+ Interim Report for October 20 07 to September 20 0</NER>
+<NER><PER>Adam M. Fullenkamp</PER> 
+ National Research Council 
+ <PER>Kathleen M. Robinette</PER> 
+ Biomechanics Branch 
+ Biosciences and Protection Division 
+ <PER>Hein A. M. Daanen</PER> 
+ TNO Defense 
+ Security and Safety Business Unit Human</NER>
+<NER><PER>Adam M. Fullenkamp</PER></NER>
+<NER><PER>Adams, Aubreya</PER></NER>
+<NER><PER>Admiral Joseph W. Prueher</PER>, USN, is commander in chief</NER>
+<NER><PER>Adrian V. Lee</PER></NER>
+<NER>Africa, Sub-Saharan</NER>
+<NER><PER>Aguilar-Chang, Julio</PER></NER>
+<NER><PER>Ahuja, G</PER></NER>
+<NER><PER>Aiken, Edwin W</PER></NER>
+<NER><PER>Ajit K. Verma</PER>,</NER>
+<NER><PER>Akbacak, Murat</PER></NER>
+<NER><PER>Akbar, D M</PER></NER>
+<NER><PER>Aker, L</PER></NER>
+<NER><PER>Akhtar, Rizwan</PER></NER>
+<NER><PER>Akins, Christopher F</PER></NER>
+<NER><PER>Aksak, Burak</PER></NER>
+<NER>Al Qaeda : Profile and Threat</NER>
+<NER>Al Qaeda of the Islamic Maghreb (AQIM) is a growing and evolving North African franchise of</NER>
+<NER><PER>Al, W</PER></NER>
+<NER><PER>Al-Amri, Abdullah</PER></NER>
+<NER><PER>Albert Adams</PER>,</NER>
+<NER><PER>Albert Kirk</PER>, <PER>Paul Kuhnle</PER>, <PER>Richard Sydnor</PER> 
+ <PER>William Diener</PER> and <PER>David Stowers</PER> 
+ California Institute of Technology 
+ Jet Propulsion Laboratory 
+</NER>
+<NER><PER>Albert Kirk</PER>, <PER>Paul Kuhnle</PER>, <PER>Richard Sydnor</PER> 
+ <PER>William Diener</PER> and <PER>David Stowers</PER> 
+ California Institute of Technology 
+ Jet Propulsion</NER>
+<NER><PER>Albert Kirk</PER>, <PER>Paul Kuhnle</PER>, <PER>Richard Sydnor</PER></NER>
+<NER><PER>Albert R. Cunningham</PER>,</NER>
+<NER><PER>Alberto, V C</PER></NER>
+<NER><PER>Albrecht, Michael C</PER></NER>
+<NER><PER>Albright, Madeleine K</PER></NER>
+<NER><PER>Aleixo, P</PER></NER>
+<NER><PER>Alexander L. Julian</PER></NER>
+<NER><PER>Alexander, Troy</PER></NER>
+<NER><PER>Alexandrov, Petre</PER></NER>
+<NER><PER>Alexia J. Machina</PER></NER>
+<NER><PER>Alfonzo E. Garcia</PER></NER>
+<NER><PER>Alfred Cumming</PER> 
+ Specialist in Intelligence and National Security 
+ Foreign Affairs, Defense, and Trade Division 
+ Congressional Research Service ? The Library of</NER>
+<NER><PER>Alfred Cumming</PER></NER>
+<NER><PER>Aliaga, Percy</PER></NER>
+<NER>All Mathematica screenshots are from Wolfram Mathematica ? 20 09 Wolfram Research, Inc. www. wolfram. com</NER>
+<NER>All NIEs are reviewed by National Intelligence Board, which is chaired by the DNI and</NER>
+<NER><PER>Allan, David W</PER></NER>
+<NER><PER>Allen, Arthur</PER></NER>
+<NER>Alliant Techsystems, San Diego (ATK</NER>
+<NER><PER>Alliger, George M</PER></NER>
+<NER><PER>Allison, George B</PER></NER>
+<NER><PER>Alsing, P M</PER></NER>
+<NER><PER>Altman, Aaron</PER></NER>
+<NER><PER>Amagai, Jun</PER></NER>
+<NER><PER>Amos Chase, SR.</PER>, and <PER>Raju V. Kala</PER></NER>
+<NER><PER>Amy Belasco</PER> 
+ Specialist in U. S. Defense Policy and Budget 
+ Foreign Affairs, Defense, and Trade Division 
+ The Cost of Iraq, Afghanistan, and Other Global War on 
+ Terror Operations Since 9 / 1</NER>
+<NER><PER>Amy Belasco</PER> 
+ Specialist in U. S. Defense Policy and Budget 
+ Foreign Affairs, Defense, and Trade</NER>
+<NER><PER>Amy Belasco</PER></NER>
+<NER><PER>Amy F. Woolf</PER> 
+ Specialist in National Defense 
+ Foreign Affairs, Defense, and Trade Division 
+ Congressional Research Service ? The Library of</NER>
+<NER><PER>Amy F. Woolf</PER> 
+ Specialist in National Defense 
+ Foreign Affairs, Defense, and Trade Division 
+ Conventional Warheads for Long-Range Ballistic 
+ Missiles : Background and Issues for</NER>
+<NER><PER>Amy F. Woolf</PER> 
+ Specialist in National Defense 
+ Foreign Affairs, Defense, and Trade</NER>
+<NER><PER>Amy F. Woolf</PER></NER>
+<NER><PER>Amy J. Plotkin</PER>, BA, <PER>Charles E. Wade</PER>, PhD, <PER>Donald H. Jenkins</PER>, MD, <PER>Kimberly A. Smith</PER>, BSN, MSN, CCRN, 
+ <PER>Jody C. Noe</PER>, BSC, MS, <PER>Myung S. Park</PER>, MD, <PER>Jeremy G. Perkins</PER>, MD, and <PER>COL John B. Holcomb</PER>,</NER>
+<NER><PER>Amy J. Plotkin</PER>, BA, <PER>Charles E. Wade</PER>, PhD, <PER>Donald H. Jenkins</PER>, MD, <PER>Kimberly A. Smith</PER>, BSN, MSN, CCRN</NER>
+<NER><PER>Amy M. Smith</PER> Slep, Ph.D 
+ <PER>Richard E. Heyman</PER>,</NER>
+<NER><PER>Amy Tank</PER>, <PER>Richard Pearson</PER>, and <PER>Jason Angel</PER> 
+ Weapons and Materials Research Directorate, ARL 
+ <PER>Denis Rickman</PER> and <PER>Jay Ehrgott</PER> 
+ U. S. Army Engineer Research and Development</NER>
+<NER><PER>Amy Tank</PER>, <PER>Richard Pearson</PER>, and <PER>Jason Angel</PER></NER>
+<NER><PER>Ana M. Rule</PER></NER>
+<NER><PER>Anand Puranik</PER>, <PER>Gordon Parker</PER> and <PER>Chris Passerello</PER></NER>
+<NER><PER>Ananth, Ramagopal</PER></NER>
+<NER><PER>Anastasia Stroujkova</PER>, <PER>Delaine T. Reiter</PER>, and <PER>Robert H. Shumway</PER> 
+ Weston Geophysical Corporation and University of California, Davis 
+ Sponsored by National Nuclear Security Administration 
+ Office of Nonproliferation Research and Development 
+ Office of Defense Nuclear</NER>
+<NER><PER>Anastasia Stroujkova</PER>, <PER>Delaine T. Reiter</PER>, and <PER>Robert H. Shumway</PER></NER>
+<NER><PER>Anatoliy V. Popov</PER>, Ph.D 
+ E-Mail : avpopov@mail. med. upenn.</NER>
+<NER><PER>Anderson, Erica</PER></NER>
+<NER><PER>Anderson, George P</PER></NER>
+<NER><PER>Anderson, Michael</PER></NER>
+<NER><PER>Andrea De Marchi</PER> 
+ University of Ancona 
+ Ancona, Italy. 
+</NER>
+<NER><PER>Andrea De Marchi</PER> 
+ University of Ancona 
+ Ancona, Italy</NER>
+<NER><PER>Andrea De Marchi</PER></NER>
+<NER><PER>Andrei A. Grishaev</PER> 
+ Institute of Metrology for Time and Space (IMVP), GP</NER>
+<NER><PER>Andrei A. Grishaev</PER></NER>
+<NER><PER>Andrew A. Merz</PER></NER>
+<NER><PER>Andrew A. Nyblade</PER>, <PER>Richard A. Brazier</PER>, <PER>Aubreya Adams</PER>, <PER>Yongcheol Park</PER>, <PER>Arthur J. Rodgers</PER>, 
+ and <PER>Abdullah Al-Amri</PER> 
+ Penn State University, Lawrence Livermore National Laboratory, and King Saud University 
+ Sponsored by National Nuclear Security Administration 
+ Office of Nonproliferation Research and Development 
+ Office of Defense Nuclear Nonproliferation 
+ Contract Nos. DE-FC 52 - 05 NA 26 60 2 and W- 74 05 -ENG- 4</NER>
+<NER><PER>Andrew A. Nyblade</PER>, <PER>Richard A. Brazier</PER>, <PER>Aubreya Adams</PER>, <PER>Yongcheol Park</PER>, <PER>Arthur J. Rodgers</PER>,</NER>
+<NER><PER>Andrew A. Nyblade</PER>, <PER>William R. Walter</PER>, <PER>Rengin Gok</PER>, <PER>Lindsay Linzer</PER>, and <PER>Ray Durrheim</PER> 
+ Penn State University, Lawrence Livermore National Laboratory, and 
+ Council for Scientific and Industrial Research 
+ Sponsored by National Nuclear Security Administration 
+ Office of Nonproliferation Research and Development 
+ Office of Defense Nuclear Nonproliferation 
+ Contract No. DE-FC 52 - 06 NA 27 32 0 and W- 74 05 -ENG- 48 
+</NER>
+<NER><PER>Andrew A. Nyblade</PER>, <PER>William R. Walter</PER>, <PER>Rengin Gok</PER>, <PER>Lindsay Linzer</PER>, and <PER>Ray Durrheim</PER> 
+ Penn State University, Lawrence Livermore National Laboratory, and 
+ Council for Scientific and Industrial Research 
+ Sponsored by National Nuclear Security Administration 
+ Office of Nonproliferation Research and Development 
+ Office of Defense Nuclear Nonproliferation 
+ Contract No. DE-FC 52 - 06 NA 27 32 0 and W- 74 05 -ENG- 4</NER>
+<NER><PER>Andrew A. Nyblade</PER>, <PER>William R. Walter</PER>, <PER>Rengin Gok</PER>, <PER>Lindsay Linzer</PER>, and <PER>Ray Durrheim</PER></NER>
+<NER><PER>Andrew A. Thompson</PER> 
+ Weapons and Materials Research Directorate,</NER>
+<NER><PER>Andrew A. Thompson</PER></NER>
+<NER><PER>Andrew D. A. Maidment</PER>,</NER>
+<NER><PER>Andrew D. Weinberg</PER>, Ph.D 
+ Email</NER>
+<NER><PER>Andrew Dorman</PER></NER>
+<NER><PER>Andrew Dowd</PER> and <PER>Dr. R. Michael Garvey</PER> 
+ Symmetricom, Inc. 
+</NER>
+<NER><PER>Andrew Dowd</PER> and <PER>Dr. R. Michael Garvey</PER> 
+ Symmetricom, Inc</NER>
+<NER><PER>Andrew Dowd</PER> and <PER>Dr. R. Michael Garvey</PER></NER>
+<NER><PER>Andrew M. Hurley</PER></NER>
+<NER><PER>Andrew N. Novick</PER>, <PER>Michael A. Lombardi</PER>, <PER>Victor S. Zhang</PER> 
+ National Institute of Standards and Technology 
+ Time and Frequency Division 
+ <PER>Anthony Carpentier</PER> 
+ Bellaire</NER>
+<NER><PER>Andrew N. Novick</PER>, <PER>Michael A. Lombardi</PER>, <PER>Victor S. Zhang</PER></NER>
+<NER><PER>Andrews, Kevin S</PER></NER>
+<NER><PER>Andrey Soloviev</PER> 
+ <PER>Jimmy Touma</PER> 
+ <PER>Timothy Klausutis</PER> 
+ <PER>Mikel Miller</PER> 
+ <PER>Adam Rutkowski</PER> 
+ <PER>Kyle Fontaine</PER></NER>
+<NER><PER>Andrusz, H</PER></NER>
+<NER><PER>Angel, Jason</PER></NER>
+<NER><PER>Anita Lal</PER>,</NER>
+<NER><PER>Anna C. Henning</PER>, Coordinator 
+ Legislative Attorney 
+ <PER>Elizabeth B. Bazan</PER> 
+ Legislative Attorney 
+ <PER>Charles Doyle</PER> 
+ Senior Specialist in American Public Law 
+ <PER>Edward C. Liu</PER> 
+ Legislative</NER>
+<NER><PER>Anna C. Henning</PER>,</NER>
+<NER><PER>Anna E. Reeves</PER>,</NER>
+<NER><PER>Anne Leland</PER> 
+ Information Research Specialist 
+ Mari-Jana"M-J"Oboroceanu 
+ Information Research</NER>
+<NER><PER>Anne Leland</PER></NER>
+<NER><PER>Annie Leroy</PER>, <PER>Franck Buron</PER>, <PER>Philippe Devinant</PER> 
+ Laboratoire de M ? canique et Energ ? tique 
+ Ecole Sup ? rieure de l'Energie et des Mat ? riaux - Universit ? d'Orl ? ans 
+ T ? l. : 02 38 41 70 50 - Fax : 02 38 41 73 83 
+ E-mail : annie. leroy@univ-orleans.</NER>
+<NER><PER>Annie Leroy</PER>, <PER>Franck Buron</PER>, <PER>Philippe Devinant</PER> 
+ Laboratoire de M ? canique et Energ ?</NER>
+<NER><PER>Annie Leroy</PER>, <PER>Franck Buron</PER>, <PER>Philippe Devinant</PER></NER>
+<NER><PER>Anthony D. Matthews</PER></NER>
+<NER><PER>Anthony Fainberg</PER></NER>
+<NER><PER>Anthony Kanago</PER>, <PER>Kevin Roos</PER>, <PER>James Frenzel</PER>, <PER>Dean Edwards</PER></NER>
+<NER><PER>Anthony Midey</PER>, * * <PER>Itzhak Dotan</PER>, f ? and <PER>A. A. Viggiano</PER> *</NER>
+<NER><PER>Anthony O'Dell, Captain</PER>,</NER>
+<NER><PER>Anthony O'Dell</PER>,</NER>
+<NER><PER>Anthony P. D'Angelo</PER></NER>
+<NER><PER>Anthony P. D?Angelo</PER></NER>
+<NER><PER>Anthony Scaramozzi</PER></NER>
+<NER><PER>Anthony Yates</PER>, M. D</NER>
+<NER><PER>Antolik, Michael S</PER></NER>
+<NER><PER>Antonelli, Lynn</PER></NER>
+<NER><PER>Antulio J. Echevarria II</PER></NER>
+<NER><PER>Apostolova, T</PER></NER>
+<NER><PER>April, I</PER></NER>
+<NER><PER>Arben Pitarka</PER>, <PER>Kevin M. Mayeda</PER>, and <PER>Nancy R. Collins</PER> 
+ URS Group, Inc. and University of California, Berkeley 
+ Sponsored by National Nuclear Security Administration 
+ Office of Nonproliferation Research and Development 
+ Office of Defense Nuclear Nonproliferation 
+ Contract No. DE-AC 52 - 04 NA 25 54 51,</NER>
+<NER><PER>Arben Pitarka</PER>, <PER>Kevin M. Mayeda</PER>, and <PER>Nancy R. Collins</PER></NER>
+<NER><PER>Archer, Myla M</PER></NER>
+<NER><PER>Arias, E F</PER></NER>
+<NER><PER>Arkin, Ronald C</PER></NER>
+<NER><PER>Arlington, VA</PER> 22 20 2 - 47 0</NER>
+<NER><PER>Arlington, VA</PER> 22 20 3 - 19 7</NER>
+<NER><PER>Arlington, VA</PER> 22 20 3 - 19 9</NER>
+<NER><PER>Arlington, VA</PER></NER>
+<NER><PER>Armoza, David</PER></NER>
+<NER><PER>Armstead, Michael A</PER></NER>
+<NER><PER>Armstrong, Benjamin</PER></NER>
+<NER><PER>Armstrong, Matt</PER>, ?Understanding Public Diplomacy? MountainRunner. us blog</NER>
+<NER><PER>Arnett, Steven</PER></NER>
+<NER><PER>Arney, David C</PER></NER>
+<NER><PER>Arnone, Robert A</PER></NER>
+<NER><PER>Arrowsmith, Marie D</PER></NER>
+<NER><PER>Arthur Rodgers</PER>, <PER>Stephen Myers</PER>, <PER>Kevin Mayeda</PER> and <PER>William Walter</PER></NER>
+<NER><PER>Arthur, Richard J</PER></NER>
+<NER><PER>As President</PER> Obama and the 11 1 th Congress reassess U. S. policy toward the Arab world,</NER>
+<NER><PER>Atilla Bayram</PER>, <PER>Magnus Larson</PER> *, <PER>Herman C. Miller</PER> b, <PER>Nicholas C. Kraus</PER></NER>
+<NER><PER>Atul Bedi</PER>, M. D</NER>
+<NER><PER>Atwood, Donald J</PER></NER>
+<NER><PER>Audoin, Claude</PER></NER>
+<NER><PER>Auguston, Mikhail</PER></NER>
+<NER><PER>Ayhan, Serhat</PER></NER>
+<NER><PER>BARBER, J A</PER></NER>
+<NER><PER>BARTLETT, MICHAEL L</PER></NER>
+<NER><PER>BELZ, STEVEN M</PER></NER>
+<NER><PER>BERNIER, U R</PER></NER>
+<NER><PER>BIPM TIME</PER> ACTIVITIES</NER>
+<NER><PER>BRIAN REED</PER></NER>
+<NER><PER>BRIGADIER RIZWAN AKHTAR</PER></NER>
+<NER><PER>BY EDWARD W. REUTZEL</PER>, <PER>MICHAEL J. SULLIVAN</PER>, AND <PER>DARLENE A. MIKESIC</PER></NER>
+<NER>BY MID-FREQUENCY ELECTROMAGNETIC</NER>
+<NER><PER>Back, Gerald G</PER></NER>
+<NER><PER>Baggenstoss, Paul M</PER></NER>
+<NER><PER>Baker, Bruce C</PER></NER>
+<NER><PER>Baker, E</PER></NER>
+<NER><PER>Baldick, Ross</PER></NER>
+<NER><PER>Baldwin, Kenneth</PER></NER>
+<NER><PER>Baldwin, Peter</PER></NER>
+<NER><PER>Baldwin, Rusty O</PER></NER>
+<NER><PER>Ballard, Sanford</PER></NER>
+<NER><PER>Ballas, J</PER></NER>
+<NER><PER>Balldin, Bjorn C</PER></NER>
+<NER><PER>Bank, Lawrence C</PER></NER>
+<NER><PER>Barbara Fletcher</PER> 
+ Space and Naval Warfare Systems Center San Diego (SSC San Diego) 
+ (61 9) 55 3 - 38 59 bfletch@spawar. navy. mil 
+ Abstract 
+ <PER>A REMUS</PER> (Remote</NER>
+<NER><PER>Barbara Fletcher</PER> 
+ Space and Naval Warfare Systems Center San Diego (SSC San Diego) 
+ (61 9) 55 3 - 38 59 bfletch@spawar. navy.</NER>
+<NER><PER>Barbara Fletcher</PER></NER>
+<NER><PER>Barbaros Celikkol</PER>, <PER>Judson DeCew</PER>, <PER>Kenneth Baldwin</PER>, <PER>Stanley Boduch</PER>, <PER>Michael Chambers</PER>, David W</NER>
+<NER><PER>Barber, David</PER></NER>
+<NER><PER>Barbieri, Cesare</PER></NER>
+<NER><PER>Barillo, David J</PER></NER>
+<NER><PER>Barjami, S</PER></NER>
+<NER><PER>Barker, Glenn T</PER></NER>
+<NER><PER>Barnas, N B</PER></NER>
+<NER><PER>Barrett, Wei Z</PER></NER>
+<NER><PER>Barron, Charlie N</PER></NER>
+<NER><PER>Barry D. Davidson</PER> 
+ Executive Summary 
+ Progress during the past six months is described on the project"Effects of Subzero Temperatures 
+ and Sea water Immersion on Damage Initiation and Growth in Sandwich Composites."Efforts 
+ during this period have focused on (1) assessing the effects of environment and impact damage 
+ on the flexural response of sandwich laminates, (2) finalizing the improved modified peel test 
+ and associated data reduction method for determining the debonding toughness of sandwich 
+ structures, and (3) using this new test to assessment the toughness of sandwich structures with 
+ different face sheet materials under a variety of environments. In the first focus area, the 
+ proposed test matrix has been completed and a few final follow-up tests are currently being 
+ performed to address areas where there is large scatter in the data or where unexpected behaviors 
+ were observed. The data obtained are used to draw a number of preliminary conclusions about 
+ the effects of temperature, sea water saturation, and impact damage on the static strength, static 
+ stiffness, fatigue strength, fatigue stiffness and life of sandwich laminates. Work in the second 
+ and third focus areas has been completed. One publication has been prepared documenting the 
+ results of focus area (2) and will appear in"Major Accomplishments in Composite Materials and 
+ Sandwich Structures - An Anthology of ONR Sponsored Research,"edited by <PER>I. M. Daniel</PER>, E. E. 
+ Gdoutos, and <PER>Y. D. S. Rajapakse</PER>. Work is currently underway documenting the results of focus 
+ area (3) in the form of a paper for archival journal publication</NER>
+<NER><PER>Barry D. Davidson</PER></NER>
+<NER><PER>Barry Elson</PER> 
+ U. S. Naval</NER>
+<NER><PER>Barry Elson</PER></NER>
+<NER><PER>Barry R. Williams</PER></NER>
+<NER><PER>Bart Elias</PER>, Coordinator 
+ Specialist in Aviation</NER>
+<NER><PER>Bart Elias</PER>,</NER>
+<NER><PER>Baskin, Jonathan B</PER></NER>
+<NER><PER>Baskin, Jonathan, B.</PER></NER>
+<NER><PER>Baum, Carl E</PER></NER>
+<NER><PER>Bavykiha, V V</PER></NER>
+<NER><PER>Bayar, Selen</PER></NER>
+<NER><PER>Baybutt, Mark</PER></NER>
+<NER><PER>Bayram, Atilla</PER></NER>
+<NER><PER>Bazan, Elizabeth B</PER></NER>
+<NER><PER>Bean, Thomas</PER></NER>
+<NER><PER>Beard, R</PER></NER>
+<NER><PER>Beard, Ronald</PER></NER>
+<NER><PER>Beatrice Knudsen</PER>, M. D.,</NER>
+<NER><PER>Becker, Andreas W</PER></NER>
+<NER><PER>Becker, Juergen</PER></NER>
+<NER><PER>Beckman, Richard</PER></NER>
+<NER><PER>Bedi, Atul</PER></NER>
+<NER><PER>Begnaud, Michael L</PER></NER>
+<NER><PER>Begnaud, Mike L</PER></NER>
+<NER><PER>Beidalah, Chadrick</PER></NER>
+<NER><PER>Beittel, June S</PER></NER>
+<NER><PER>BelIardo, J</PER></NER>
+<NER><PER>Belasco, Amy</PER></NER>
+<NER><PER>Belkin, Paul</PER></NER>
+<NER><PER>Bell, Nicole S</PER></NER>
+<NER><PER>Bell, T</PER></NER>
+<NER><PER>Belloni, Marco</PER></NER>
+<NER><PER>Belshaw, Karen</PER></NER>
+<NER><PER>Benjamin Armstrong</PER>, <PER>Jesse Pentzer</PER>, <PER>Douglas Odell</PER> *, <PER>Thomas Bean</PER>, <PER>John Canning</PER>, <PER>Donald Pugsley</PER>, <PER>James Frenzel</PER></NER>
+<NER><PER>Benjamin D. Forest</PER></NER>
+<NER><PER>Benjamin, Michael R</PER></NER>
+<NER><PER>Bennett, James A</PER></NER>
+<NER><PER>Benoit-Bird, Kelly J</PER></NER>
+<NER><PER>Bentle, Melissa S</PER></NER>
+<NER><PER>Berdahl, Nels E</PER></NER>
+<NER><PER>Beretta, S</PER></NER>
+<NER>Berlin Wall. Rather, it came in quietly, a product of evolution more than revolution, sometime</NER>
+<NER><PER>Bernaciak, Teresa</PER></NER>
+<NER><PER>Bernard Arulanandam</PER>, Ph.D,</NER>
+<NER><PER>Bernard, L J</PER></NER>
+<NER><PER>Bernard, Michelle</PER></NER>
+<NER><PER>Bernard, Stephen N</PER></NER>
+<NER><PER>Bernier, Laurent-Guy</PER></NER>
+<NER><PER>Berthiaume, C</PER></NER>
+<NER><PER>Beth Ward</PER></NER>
+<NER><PER>Beverly D. Thompson</PER>, <PER>Eric P. Chael</PER>, <PER>Chris J. Young</PER>, <PER>William R. Walter</PER>, and <PER>Michael E. Pasyanos</PER> 
+ Sandia National Laboratories and Lawrence Livermore National Laboratory 
+ Sponsored by U. S. Department of Energy 
+ Office of Nonproliferation Research and Engineering 
+ Office of Defense Nuclear Nonproliferation 
+ National Nuclear Security Administration 
+</NER>
+<NER><PER>Beverly D. Thompson</PER>, <PER>Eric P. Chael</PER>, <PER>Chris J. Young</PER>, <PER>William R. Walter</PER>, and <PER>Michael E. Pasyanos</PER> 
+ Sandia National Laboratories and Lawrence Livermore National Laboratory 
+ Sponsored by U. S. Department of Energy 
+ Office of Nonproliferation Research and Engineering 
+ Office of Defense Nuclear Nonproliferation 
+ National Nuclear Security</NER>
+<NER><PER>Beverly D. Thompson</PER>, <PER>Eric P. Chael</PER>, <PER>Chris J. Young</PER>, <PER>William R. Walter</PER>, and <PER>Michael E. Pasyanos</PER></NER>
+<NER><PER>Beyerle, Albert G</PER></NER>
+<NER><PER>Bhattacharyya, Joydeep</PER></NER>
+<NER><PER>Bickley, James M</PER></NER>
+<NER><PER>Biegel', Ronald L</PER></NER>
+<NER><PER>Bienkowski, Mary</PER></NER>
+<NER><PER>Biing Y. Lin</PER>, <PER>Kyle J. Garton</PER>, and <PER>Amanda G. Paulovich</PER> 
+ Email : apaulovi@fhcrc.</NER>
+<NER><PER>Bilhartz, Gregory J</PER></NER>
+<NER><PER>Bill Klepczynski</PER></NER>
+<NER><PER>Billy Joe Short, Jr.</PER></NER>
+<NER><PER>Bilski, Tracy R</PER></NER>
+<NER><PER>Bingham, Scott</PER></NER>
+<NER><PER>Binseel, Mary S</PER></NER>
+<NER><PER>Bj, Jan T</PER></NER>
+<NER><PER>Black, Catherine M</PER></NER>
+<NER><PER>Black, Ian H</PER></NER>
+<NER><PER>Black, M</PER></NER>
+<NER><PER>Blackburn, Michael R</PER></NER>
+<NER><PER>Blackmon, Fletcher</PER></NER>
+<NER><PER>Blackmon, Justin L</PER></NER>
+<NER><PER>Blackwell, Robert R</PER></NER>
+<NER><PER>Blancafort, Pilar</PER> ? Annual Progress report, year</NER>
+<NER><PER>Blank, Stephen</PER></NER>
+<NER><PER>Blatus, Richard J</PER></NER>
+<NER><PER>Bloch, M</PER></NER>
+<NER><PER>Blogs, FaceBook</PER>, and YouTube ; and Public</NER>
+<NER><PER>Blomme, Mark E</PER></NER>
+<NER><PER>Bob, Mr</PER></NER>
+<NER><PER>Bobak, Justin P</PER></NER>
+<NER><PER>Bode, Matthias</PER></NER>
+<NER><PER>Boduch, Stanley</PER></NER>
+<NER><PER>Boehm, Douglas</PER></NER>
+<NER><PER>Bolkcom, Christopher</PER></NER>
+<NER><PER>Bolli, Pietro</PER></NER>
+<NER><PER>Bolluyt, Michael D</PER></NER>
+<NER><PER>Bologna, Univ</PER></NER>
+<NER><PER>Bonafede, L</PER></NER>
+<NER><PER>Bongyong Song</PER>, Member, IEEE, <PER>Rene L. Cruz</PER>, Fellow, IEEE, and <PER>Laurence B. Milstein</PER>, Fellow,</NER>
+<NER><PER>Bonner', Jessie L</PER></NER>
+<NER><PER>Boothman, David A</PER></NER>
+<NER><PER>Bordetsky, Alex B</PER></NER>
+<NER><PER>Boss, Emmanuel</PER></NER>
+<NER><PER>Boston, MA</PER> 02 11</NER>
+<NER><PER>Bourakov, Eugene A</PER></NER>
+<NER><PER>Bourne, N K</PER></NER>
+<NER><PER>Bowen, Andrew</PER></NER>
+<NER><PER>Bowman, J R</PER></NER>
+<NER><PER>Bowman, Steve</PER></NER>
+<NER><PER>Bowman, Steven R</PER></NER>
+<NER><PER>Bowyer, Theodore W</PER></NER>
+<NER><PER>Bradley, Ethel R</PER></NER>
+<NER><PER>Bradley, Jerome T</PER></NER>
+<NER><PER>Brandenberger, J</PER></NER>
+<NER><PER>Brazier, Richard A</PER></NER>
+<NER><PER>Breakiron, A</PER></NER>
+<NER><PER>Breakiron, Lee A</PER></NER>
+<NER><PER>Brenda Eddy</PER> and <PER>Steven Arnett</PER> 
+ Defense Logistics Information</NER>
+<NER><PER>Brenda Eddy</PER> and <PER>Steven Arnett</PER></NER>
+<NER><PER>Brennan, John K</PER></NER>
+<NER><PER>Brennan, Raymond E</PER></NER>
+<NER><PER>Brent Poulson</PER>, Reliability and Maintainability Flight Chief, 77 3 TS / ENFR 
+ <PER>Linda Harrison</PER>, Technical Expert, 77 5 TS / CL 
+ <PER>Kandi Jones</PER>, Project Lead, JT 3</NER>
+<NER><PER>Brett Commander</PER>, <PER>Wilmel Varela-Ortiz</PER>, <PER>Terry R. Stanton</PER>, 
+ and <PER>Henry Diaz-Alvarez</PER></NER>
+<NER><PER>Brewton, Susan</PER></NER>
+<NER><PER>Brian A. Trimble</PER>, M. D</NER>
+<NER><PER>Brian Dushaw</PER> 
+ Applied Physics Laboratory 
+ University of Washington 
+ phone : (20 6) 68 5 - 41 98 fax : (20 6) 54 3 - 67 85 email : dushaw@apl. washington. edu 
+ http : / / faculty. Washington. edu / dushaw</NER>
+<NER><PER>Brian Dushaw</PER></NER>
+<NER><PER>Brian E. Sturdivant</PER></NER>
+<NER><PER>Brian Patrick Hill</PER></NER>
+<NER><PER>Brian R. Hirshman</PER>, <PER>Michael Martin</PER>,</NER>
+<NER><PER>Brian Stump</PER> and <PER>Chris Hayward</PER>, Southern Methodist University 
+ Sponsored by the Defense Threat Reduction</NER>
+<NER><PER>Brian Stump</PER> and <PER>Chris Hayward</PER>, Southern Methodist</NER>
+<NER><PER>Brigadier General ROBERT Eo CALLAN</PER></NER>
+<NER><PER>Brigadier Subrata Saha</PER></NER>
+<NER><PER>Brogan, J</PER></NER>
+<NER><PER>Bronk, Burt V</PER></NER>
+<NER><PER>Brooke Schaab</PER>, <PER>J. Douglas Dressel</PER></NER>
+<NER><PER>Brown, D</PER></NER>
+<NER><PER>Brown, Dennis G</PER></NER>
+<NER><PER>Brown, Donald M</PER></NER>
+<NER><PER>Brown, Gerald</PER></NER>
+<NER><PER>Brown, Harold</PER></NER>
+<NER><PER>Brown, Neil L</PER></NER>
+<NER><PER>Brown, R G</PER></NER>
+<NER><PER>Browne, Marjorie A</PER></NER>
+<NER><PER>Browning, Joseph W</PER></NER>
+<NER><PER>Bruce A. Elleman</PER></NER>
+<NER><PER>Bruce M. Fenton</PER>,</NER>
+<NER><PER>Bruce Vaughn</PER> 
+ Specialist in Asian Affairs 
+ Foreign Affairs, Defense, and Trade Division 
+ Nepal : Political Developments and Bilateral Relations 
+ with the United</NER>
+<NER><PER>Bruce Vaughn</PER> 
+ Specialist in Asian Affairs 
+ Foreign Affairs, Defense, and Trade</NER>
+<NER><PER>Bruce Vaughn</PER></NER>
+<NER><PER>Bruner, Edward F</PER></NER>
+<NER><PER>Bruyninx, C</PER></NER>
+<NER><PER>Bryant, Barrett R</PER></NER>
+<NER><PER>Bryant, J T</PER></NER>
+<NER><PER>Bryant, James B</PER></NER>
+<NER><PER>Bryk, Darryl</PER></NER>
+<NER><PER>Bub, Frank L</PER></NER>
+<NER><PER>Buennagel, L A</PER></NER>
+<NER><PER>Buescher, James</PER></NER>
+<NER><PER>Buisson, James A</PER></NER>
+<NER><PER>Bujanda, A</PER></NER>
+<NER><PER>Bulent Gokcicek</PER></NER>
+<NER><PER>Burch, William</PER></NER>
+<NER><PER>Burk, Stephen D</PER></NER>
+<NER><PER>Burke, Terry</PER></NER>
+<NER><PER>Burns, P</PER></NER>
+<NER><PER>Buron, Franck</PER></NER>
+<NER><PER>Burrelli, David F</PER></NER>
+<NER><PER>Burris, David L</PER></NER>
+<NER><PER>Burt, Carol C</PER></NER>
+<NER><PER>Burtz, Daniel C</PER></NER>
+<NER><PER>Butcher, Brian J</PER></NER>
+<NER><PER>Butterline, E W</PER></NER>
+<NER><PER>By Anna I. Zakharchenko</PER></NER>
+<NER><PER>By Captain</PER> <PER>Russell J. Isaacs</PER></NER>
+<NER><PER>By Colonel</PER> <PER>H. B. Crosby</PER>,</NER>
+<NER><PER>By James E. McGinley</PER> 
+ Strategic Insights is a quarterly electronic journal produced by the Center for Contemporary 
+ Conflict at the Naval Postgraduate School in Monterey, California. The views expressed 
+ here are those of the author (s) and do not necessarily represent the views of NPS, the 
+ Department of Defense, or the U. S. Government</NER>
+<NER><PER>By James E. McGinley</PER></NER>
+<NER><PER>By John C. Decker</PER></NER>
+<NER><PER>By Mr. Mark</PER> Albe and <PER>Ms. Margaret Schnebly</PER></NER>
+<NER><PER>By Robert D Willcox</PER>, Explosives Site Operations Consultant 
+ late of CESO (N), MOD Ensleigh, Bath BA 15 AB, UK</NER>
+<NER><PER>By Robert D Willcox</PER>, Explosives Site Operations</NER>
+<NER><PER>Byrne, P B</PER></NER>
+<NER><PER>C. Bruyninx</PER>, <PER>P. Defraigne</PER> 
+ Royal Observatory of Belgium 
+ Avenue Circulaire 3, B- 11 80 Brussels, Belgium 
+ e-mailC. Bruyninx@oma. be 
+</NER>
+<NER><PER>C. Bruyninx</PER>, <PER>P. Defraigne</PER> 
+ Royal Observatory of Belgium 
+ Avenue Circulaire 3, B- 11 80 Brussels, Belgium 
+ e-mailC. Bruyninx@oma.</NER>
+<NER><PER>C. Bruyninx</PER>, <PER>P. Defraigne</PER></NER>
+<NER><PER>C. F. Smith</PER> 
+ Cornell Cooperative Extension of Suffolk County 
+ Riverhead, New York, 11 90 1, USA 
+ cfs 3@cornell. edu 
+ <PER>R. J. Paulsen</PER> 
+ Cornell University / Suffolk County Health Services 
+ Riverhead, NY, 11 90 1, USA 
+ <PER>Ronald. Paulsen</PER>@co. suffolk. ny. us 
+ <PER>D. B. Chadwick</PER> 
+ SPAWAR Systems Center - San Diego 
+ San Diego, CA, 92 15 2, USA 
+ chadwick@spawar. navy. mil 
+ <PER>J. G. Groves</PER> 
+ Computer Sciences Corporation 
+ Hancock St. San Diego, CA, USA 
+ groves@spawar. navy.</NER>
+<NER><PER>C. F. Smith</PER></NER>
+<NER><PER>C. Malvig</PER></NER>
+<NER><PER>C. N. Katz</PER>, <PER>B. Davidson</PER>, and <PER>R. K. Johnston</PER></NER>
+<NER><PER>C. R. Tamanaha</PER> 1, <PER>R. J. Colton</PER> 3, <PER>M. M. Miller</PER> 3, <PER>M. A. Piani</PER> 2</NER>
+<NER><PER>C. Robert Kehler</PER></NER>
+<NER><PER>CAN TIGERSHARK</PER> SURVIVE</NER>
+<NER><PER>CAN YOU RUN</PER> AN</NER>
+<NER><PER>CAPT A. G. Gourgoumis</PER></NER>
+<NER><PER>CAPT Brian D. Smith</PER></NER>
+<NER><PER>CAPT George B. Allison</PER>,</NER>
+<NER><PER>CAPT Ryan Kappedal</PER>, M. S</NER>
+<NER><PER>CAPT Steven T. Hutsell</PER>, USAF 
+ Zd Space Operations Squadron 
+</NER>
+<NER><PER>CAPT Steven T. Hutsell</PER>, USAF 
+ Zd Space Operations</NER>
+<NER><PER>CAPT Steven T. Hutsell</PER>,</NER>
+<NER><PER>CAPT. William Easter</PER></NER>
+<NER><PER>CAPTAIN THOMAS E. WEDDING</PER></NER>
+<NER><PER>CARRIER-PHASE METHOD</PER></NER>
+<NER><PER>CASSIDY, ROBERT M</PER></NER>
+<NER><PER>CATHERINE M. BLACK, MAJOR</PER>,</NER>
+<NER><PER>CBO STUDY</PER></NER>
+<NER><PER>CDR. Elizabeth Montcalm-Smith</PER></NER>
+<NER><PER>CHRISTOPHER HEMMER</PER></NER>
+<NER><PER>CLANCY, D</PER></NER>
+<NER><PER>COL James L Murray-Playfair</PER> MBE 
+ British Army 
+ School of Advanced Military</NER>
+<NER><PER>COL John F. Brundage</PER>, MD,</NER>
+<NER><PER>COL John W. Cross</PER></NER>
+<NER><PER>COL Robert Byrd</PER></NER>
+<NER><PER>COL Robert F. DeFraites</PER>, MD,</NER>
+<NER><PER>COL Tony Incorvati</PER></NER>
+<NER><PER>COL. Ron Terry</PER>, our Directorate Commander at</NER>
+<NER><PER>COLONEL BRIAN J. BUTCHER</PER></NER>
+<NER><PER>COLONEL DOUGLAS M. GABRAM</PER></NER>
+<NER><PER>COLONEL EDWARD</PER> ?TIM?</NER>
+<NER><PER>COLONEL JACK P. MONROE IV</PER></NER>
+<NER><PER>COLONEL JAMES D. LAMPTON</PER></NER>
+<NER><PER>COLONEL JAMES R. SAGEN</PER></NER>
+<NER><PER>COLONEL JEFFREY A. MARQUEZ</PER></NER>
+<NER><PER>COLONEL JOHN LAGANELLI</PER></NER>
+<NER><PER>COLONEL JOHN W. VAN DE LOOP</PER></NER>
+<NER><PER>COLONEL KEITH SLEDD</PER></NER>
+<NER><PER>COLONEL KENNETH D. JOHNSON</PER></NER>
+<NER><PER>COLONEL LAWRENCE D. MORELAND</PER></NER>
+<NER><PER>COLONEL MARIA R. GERVAIS</PER></NER>
+<NER><PER>COLONEL MICHAEL A. ARMSTEAD</PER></NER>
+<NER><PER>COLONEL MICHAEL D. BOLLUYT</PER></NER>
+<NER><PER>COLONEL MICHAEL GODFREY</PER></NER>
+<NER><PER>COLONEL ROBERT R. ROGGEMAN</PER></NER>
+<NER><PER>COLONEL SEAN W. MCCAFFREY</PER></NER>
+<NER><PER>COLONEL STEVEN C. WILLIAMSON</PER></NER>
+<NER><PER>COLONEL TERRY LAMBERT</PER></NER>
+<NER><PER>COMERFORD, WILLIAM</PER></NER>
+<NER><PER>COMMANDER WILLIAM R. GROTEWOLD</PER></NER>
+<NER><PER>COMPOSTING FEEDSTOCKS</PER></NER>
+<NER><PER>CPT Scott Gilpatrick</PER>,</NER>
+<NER><PER>CPT Steve Briggs</PER>, SP, APA,</NER>
+<NER><PER>CYNTHIA A. LERCH, MAJ</PER>,</NER>
+<NER><PER>Cadd, Gary</PER></NER>
+<NER><PER>Caimi, F M</PER></NER>
+<NER><PER>Calhoun, Malcolm</PER></NER>
+<NER><PER>Calixto, Observatorio S</PER></NER>
+<NER><PER>Camci, Fatih</PER></NER>
+<NER><PER>Camparo, J C</PER></NER>
+<NER><PER>Campbell, Timothy J</PER></NER>
+<NER><PER>Cancio, Leopoldo C</PER></NER>
+<NER><PER>Canning, John</PER></NER>
+<NER><PER>Cano, Wilfredo</PER></NER>
+<NER><PER>Cao, Fei</PER></NER>
+<NER><PER>Capetti, P</PER></NER>
+<NER><PER>Capraro, Ivan</PER></NER>
+<NER><PER>Captain Arthur M. Smith</PER>, USNR, is clinical failed. Has the intervening period enabled us</NER>
+<NER><PER>Captain BH McClellan</PER></NER>
+<NER><PER>Captain GM Marshall</PER></NER>
+<NER><PER>Captain J. R. Jones</PER></NER>
+<NER><PER>Captain J. R. Stover</PER></NER>
+<NER><PER>Captain JM Zarra</PER></NER>
+<NER><PER>Captain JP Kearns</PER></NER>
+<NER><PER>Captain James D. Fleming</PER></NER>
+<NER><PER>Captain K. M. Coyne</PER></NER>
+<NER><PER>Captain KW Bucklew</PER></NER>
+<NER><PER>Captain Kenneth Price</PER>,</NER>
+<NER><PER>Captain L. A. Vega</PER>, Conference Group 3</NER>
+<NER><PER>Captain ME Cover</PER></NER>
+<NER><PER>Captain Matt Ritchie</PER></NER>
+<NER><PER>Captain P. B. Byrne</PER></NER>
+<NER><PER>Captain RD Michael</PER></NER>
+<NER><PER>Captain Shawn M. Mercer</PER></NER>
+<NER><PER>Cardimona, D A</PER></NER>
+<NER><PER>Cardinal, T</PER></NER>
+<NER><PER>Carin Ashjian</PER></NER>
+<NER><PER>Carin, Lawrence</PER></NER>
+<NER><PER>Carl V. Nelson</PER> 
+ <PER>Mary R. Keller</PER> 
+ <PER>Dexter G. Smith</PER> 
+ The Johns Hopkins University 
+ Applied Physics</NER>
+<NER><PER>Carl V. Nelson</PER></NER>
+<NER><PER>Carley, Kathleen</PER></NER>
+<NER><PER>Carlson, Jano R</PER></NER>
+<NER><PER>Carlyle, Matthew</PER></NER>
+<NER><PER>Carol Migdalovitz</PER> 
+ Specialist in Middle Eastern Affairs 
+ Foreign Affairs, Defense, and Trade Division 
+ Congressional Research Service ? The Library of</NER>
+<NER><PER>Carol Migdalovitz</PER> 
+ Specialist in Middle Eastern Affairs 
+ Foreign Affairs, Defense, and Trade Division 
+ Israel : Background and Relations with the United</NER>
+<NER><PER>Carol Migdalovitz</PER> 
+ Specialist in Middle Eastern Affairs 
+ Foreign Affairs, Defense, and Trade</NER>
+<NER><PER>Carol Migdalovitz</PER></NER>
+<NER><PER>Carpentier, Anthony</PER></NER>
+<NER><PER>Carr, Dorthe</PER></NER>
+<NER><PER>Carr, R</PER></NER>
+<NER><PER>Carraway, Robert E</PER></NER>
+<NER><PER>Carroll, Suzanne N</PER></NER>
+<NER><PER>Carter, C D</PER></NER>
+<NER><PER>Carter, David</PER></NER>
+<NER><PER>Carter, Linwood B</PER></NER>
+<NER><PER>Carver Mead</PER></NER>
+<NER><PER>Casa, Angelo</PER></NER>
+<NER><PER>Case Study</PER> : Review of Operating Room Utilization at Mayo</NER>
+<NER><PER>Cashin, Willianl F</PER></NER>
+<NER><PER>Casteel, Curtis H</PER></NER>
+<NER><PER>Castillo, C D</PER></NER>
+<NER><PER>Catalano, Sarah L</PER></NER>
+<NER><PER>Catarious, David, M., Jr</PER> 
+ <PER>Espach, Ralph, H.</PER></NER>
+<NER><PER>Catherine Dale</PER> 
+ Specialist in International Security 
+ Foreign Affairs, Defense, and Trade Division 
+ Operation Iraqi Freedom : Strategies, Approaches, 
+ Results, and Issues for</NER>
+<NER><PER>Catherine Dale</PER> 
+ Specialist in International Security 
+ Foreign Affairs, Defense, and Trade</NER>
+<NER><PER>Catherine Dale</PER></NER>
+<NER><PER>Catherine Marie Dale</PER> 
+ Specialist in International Security 
+ Foreign Affairs, Defense, and Trade Division 
+ Operation Iraqi Freedom : Strategies, Approaches, 
+ Results, and Issues for</NER>
+<NER><PER>Catherine Marie Dale</PER> 
+ Specialist in International Security 
+ Foreign Affairs, Defense, and Trade</NER>
+<NER><PER>Catherine Marie Dale</PER></NER>
+<NER><PER>Catherine Woody</PER> 
+ National Data Buoy Center 
+ Stennis Space Center, MS 
+ <PER>Rodney Riley</PER>, 
+ <PER>Nikolai Fedoroff</PER>, 
+ <PER>Terry Rutledge</PER> 
+ Science Applications 
+ International Corporation 
+ Stennis Space Center, MS 
+ <PER>Geoffrey Morrison</PER>, 
+ <PER>Rod Zika</PER> 
+ International SeaKeepers Society 
+ UM RSMAS 
+ Abstract- The National Data Buoy</NER>
+<NER><PER>Catherine Woody</PER> 
+ National Data Buoy Center 
+ Stennis Space Center, MS 
+ <PER>Rodney Riley</PER>, 
+ <PER>Nikolai Fedoroff</PER>, 
+ <PER>Terry Rutledge</PER> 
+ Science Applications 
+ International Corporation 
+ Stennis Space Center, MS 
+ <PER>Geoffrey Morrison</PER>, 
+ <PER>Rod Zika</PER> 
+ International SeaKeepers Society 
+ UM</NER>
+<NER><PER>Catherine Woody</PER></NER>
+<NER><PER>Catherino, Henry A</PER></NER>
+<NER><PER>Cazacu, Oana</PER></NER>
+<NER><PER>Cedex, SBvres</PER></NER>
+<NER><PER>Celano, Tom</PER></NER>
+<NER><PER>Celikkol, Barbaros</PER></NER>
+<NER><PER>Chad DeStefano</PER></NER>
+<NER><PER>Chadrick Beidalah</PER> 
+ <PER>Aaron Coudray</PER></NER>
+<NER><PER>Chadrick Beidalah</PER></NER>
+<NER><PER>Chadsey, H</PER></NER>
+<NER><PER>Chadwick, D B</PER></NER>
+<NER><PER>Chael, Eric P</PER></NER>
+<NER><PER>Chaffin, J N</PER></NER>
+<NER><PER>Chalfin, Steve</PER></NER>
+<NER><PER>Chalmers, David</PER></NER>
+<NER><PER>Chambers, Michael</PER></NER>
+<NER><PER>Chan, Y C</PER></NER>
+<NER><PER>Chang W. Sohn</PER> *, Ph.D, P. E., <PER>Franklin H. Holcomb</PER> 
+ Energy Branch (CEERD-CF-E) 
+ U. S. Army Corps of Engineers Engineer Research and Development Center 
+ Construction Engineering Research Laboratory 
+ PH : 21 7 - 37 3 - 67 39 / 58 64, <PER>Chang. W. Sohn</PER>@erdc. usace. army. mil 
+ <PER>Peter Baldwin</PER>, <PER>Shawn Lawlor</PER>, Ph.D, <PER>Robert C. Steele</PER>, Ph.D, <PER>Karen Belshaw</PER> 
+ <PER>Ramgen Power</PER> Systems, Inc. 
+ Ph : 42 5.82 8.49 19, peter. baldwin@ramgen. com 
+ <PER>Gunnar Tamm</PER>, Ph.D 
+ Dept. of Civil and Mechanical Engineering 
+ United States Military Academy 
+ Ph : (84 5) 93 8 - 55 15, <PER>Gunnar. Tamm</PER>@usma. edu 
+</NER>
+<NER><PER>Chang W. Sohn</PER> *, Ph.D, P. E., <PER>Franklin H. Holcomb</PER> 
+ Energy Branch (CEERD-CF-E) 
+ U. S. Army Corps of Engineers Engineer Research and Development Center 
+ Construction Engineering Research Laboratory 
+ PH : 21 7 - 37 3 - 67 39 / 58 64, <PER>Chang. W. Sohn</PER>@erdc. usace. army. mil 
+ <PER>Peter Baldwin</PER>, <PER>Shawn Lawlor</PER>, Ph.D, <PER>Robert C. Steele</PER>, Ph.D, <PER>Karen Belshaw</PER> 
+ <PER>Ramgen Power</PER> Systems, Inc. 
+ Ph : 42 5.82 8.49 19, peter. baldwin@ramgen. com 
+ <PER>Gunnar Tamm</PER>, Ph.D 
+ Dept. of Civil and Mechanical Engineering 
+ United States Military Academy 
+ Ph : (84 5) 93 8 - 55 15, <PER>Gunnar. Tamm</PER>@usma.</NER>
+<NER><PER>Chang W. Sohn</PER> *, Ph.D, P. E., <PER>Franklin H. Holcomb</PER></NER>
+<NER><PER>Chang, G</PER></NER>
+<NER><PER>Chang, Sam S</PER></NER>
+<NER><PER>Chang, Steven D</PER></NER>
+<NER><PER>Chang, Yeon S</PER></NER>
+<NER><PER>Chanlett-Avery, Emma</PER></NER>
+<NER><PER>Charles A. Czeisler</PER>, <PER>Ph. BrrM</PER>. D</NER>
+<NER><PER>Charles A. Greenhall</PER> 
+ Jet Propulsion Laboratory, California Institute of Technology 
+ Pasadena, CA 91 10 9, USA 
+ E-mail : <PER>Charles. Greenhall</PER>@jpl. nasa. gov 
+</NER>
+<NER><PER>Charles A. Greenhall</PER> 
+ Jet Propulsion Laboratory, California Institute of Technology 
+ Pasadena, CA 91 10 9, USA 
+ E-mail : <PER>Charles. Greenhall</PER>@jpl. nasa.</NER>
+<NER><PER>Charles A. Greenhall</PER></NER>
+<NER><PER>Charles C. Ryerson</PER> 
+ Cold Regions Research and Engineering Laboratory 
+ US Army Engineer Research and Development Center 
+ Report</NER>
+<NER><PER>Charles C. Ryerson</PER></NER>
+<NER><PER>Charles E. Joachim</PER></NER>
+<NER><PER>Charles G. Sammis'</PER>, <PER>Ronald L. Biegel'</PER>, and <PER>Ares J. Rosakis</PER></NER>
+<NER><PER>Charles J. Koch</PER></NER>
+<NER><PER>Charles Jack</PER></NER>
+<NER><PER>Charles R. Doarn</PER></NER>
+<NER><PER>Charles Rong</PER>, <PER>Deryn Chu</PER>, and <PER>John Hopkins</PER> 
+ Sensors and Electron Devices Directorate,</NER>
+<NER><PER>Charles Rong</PER>, <PER>Deryn Chu</PER>, and <PER>John Hopkins</PER></NER>
+<NER><PER>Charles T. Roberts, Jr.</PER>,</NER>
+<NER><PER>Charles W. Fick Jr.</PER></NER>
+<NER><PER>Charron, L G</PER></NER>
+<NER><PER>Chase, Amos</PER></NER>
+<NER><PER>Chassignel, E P</PER></NER>
+<NER><PER>Checkai, Ronald T</PER></NER>
+<NER><PER>Chehroudi, Bruce</PER></NER>
+<NER><PER>Chen, Jessie Y</PER></NER>
+<NER><PER>Chen, M W</PER></NER>
+<NER><PER>Chen, Robert F</PER></NER>
+<NER><PER>Chen, Victor C</PER></NER>
+<NER><PER>Chen, ZhiHang</PER></NER>
+<NER><PER>Cheng Liu</PER>, M. D.,</NER>
+<NER><PER>Cheng, Tu-chen</PER></NER>
+<NER><PER>Cheung, Eugene</PER></NER>
+<NER><PER>Chi, Kim N</PER></NER>
+<NER><PER>Chi-Chen Hong</PER>,</NER>
+<NER><PER>Chi-Han Kao</PER></NER>
+<NER><PER>Chilton, Dan</PER></NER>
+<NER><PER>Chiu, David Y</PER></NER>
+<NER><PER>Chiu, Yu-Hui</PER></NER>
+<NER><PER>Choi, Kyung K</PER></NER>
+<NER><PER>Chris Grabowski</PER> and <PER>Wayne Sommars</PER></NER>
+<NER><PER>Chris Mocnik</PER></NER>
+<NER><PER>Chris Ridgard</PER> 
+ Advanced Composites Group, Inc</NER>
+<NER><PER>Chris Ridgard</PER></NER>
+<NER><PER>Chris Sabol</PER>, * <PER>Thomas Sukut</PER>, * <PER>Keric Hill</PER>, * <PER>Kyle T. Alfriend</PER>, 
+ * <PER>Brendan Wright</PER>, * <PER>You Li</PER>, and <PER>Paul Schumacher</PER></NER>
+<NER><PER>Chris Wilson</PER></NER>
+<NER><PER>Chris Young</PER> 
+ <PER>Barbara Fletcher</PER> 
+ <PER>James Buescher</PER> 
+ Space and Naval Warfare Systems Center 
+ San Diego, CA 
+ <PER>Louis L. Whitcomb</PER> 
+ Johns Hopkins University 
+ Baltimore, MD 
+ <PER>Dana Yoerger</PER> 
+ <PER>Andrew Bowen</PER> 
+ <PER>Robert McCabe</PER> 
+ <PER>Matt Heintz</PER> 
+ <PER>Robert Fuhrmann</PER> 
+ <PER>Chris Taylor</PER> 
+ <PER>Robert Elder</PER> 
+ Woods Hole Oceanographic Institution 
+ Woods Hole, MA 
+ Abstract- The Hybrid Remotely Operated Vehicle (HROV)</NER>
+<NER><PER>Chris Young</PER> 
+ <PER>Barbara Fletcher</PER> 
+ <PER>James Buescher</PER> 
+ Space and Naval Warfare Systems Center 
+ San Diego, CA 
+ <PER>Louis L. Whitcomb</PER> 
+ Johns Hopkins University 
+ Baltimore, MD 
+ <PER>Dana Yoerger</PER> 
+ <PER>Andrew Bowen</PER> 
+ <PER>Robert McCabe</PER> 
+ <PER>Matt Heintz</PER> 
+ <PER>Robert Fuhrmann</PER> 
+ <PER>Chris Taylor</PER> 
+ <PER>Robert Elder</PER> 
+ Woods Hole Oceanographic Institution 
+ Woods Hole,</NER>
+<NER><PER>Chris Young</PER></NER>
+<NER><PER>Christensen, James</PER></NER>
+<NER><PER>Christina S. Pichot</PER> 
+ Email : christina. s. pichot@uth. tmc.</NER>
+<NER><PER>Christine Neslund-Dudas</PER></NER>
+<NER><PER>Christine Scott</PER> 
+ Specialist in Social Policy 
+ <PER>Carol D. Davis</PER> 
+ Information Research</NER>
+<NER><PER>Christine Scott</PER></NER>
+<NER><PER>Christopher A. Horeczy</PER> 
+ Land Force Doctrine and 
+ Training System Headquarters 
+ Canada 
+ <PER>Thomas Porathe</PER> 
+ M ? lardalen University 
+ Sweden 
+ <PER>Marcus Lem</PER> 
+ Health Canada 
+ Canada 
+ <PER>Joachim Stamm</PER> 
+ PLATH GmbH 
+ Germany 
+ <PER>Sonya McMullen</PER> 
+ Tech Reach, Inc. 
+ USA 
+ <PER>Margaret Varga</PER> 
+ QinetiQ 
+</NER>
+<NER><PER>Christopher A. Horeczy</PER></NER>
+<NER><PER>Christopher Bolkcom</PER> 
+ Specialist in Military Aviation 
+ <PER>Emma Chanlett-Avery</PER> 
+ Specialist in Asian</NER>
+<NER><PER>Christopher Bolkcom</PER> 
+ Specialist in National Defense 
+ Foreign Affairs, Defense, and Trade</NER>
+<NER><PER>Christopher Bolkcom</PER></NER>
+<NER><PER>Christopher Calhoun</PER> * 
+ <PER>Donald Monk</PER> *</NER>
+<NER><PER>Christopher Chippa</PER></NER>
+<NER><PER>Christopher D. Pratt</PER></NER>
+<NER><PER>Christopher J. Pagnanelli</PER> and <PER>Willianl F. Cashin</PER></NER>
+<NER><PER>Christopher K. Curtis</PER> 
+ <PER>Krystal M. Thomas</PER> 
+ Logistics Readiness Branch 
+ Air Force Research Laboratory 
+ <PER>Curtis H. Casteel</PER> 
+ Signature Modeling Branch 
+ Air Force Research Laboratory 
+ Interim Report for October 20 06 to February 20 0</NER>
+<NER><PER>Christopher K. Curtis</PER> 
+ <PER>Krystal M. Thomas</PER> 
+ Logistics Readiness Branch 
+ Air Force Research Laboratory 
+ <PER>Curtis H. Casteel</PER> 
+ Signature Modeling Branch 
+ Air Force Research</NER>
+<NER><PER>Christopher K. Curtis</PER></NER>
+<NER><PER>Christopher K. McClernon</PER></NER>
+<NER><PER>Christopher K. Ober</PER></NER>
+<NER><PER>Christopher R. Mullins</PER></NER>
+<NER><PER>Christopher Scott Ieva</PER></NER>
+<NER><PER>Christopher Voss</PER></NER>
+<NER><PER>Christopher W. Clark</PER> 
+ Bioacoustics Research Program, Cornell Laboratory of Ornithology 
+ Phone : (60 7) 25 42 40 5 FAX : (60 7) 25 4 - 24 60 E-mail : cwc 2@cornell. edu 
+ <PER>William T. Ellison</PER> 
+ Marine Acoustics, Inc. 
+ Phone : (40 1) 84 7 - 75 08 FAX : (40 1) 84 7 - 78 64 E-mail : bill. ellison@marineacoustics. com 
+ <PER>Leila T. Hatch</PER> 
+ Stellwagen Bank National Marine Sanctuary, NOAA National Ocean Service 
+ Phone : (78 1) 54 5 - 80 26 FAX : (78 1) 54 5 - 80 36 Email : leila. hatch@noaa. gov 
+ <PER>Richard L. Merrick</PER> 
+ Northeast Fisheries Science Center, NOAA Fisheries 
+ Phone : (50 8) 49 5 - 22 91 FAX : (50 8) 49 5 - 20 32 Email : richard. merrick@noaa. gov 
+ <PER>Sofie M. Van Parijs</PER> 
+ Northeast Fisheries Science Center, NOAA Fisheries 
+ Phone : (50 8) 49 5 - 21 19 FAX : (50 8) 49 5 - 22 58 Email : sofie. vanparijs@noaa. gov 
+ <PER>David N. Wiley</PER> 
+ Stellwagen Bank National Marine Sanctuary, NOAA National Ocean Service 
+ Phone : (78 1) 54 5 - 80 26 FAX : (78 1) 54 5 - 80 36 Email : david. wiley@noaa. gov 
+ http : / / stellwagen. noaa. gov / science / passive _ acoustics.</NER>
+<NER><PER>Christopher W. Clark</PER></NER>
+<NER><PER>Christos E. Maragoudakis</PER> and <PER>Vernon Kopsa</PER></NER>
+<NER><PER>Chu, Deryn</PER></NER>
+<NER><PER>Chu, Peter C</PER></NER>
+<NER><PER>Chuan Lian Koh</PER> 
+ <PER>Eng Siong Ng</PER></NER>
+<NER><PER>Chuan Lian Koh</PER></NER>
+<NER><PER>Chung, Kevin K</PER></NER>
+<NER><PER>Chung, Peter W</PER></NER>
+<NER><PER>Cid, Marisabel</PER></NER>
+<NER><PER>Claire Gmachl</PER></NER>
+<NER><PER>Clark, Christopher W</PER></NER>
+<NER><PER>Clark, Jeff</PER></NER>
+<NER><PER>Clark, John L</PER></NER>
+<NER><PER>Clark, Kristen A</PER></NER>
+<NER><PER>Clark, Paul C</PER></NER>
+<NER><PER>Clark, Richard A</PER></NER>
+<NER><PER>Clay J. Naito</PER> 
+ Associate Professor 
+ Department of Civil and Environmental Engineering 
+ <PER>Robert J. Dinan</PER> 
+ Air Force Research Laboratory 
+ <PER>Jeff W. Fisher</PER> and <PER>John M. Hoemann</PER> 
+ Applied Research Associates 
+ Tyndall AFB, FL 32 40 3 
+ Interim Report for 11 July 20 06 - 19 October 20 0</NER>
+<NER><PER>Clay J. Naito</PER> 
+ Associate Professor 
+ Department of Civil and Environmental Engineering 
+ <PER>Robert J. Dinan</PER> 
+ Air Force Research Laboratory 
+ <PER>Jeff W. Fisher</PER> and <PER>John M. Hoemann</PER> 
+ Applied Research Associates 
+ Tyndall AFB, FL 32 40</NER>
+<NER><PER>Clay J. Naito</PER></NER>
+<NER><PER>Clayton, John D</PER></NER>
+<NER>Clearwater, FL, Including</NER>
+<NER><PER>Cleary, Margot P</PER></NER>
+<NER><PER>Clemente-Col, Pablo</PER></NER>
+<NER><PER>Clementine Feau</PER>,</NER>
+<NER><PER>Clements, Alvin</PER></NER>
+<NER><PER>Clements, John D</PER></NER>
+<NER><PER>Clifford Wendel</PER>, M. S., CIH, CSP 
+ Chemical and Biological Defense Command 
+ Aberdeen Proving Ground, Maryland 
+</NER>
+<NER><PER>Clifford Wendel</PER>, M. S., CIH, CSP 
+ Chemical and Biological Defense Command 
+ Aberdeen Proving Ground,</NER>
+<NER><PER>Clifford Wendel</PER>, M. S., CIH,</NER>
+<NER><PER>Clifford Yapp</PER> 
+ Quantum Research International, Inc</NER>
+<NER><PER>Clifford Yapp</PER></NER>
+<NER><PER>Clifford, Melody A</PER></NER>
+<NER><PER>Clinton T. Lawler</PER></NER>
+<NER>Co, Hewlett-Packard</NER>
+<NER>Co-PI <PER>Michael Piasecki</PER></NER>
+<NER><PER>Cocanour, Christine S</PER></NER>
+<NER><PER>Cochran, Bill L</PER></NER>
+<NER><PER>Cole, M W</PER></NER>
+<NER><PER>Cole, M.</PER>, <PER>Nothwang, W.</PER>, <PER>Hirsch, S.</PER>, <PER>Mohanchandra, K. P.</PER>, <PER>Demaree, J.</PER>, and <PER>Carman G. P.</PER>,"Integration of Active Thin Films with</NER>
+<NER><PER>Colenda, Brinn F</PER></NER>
+<NER><PER>Coles, Colin T</PER></NER>
+<NER><PER>Collier, Corey M</PER></NER>
+<NER><PER>Collins, Nancy R</PER></NER>
+<NER><PER>Collins, Thomas R</PER></NER>
+<NER><PER>Colonel David</PER> 81.</NER>
+<NER><PER>Colonel James E. Anderson</PER></NER>
+<NER><PER>Colonel James L. Greenstone</PER>, EdD, MSC,</NER>
+<NER><PER>Colonel James R. Macklin, Jr.</PER></NER>
+<NER><PER>Colonel John R. Martin</PER></NER>
+<NER><PER>Colonel Lance R. Koenig</PER></NER>
+<NER><PER>Colonel Martin Hershkowitz</PER> (MDDF-Ret</NER>
+<NER><PER>Colonel Richard P. Samuels</PER> 
+ USAF 
+ School of Advanced Military</NER>
+<NER><PER>Colonel Richard P. Samuels</PER></NER>
+<NER><PER>Colonel Scott Kubica</PER></NER>
+<NER><PER>Colonel Siriphong Patcharakanokkul</PER></NER>
+<NER><PER>Colonel Terry J. Jamison</PER></NER>
+<NER><PER>Colonel Uldric L. Fiore, Jr.</PER>, USA, is staff judge advocate assigned to the this traditional role into the modern and less</NER>
+<NER><PER>Colton, R J</PER></NER>
+<NER>Columbus, OH 43 21 0 - 10 6</NER>
+<NER><PER>Commander Bradford E. Ableson</PER>, USN, is command chaplain</NER>
+<NER><PER>Commander Phillip G. Pattee</PER>, USN (Ret.), is an instructor in the</NER>
+<NER><PER>Condley, C J</PER></NER>
+<NER><PER>Connell, John P</PER></NER>
+<NER><PER>Conquest, Tom</PER></NER>
+<NER><PER>Constance L. Heitmeyer</PER>, Member, IEEE, <PER>Myla M. Archer</PER>, Member, IEEE Computer Society, 
+ <PER>Elizabeth I. Leonard</PER>, Member, IEEE Computer Society, and <PER>John D. McLean</PER></NER>
+<NER><PER>Constance L. Heitmeyer</PER>, Member, IEEE, <PER>Myla M. Archer</PER>, Member, IEEE Computer Society</NER>
+<NER>Constrained-feed Rotman</NER>
+<NER><PER>Conyers, Lawrence B</PER></NER>
+<NER><PER>Cook, Daniel A</PER></NER>
+<NER><PER>Cook, J</PER></NER>
+<NER><PER>Cook, Nicolas</PER></NER>
+<NER><PER>Cook, Paul J</PER></NER>
+<NER><PER>Cook, Wade D</PER></NER>
+<NER><PER>Cooper, William H</PER></NER>
+<NER><PER>Coppola, Christopher P</PER></NER>
+<NER><PER>Corbett, Michael</PER></NER>
+<NER><PER>Corey M. Collier</PER> 
+ <PER>Jeffrey C. Kacala</PER></NER>
+<NER><PER>Corrie Vandervlugt</PER>, <PER>Robert Sampson</PER>, <PER>Robert Karlsen</PER></NER>
+<NER><PER>Coudray, Aaron</PER></NER>
+<NER>Cover, ME</NER>
+<NER><PER>Coyne, K M</PER></NER>
+<NER><PER>Craig AA. Clappeerton</PER></NER>
+<NER><PER>Craig DeLancey</PER></NER>
+<NER><PER>Crandell, S H</PER></NER>
+<NER><PER>Crane, Carrie C</PER></NER>
+<NER><PER>Crawford, Frederick L</PER></NER>
+<NER><PER>Crawford, John E</PER></NER>
+<NER><PER>Crecelius, E</PER></NER>
+<NER><PER>Creighton, Steven</PER></NER>
+<NER><PER>Crimi, Michelle</PER></NER>
+<NER><PER>Cronin, Doug</PER></NER>
+<NER><PER>Cross, Guy</PER></NER>
+<NER><PER>Cruickshank, Kristian J</PER></NER>
+<NER><PER>Cruz, Rene L</PER></NER>
+<NER><PER>Cumming, Alfred</PER></NER>
+<NER><PER>Cunningham, Albert R</PER></NER>
+<NER><PER>Cunningham, Philip L</PER></NER>
+<NER><PER>Curt Tarnoff</PER> 
+ Specialist in Foreign Affairs 
+ <PER>Marian Leonardo Lawson</PER> 
+ Analyst in Foreign</NER>
+<NER><PER>Curt Tarnoff</PER> 
+ Specialist in Foreign</NER>
+<NER><PER>Curt Tarnoff</PER></NER>
+<NER><PER>Curtis, Christopher K</PER></NER>
+<NER><PER>D'Andrea, John</PER></NER>
+<NER><PER>D'Angelo, Anthony P</PER></NER>
+<NER><PER>D. B. Pedersen</PER> and <PER>S. Wang</PER></NER>
+<NER><PER>D. D. Pappas</PER> *, <PER>W. E. Kosik</PER>, <PER>A. Bujanda</PER>, <PER>J. D. Demaree</PER>, <PER>J. K. Hirvonen</PER>, <PER>J. A. Orlicki</PER>, 
+ <PER>R. E. Jensen</PER>, <PER>S. H. McKnight</PER> 
+ Materials Division 
+ Weapons and Materials Research Directorate 
+ U. S. Army Research Laboratory 
+</NER>
+<NER><PER>D. D. Pappas</PER> *, <PER>W. E. Kosik</PER>, <PER>A. Bujanda</PER>, <PER>J. D. Demaree</PER>, <PER>J. K. Hirvonen</PER>, <PER>J. A. Orlicki</PER>, 
+ <PER>R. E. Jensen</PER>, <PER>S. H. McKnight</PER> 
+ Materials Division 
+ Weapons and Materials Research Directorate 
+ U. S. Army Research</NER>
+<NER><PER>D. D. Pappas</PER> *, <PER>W. E. Kosik</PER>, <PER>A. Bujanda</PER>, <PER>J. D. Demaree</PER>, <PER>J. K. Hirvonen</PER>, <PER>J. A. Orlicki</PER>,</NER>
+<NER><PER>D. E. Leisle</PER> and <PER>G. M. Sherrell</PER> (Puget Sound Naval Shipyard</NER>
+<NER><PER>D. Gong</PER>, <PER>J. T. Kohut</PER>, and <PER>S. M. Glenn</PER> 
+ Received 15 May 20 09 ; revised 24 September 20 09 ; accepted 2 October 20 09 ; published 3 April 20 10</NER>
+<NER><PER>D. Gong</PER>, <PER>J. T. Kohut</PER>, and <PER>S. M. Glenn</PER></NER>
+<NER><PER>D. Herbst</PER> *, P. L. and <PER>J. Niles</PER> 
+ U. S. Army RDECOM-ARDEC-AETC-EWETD 
+ Picatinny Arsenal 
+ <PER>S. Larson</PER>, and <PER>V. Medina</PER> 
+ U. S. Army Corp. of Engineers 
+ Vicksburg, Mississippi 
+ P. L. Sheehan 
+ SAIC 
+ Picatinny Arsenal 
+</NER>
+<NER><PER>D. Herbst</PER> *, P. L. and <PER>J. Niles</PER> 
+ U. S. Army RDECOM-ARDEC-AETC-EWETD 
+ Picatinny Arsenal 
+ <PER>S. Larson</PER>, and <PER>V. Medina</PER> 
+ U. S. Army Corp. of Engineers 
+ Vicksburg, Mississippi 
+ P. L. Sheehan 
+ SAIC 
+ Picatinny</NER>
+<NER><PER>D. Herbst</PER> *, P. L. and <PER>J. Niles</PER></NER>
+<NER><PER>D. Jones</PER>, <PER>K. Kerr</PER>, <PER>R. Carr</PER>, <PER>J. Olsonbaker</PER> 
+ Applied Physics Laboratory / University of Washington, 10 13 NE 40 th St., Seattle, WA 
+ <PER>J. Cook</PER>, <PER>T. Tsui</PER>, <PER>D. Brown</PER>, 
+ Naval Research Laboratory, Code 75 40, 7 Grace Hopper Ave., Monterey, CA 93 94 3 - 
+ <PER>J. Ballas</PER>, <PER>J. Stroup</PER>, <PER>K. Wauchope</PER>, <PER>L. Aker</PER></NER>
+<NER><PER>D. Jones</PER>, <PER>K. Kerr</PER>, <PER>R. Carr</PER>, <PER>J. Olsonbaker</PER></NER>
+<NER><PER>D. P. Dandekar</PER> *, <PER>J. W. McCauley</PER>, and <PER>W. H. Green</PER> 
+ <PER>N. K. Bourne</PER> 
+ University of Manchester, UK 
+ <PER>M. W. Chen</PER> 
+ Johns Hopkins University, Baltimore MD and Tohoku University, Sendai, Japan 
+</NER>
+<NER><PER>D. P. Dandekar</PER> *, <PER>J. W. McCauley</PER>, and <PER>W. H. Green</PER> 
+ <PER>N. K. Bourne</PER> 
+ University of Manchester, UK 
+ <PER>M. W. Chen</PER> 
+ Johns Hopkins University, Baltimore MD and Tohoku University, Sendai,</NER>
+<NER><PER>D. P. Dandekar</PER> *, <PER>J. W. McCauley</PER>, and <PER>W. H. Green</PER></NER>
+<NER><PER>D. Silvermetz</PER>, <PER>M. Bloch</PER>, and <PER>M. Meirs</PER> 
+ Frequency Electronics, Inc. 
+</NER>
+<NER><PER>D. Silvermetz</PER>, <PER>M. Bloch</PER>, and <PER>M. Meirs</PER> 
+ Frequency Electronics, Inc</NER>
+<NER><PER>D. Silvermetz</PER>, <PER>M. Bloch</PER>, and <PER>M. Meirs</PER></NER>
+<NER><PER>DARLEY, WILLIAM M</PER></NER>
+<NER><PER>DAVID P. MORTON</PER> 
+ Graduate Program in Operations Research, The University of Texas at Austin, Austin, Texas 78 71 2, morton@mail. utexas. edu 
+ <PER>R. KEVIN WOOD</PER> 
+ Operations Research Department, Naval Postgraduate School, Monterey, California 93 94 3, kwood@nps. navy.</NER>
+<NER><PER>DAVID P. MORTON</PER></NER>
+<NER>DC Power, wa t t</NER>
+<NER><PER>DENNIS M. MURPHY</PER> and <PER>JAMES F. WHITE</PER></NER>
+<NER><PER>DR. RICHARD E. McCLELLAND</PER></NER>
+<NER><PER>Daanen, Hein A</PER></NER>
+<NER><PER>Dabney, Thomas</PER></NER>
+<NER><PER>Daggett, Stephen</PER></NER>
+<NER><PER>Dagne, Ted</PER></NER>
+<NER><PER>Dale, Catherine M</PER></NER>
+<NER><PER>Dale, Catherine</PER></NER>
+<NER><PER>Dale, Charles</PER></NER>
+<NER><PER>Dalgleish, F R</PER></NER>
+<NER><PER>Dallas D. Owens</PER></NER>
+<NER><PER>Dan Chilton</PER></NER>
+<NER><PER>Dana A. Shea</PER> 
+ Specialist in Science and Technology</NER>
+<NER><PER>Dana A. Shea</PER></NER>
+<NER><PER>Danczyk, Stephen A</PER></NER>
+<NER><PER>Dandekar, D P</PER></NER>
+<NER><PER>Daniel A. Goodman</PER></NER>
+<NER><PER>Daniel C. Burtz</PER></NER>
+<NER><PER>Daniel D Wright III, LT COL</PER>,</NER>
+<NER><PER>Daniel H. Else</PER></NER>
+<NER><PER>Daniel J. Lesieutre</PER>, <PER>Marnix F. E. Dillenius</PER> 
+ Nielsen Engineering & Research, Inc. 
+ Mountain View, CA 
+ USA 
+ <PER>Jens A. Gjestvang</PER> 
+ Kongsberg Defence & Aerospace AS 
+ Kongsberg 
+ NORWAY 
+ lesieutre@nearinc. com / mfed@nearinc. com 
+ jens. gjestvang@kongsberg. com 
+</NER>
+<NER><PER>Daniel J. Lesieutre</PER>, <PER>Marnix F. E. Dillenius</PER> 
+ Nielsen Engineering & Research, Inc. 
+ Mountain View, CA 
+ USA 
+ <PER>Jens A. Gjestvang</PER> 
+ Kongsberg Defence & Aerospace AS 
+ Kongsberg 
+ NORWAY 
+ lesieutre@nearinc. com / mfed@nearinc. com 
+ jens. gjestvang@kongsberg.</NER>
+<NER><PER>Daniel J. Lesieutre</PER>, <PER>Marnix F. E. Dillenius</PER></NER>
+<NER><PER>Daniel Kuehl</PER></NER>
+<NER><PER>Daniel L. Brown</PER> (AFRL / RZSS) ; <PER>Alec D. Gallimore</PER> (University of Michigan</NER>
+<NER><PER>Daniel L. Brown</PER> 1, <PER>C. William Larson</PER> 2, <PER>William A. Hargus, Jr.</PER></NER>
+<NER><PER>Daniel R. Fuhrmann</PER> (Michigan Technological University) 
+ J. Paul Browning and Muralidhar Rangaswamy (AFRL / RYRT</NER>
+<NER><PER>Daniel Schaubert</PER> et al. 
+ University of Massachusetts at Amherst 
+ Electrical and Computer Engineering 
+ Final</NER>
+<NER><PER>Daniel Schaubert</PER> et al</NER>
+<NER><PER>Daniel, I M</PER></NER>
+<NER><PER>Daniszewski, David</PER></NER>
+<NER><PER>Danny Reible</PER> 
+ University of Texas at Austin 
+ <PER>Gui Lotufo</PER> 
+ U. S. Army Corps of Engineers 
+ <PER>Alison Skwarski</PER> 
+ University of Texas at Austin 
+ <PER>David Lampert</PER> 
+ University of Texas at Austin 
+ <PER>XiaoXia Lu</PER></NER>
+<NER><PER>Danny Reible</PER></NER>
+<NER><PER>Dariusz Stramski</PER> 
+ Marine Physical Laboratory 
+ Scripps Institution of Oceanography 
+ University of California at San Diego 
+ phone : (85 8) 53 4 - 33 53 fax : (85 8) 53 4 - 76 41 email : dstramski@ucsd. edu 
+ http : / / www. mpl. ucsd. edu / people /</NER>
+<NER><PER>Dariusz Stramski</PER></NER>
+<NER><PER>Darol D. M. Fiala</PER></NER>
+<NER><PER>Darren J. Hanson</PER></NER>
+<NER><PER>Dasgupta, Nilanjan</PER></NER>
+<NER><PER>Daugherty, Brian W</PER></NER>
+<NER><PER>Dave Hammer</PER> (center) 1 st Marines</NER>
+<NER><PER>David A Hostutler</PER> 
+ <PER>Wade L. Klennert</PER></NER>
+<NER><PER>David A. Gewirtz</PER></NER>
+<NER><PER>David A. Hebert</PER> and <PER>Stephen M. de Brnyn</PER></NER>
+<NER><PER>David A. Lamb</PER> and <PER>David Gorsich</PER></NER>
+<NER><PER>David A. Wilson</PER></NER>
+<NER><PER>David Armoza</PER> 
+ <PER>Dennis G. Brown</PER> 
+ Naval Research Laboratory 
+ 20 2 - 76 7 - 39 61, 20 2 - 40 4 - 73 34 
+ armoza@ait. nrl. navy. mil, dbrown@ait. nrl. navy. mil 
+ Keywords : 
+ Augmented Reality, BARS, HMD, JSAF, HLA, RTI, Semi-Automated Forces, Embedded Training</NER>
+<NER><PER>David Armoza</PER> 
+ <PER>Dennis G. Brown</PER> 
+ Naval Research Laboratory 
+ 20 2 - 76 7 - 39 61, 20 2 - 40 4 - 73 34 
+ armoza@ait. nrl. navy. mil, dbrown@ait. nrl. navy.</NER>
+<NER><PER>David Armoza</PER></NER>
+<NER><PER>David Barber</PER></NER>
+<NER><PER>David C. H. Saint-Amand</PER></NER>
+<NER><PER>David C. Sheridan</PER>, Ph.D 
+ SemiSouth Laboratories, Inc</NER>
+<NER><PER>David C. Sheridan</PER>,</NER>
+<NER><PER>David E. Norris</PER>, <PER>Joydeep Bhattacharyya</PER>, and <PER>Rodney W. Whitaker</PER> 
+ BBN Technologies and Los Alamos National Laboratory 
+ Sponsored by Army Space and Missile Defense</NER>
+<NER><PER>David E. Norris</PER>, <PER>Joydeep Bhattacharyya</PER>, and <PER>Rodney W. Whitaker</PER></NER>
+<NER><PER>David E. Price</PER> 1, <PER>Bob Spence</PER> 2, <PER>Russell Towle</PER> 3 
+ Lawrence Livermore National Laboratory 
+ (92 5) 42 2 - 39 80 
+ price 16@llnl. gov, <PER>B. Spence</PER>@mailbox. uq. edu. au, rustybel@foothill.</NER>
+<NER><PER>David E. Price</PER> 1, <PER>Bob Spence</PER> 2, <PER>Russell Towle</PER></NER>
+<NER><PER>David F. Burrelli</PER> 
+ Specialist in National Defense 
+ Foreign Affairs, Defense, and Trade Division 
+ <PER>Charles Dale</PER> 
+ Legislative Attorney 
+ American Law Division 
+ Congressional Research Service ? The Library of</NER>
+<NER><PER>David F. Burrelli</PER></NER>
+<NER><PER>David F. Jarrard</PER>, M. D</NER>
+<NER><PER>David Guldenzopf</PER></NER>
+<NER><PER>David H. Salzberg</PER></NER>
+<NER><PER>David Hall</PER> 
+ <PER>D. M. Akbar Hussain</PER> 
+ The Pennsylvania State University Aalborg University, Esbjerg 
+ USA 
+ Denmark 
+ <PER>Vera Kamp</PER> 
+ PLATH GmbH 
+ Germany 
+ <PER>T. Kesavadas</PER> 
+ University at Buffalo 
+ USA 
+ <PER>Tom Johansen</PER> 
+ Nordic Defense 
+</NER>
+<NER><PER>David Hall</PER></NER>
+<NER><PER>David J. Shifflett</PER> 
+ <PER>Paul C. Clark</PER> 
+ <PER>Cynthia E. Irvine</PER> 
+ <PER>Thuy D. Nguyen</PER> 
+ <PER>Timothy M. Vidas</PER> 
+ <PER>Timothy E. Levin</PER></NER>
+<NER><PER>David J. Shifflett</PER></NER>
+<NER><PER>David M. Walker</PER>, <PER>Albert G. Beyerle</PER>, <PER>George E. Miller</PER>, and <PER>Richard J. Arthur</PER> 
+ Quantum Technology, LLC, Mirmar Sensor, LLC, 
+ University of California-Irvine, and Pacific Northwest National Laboratory 
+ Sponsored by National Nuclear Security Administration 
+ Office of Nonproliferation Research and Development 
+ Office of Defense Nuclear</NER>
+<NER><PER>David M. Walker</PER>, <PER>Albert G. Beyerle</PER>, <PER>George E. Miller</PER>, and <PER>Richard J. Arthur</PER></NER>
+<NER><PER>David R. Clarke</PER></NER>
+<NER><PER>David Y. T. Chiu</PER> and <PER>Troy Alexander</PER> 
+ Sensors and Electron Devices Directorate,</NER>
+<NER><PER>David Y. T. Chiu</PER> and <PER>Troy Alexander</PER></NER>
+<NER><PER>David, Philip</PER></NER>
+<NER><PER>Davidson, Barry D</PER></NER>
+<NER><PER>Davis, Angela</PER></NER>
+<NER><PER>Davis, Carol D</PER></NER>
+<NER><PER>Davis, D</PER></NER>
+<NER><PER>Davis, J R</PER></NER>
+<NER><PER>Davis, Lynn E</PER></NER>
+<NER><PER>Davis, S O</PER></NER>
+<NER><PER>Day, Mark L</PER></NER>
+<NER><PER>DeCew, Judson</PER></NER>
+<NER><PER>DeFisher, S</PER></NER>
+<NER><PER>DeFrank, Joseph J</PER></NER>
+<NER><PER>DeJesus, Adam C</PER></NER>
+<NER><PER>DeNolfo, Phil</PER></NER>
+<NER><PER>DeSpirito, James</PER></NER>
+<NER><PER>Dean Keiswetter</PER></NER>
+<NER><PER>Deborah D. Stine</PER> 
+ Specialist in Science and Technology Policy 
+ Resources, Science, and Industry Division 
+ Advanced Research Projects Agency - Energy : 
+ Background, Status, and Selected Issues for</NER>
+<NER><PER>Deborah D. Stine</PER> 
+ Specialist in Science and Technology Policy 
+ Resources, Science, and Industry</NER>
+<NER><PER>Deborah D. Stine</PER></NER>
+<NER><PER>Debra Schreckenghost</PER>, <PER>Terrence Fong</PER>, <PER>Tod Milam</PER>, <PER>Estrellina Pacis</PER>, and <PER>Hans Utz</PER> 
+ ghost@ieee. org, tmilam@traclabs. com 
+ terry. fong@nasa. gov 
+ estrellina. b. pacis@nasa. gov 
+ hans. utz@nasa.</NER>
+<NER><PER>Debra Schreckenghost</PER>, <PER>Terrence Fong</PER>, <PER>Tod Milam</PER>, <PER>Estrellina Pacis</PER>, and <PER>Hans Utz</PER></NER>
+<NER><PER>Defraigne, P</PER></NER>
+<NER><PER>Deirdre J. Knapp</PER></NER>
+<NER><PER>Delale, Feridun</PER></NER>
+<NER><PER>Demaree, J D</PER></NER>
+<NER><PER>Demetrios Matsakis</PER> 
+ Time Service Department 
+ U. S. Naval Observatory 
+ Washington, DC 20 39 2,</NER>
+<NER><PER>Demetrios Matsakis</PER></NER>
+<NER><PER>Demetrios N. Matsakis</PER>, <PER>Ken Senior</PER>, and <PER>Lee A. Breakiron</PER> 
+ U. S. Naval Observatory 
+ Washington, DC 20 39 2, USA 
+</NER>
+<NER><PER>Demetrios N. Matsakis</PER>, <PER>Ken Senior</PER>, and <PER>Lee A. Breakiron</PER> 
+ U. S. Naval Observatory 
+ Washington, DC 20 39 2,</NER>
+<NER><PER>Demirbilek, Zeki</PER></NER>
+<NER><PER>Deng, J</PER></NER>
+<NER><PER>Denn, Morton</PER></NER>
+<NER><PER>Dennis Garvey</PER>, <PER>Manny Bustillos</PER>, <PER>Sam Chang</PER>, <PER>Ronald Cionco</PER>, <PER>Ed Creegan</PER>, 
+ <PER>Doyle Scott Elliott</PER>, <PER>Giap Huynh</PER>, <PER>Cheryl Klipp</PER>, <PER>David Ligon</PER>, <PER>Edward Measure</PER>, 
+ <PER>David Quintis</PER>, <PER>Mario Torres</PER>, <PER>Gail Vaucher</PER>, <PER>Edward Vidal, Jr.</PER>, <PER>Yansen Wang</PER>, 
+ <PER>Chatt Williamson</PER>, <PER>Jimmy Yarbrough</PER>, and <PER>Young Yee</PER></NER>
+<NER><PER>Dennis K. Rohrbaugh</PER> 
+ RESEARCH AND TECHNOLOGY</NER>
+<NER><PER>Dennis K. Rohrbaugh</PER></NER>
+<NER><PER>Dennis Lindwall</PER> 
+</NER>
+<NER><PER>Dennis Lindwall</PER></NER>
+<NER><PER>Dennis M. Bushnell</PER></NER>
+<NER><PER>Denton, Michael L</PER></NER>
+<NER><PER>Deodutta Roy</PER>,</NER>
+<NER><PER>Dereje Seifu</PER> and <PER>Shashi P. Karna</PER>, Senior Member IEEE 
+ Abstract- We present a high yield filling technique of multi- 
+ walled carbon nanotubes (MWNTs), grown vertically on a SiO 2 
+ substrate, with magnetic nanoparticles using pulsed laser 
+ deposition (PLD). Magnetization measurements in-plane and out- 
+ of-plane with respect to the sample surface indicate reasonable 
+ coercivity estimated at 0.4 T. The magnetic anisotropy is however 
+ found to be randomly oriented, indicating a polycrystalline 
+ structure. The unique difference between the in-plane and out-of- 
+ plane magnetizations is the sharing produced by the 
+ demagnetizing field in the perpendicular direction</NER>
+<NER><PER>Dereje Seifu</PER> and <PER>Shashi P. Karna</PER>, Senior Member</NER>
+<NER><PER>Derek A. Randall, Jr.</PER> 
+ <PER>Charles M. Seaberry</PER></NER>
+<NER><PER>Derek A. Randall, Jr.</PER></NER>
+<NER><PER>Derickson, D</PER></NER>
+<NER><PER>Despres, John</PER></NER>
+<NER><PER>Detoma, E</PER></NER>
+<NER><PER>Detonia, E</PER></NER>
+<NER><PER>Detroit, MI</PER> 48 20</NER>
+<NER><PER>Devinant, Philippe</PER></NER>
+<NER><PER>DiEsposti, R S</PER></NER>
+<NER><PER>DiMarzio, Nancy</PER></NER>
+<NER><PER>Diana I. Angelis</PER></NER>
+<NER><PER>Dick K. Nanto</PER> 
+ Specialist in Industry and Trade 
+ <PER>Shayerah Ilias</PER> 
+ Analyst in International Trade and Finance 
+ <PER>J. Michael Donnelly</PER> 
+ Information Research</NER>
+<NER><PER>Dick K. Nanto</PER>, Coordinator 
+ Specialist in Industry and</NER>
+<NER><PER>Dick K. Nanto</PER>,</NER>
+<NER><PER>Dick K. Nanto</PER></NER>
+<NER><PER>Dick, G J</PER></NER>
+<NER><PER>Dickey, T</PER></NER>
+<NER><PER>Dickrell, Pamela L</PER></NER>
+<NER><PER>Diddams, S</PER></NER>
+<NER><PER>Diehl, Douglas</PER></NER>
+<NER><PER>Diener, William</PER></NER>
+<NER><PER>Dilawar Khan</PER></NER>
+<NER><PER>Dillenius, Marnix F</PER></NER>
+<NER><PER>Dimitri Kesi</PER></NER>
+<NER><PER>Dinan, Robert J</PER></NER>
+<NER>Director's Corner</NER>
+<NER><PER>Divan, Ralu S</PER></NER>
+<NER><PER>Doarn, Charles R</PER></NER>
+<NER><PER>Dobner, Paul</PER></NER>
+<NER><PER>Dobson, Rhea E</PER></NER>
+<NER><PER>Dodge, Doug A</PER></NER>
+<NER><PER>Dogaru, Traian</PER></NER>
+<NER><PER>Donahue, Brian T</PER></NER>
+<NER><PER>Donald B. Hanson</PER> 
+ Universal Technology</NER>
+<NER><PER>Donald B. Hanson</PER></NER>
+<NER><PER>Donald J. Atwood</PER></NER>
+<NER><PER>Donna M. Peehl</PER>,</NER>
+<NER><PER>Donnelly, J M</PER></NER>
+<NER><PER>Donnelly, R P</PER></NER>
+<NER><PER>Donovan D. Phillips</PER></NER>
+<NER><PER>Donsbach, Jamie S</PER></NER>
+<NER><PER>Dorsey, Jennifer</PER></NER>
+<NER><PER>Dotan, Itzhak</PER></NER>
+<NER><PER>Doug Cronin</PER>, <PER>G. W. Landrum</PER>, <PER>Ken Sharp</PER> 
+ Naval Oceanographic</NER>
+<NER><PER>Doug Cronin</PER>, <PER>G. W. Landrum</PER>, <PER>Ken Sharp</PER></NER>
+<NER><PER>Dougherty', Sara L</PER></NER>
+<NER><PER>Douglas A. Page</PER>, BAE Systems, Burlington, Massachusetts 
+ Braham Himed, AFRL / SNRT, Rome, New York 
+ Mark E. Davis, AFRL / SNRT, Rome, New York 
+ Key Words : Space-based radar, bistatic radar, STAP, expectation-maximization, knowledge-aided</NER>
+<NER><PER>Douglas A. Page</PER>, BAE Systems, Burlington,</NER>
+<NER><PER>Douglas Boehm</PER>, <PER>Joe White</PER> 
+ U. S. Naval Research Laboratory 
+ <PER>Stephen Mitchell</PER> and <PER>Edward Powers</PER> 
+ U. S. Naval Observatory 
+</NER>
+<NER><PER>Douglas Boehm</PER>, <PER>Joe White</PER> 
+ U. S. Naval Research Laboratory 
+ <PER>Stephen Mitchell</PER> and <PER>Edward Powers</PER> 
+ U. S. Naval</NER>
+<NER><PER>Douglas Boehm</PER>, <PER>Joe White</PER></NER>
+<NER><PER>Douglas J. Bruggeman</PER></NER>
+<NER><PER>Douglas J. Strand</PER> 
+ Weapons and Materials Research Directorate,</NER>
+<NER><PER>Douglas J. Strand</PER></NER>
+<NER><PER>Douglas P. Drob</PER> and <PER>J. M. Picone</PER>, Upper Atmospheric Physics Branch, 
+ E. O. Hulburt Center for Space Research, Naval Research Laboratory 
+ Sponsored by the U. S. Department of Energy 
+ Office of Nonproliferation Research and Engineering 
+ Office of Defense Nuclear Nonproliferation 
+ National Nuclear Security</NER>
+<NER><PER>Douglas P. Drob</PER> and <PER>J. M. Picone</PER>, Upper Atmospheric Physics Branch, 
+ E. O. Hulburt Center for Space Research, Naval Research</NER>
+<NER><PER>Douglas P. Drob</PER> and <PER>J. M. Picone</PER>, Upper Atmospheric Physics Branch</NER>
+<NER><PER>Douglas, Robert</PER></NER>
+<NER><PER>Dowd, Andrew</PER></NER>
+<NER><PER>Dowgiallo, David J</PER></NER>
+<NER><PER>Doyle Nichols</PER></NER>
+<NER><PER>Doyle, Charles</PER></NER>
+<NER><PER>Doyle, Richard J</PER></NER>
+<NER><PER>Dr. Brooke Schaab</PER> 
+ U. S. Army Research Institute for the 
+ Social and Behavioral</NER>
+<NER><PER>Dr. Brooke Schaab</PER></NER>
+<NER><PER>Dr. Claudia Husseneder</PER></NER>
+<NER><PER>Dr. Daniel C. Kammer, Professor</PER></NER>
+<NER><PER>Dr. David Chris Arney</PER></NER>
+<NER><PER>Dr. David W. Major</PER></NER>
+<NER><PER>Dr. Douglas V. Johnson II</PER></NER>
+<NER><PER>Dr. Gabriel Marcella</PER></NER>
+<NER><PER>Dr. Halloran</PER> has written several papers and given several talks on the use of the internet in</NER>
+<NER><PER>Dr. J. A. Gillies, Dr.</PER> <PER>P. Arnott, Dr.</PER> <PER>V. Etyemezian, Dr.</PER> <PER>H. Kuhns</PER>,</NER>
+<NER><PER>Dr. Jack Foley</PER></NER>
+<NER><PER>Dr. James Dumont</PER></NER>
+<NER><PER>Dr. Janne E. Nolan</PER>, Chair, <PER>Edward Randolph Jayne II</PER>, 
+ <PER>Ronald F. Lehman</PER>, <PER>David E. McGiffert</PER>, And <PER>Paul C. Warnke</PER></NER>
+<NER><PER>Dr. Janne E. Nolan</PER>, Chair, <PER>Edward Randolph Jayne II</PER></NER>
+<NER><PER>Dr. Johannes Gemmrich</PER></NER>
+<NER><PER>Dr. John K. Brennan</PER> and Dr. M ? ge Fermen-Coker 
+ Weapons and Materials Research Directorate, ARL 
+ <PER>Dr. Linhbao Tran</PER> 
+ Shock Physics</NER>
+<NER><PER>Dr. John K. Brennan</PER> and Dr. M ? ge</NER>
+<NER><PER>Dr. Kelly J. Benoit-Bird</PER> 
+ Assistant Professor of Oceanography 
+ College of Oceanic and Atmospheric Sciences 
+ Oregon State University 
+ phone : (54 1) 73 7 - 20 63 fax : (54 1) 73 7 - 20 64 email : kbenoit@coas. oregonstate. edu 
+ <PER>Dr. Margaret Anne McManus</PER> 
+ Assistant Professor of Oceanography 
+ University of Hawaii at Manoa 
+ Marine Sciences Building 
+ phone : (80 8) 95 6 - 86 23 fax : (80 8) 95 6 - 95 16 email : mamc@hawaii.</NER>
+<NER><PER>Dr. Kelly J. Benoit-Bird</PER></NER>
+<NER><PER>Dr. Leif Rosenberger</PER></NER>
+<NER><PER>Dr. Leonard Wong</PER></NER>
+<NER><PER>Dr. M. J. Miller</PER>, <PER>Geary Layne</PER>, <PER>Doug Cronin</PER> 
+ Naval Research Laboratory Code 74 40.1, Stennis Space Center, MS 
+ Naval Oceanographic Office, Stennis Space Center, MS 
+</NER>
+<NER><PER>Dr. M. J. Miller</PER>, <PER>Geary Layne</PER>, <PER>Doug Cronin</PER> 
+ Naval Research Laboratory Code 74 40.1, Stennis Space Center, MS 
+ Naval Oceanographic Office, Stennis Space Center,</NER>
+<NER><PER>Dr. M. J. Miller</PER>, <PER>Geary Layne</PER>, <PER>Doug Cronin</PER></NER>
+<NER><PER>Dr. Margaret Anne McManus</PER></NER>
+<NER><PER>Dr. Marlin L. Gendron</PER> and <PER>Geary Layne</PER> 
+ Naval Research Laboratory Code 74 40.1 
+ Fax : (22 8) 68 8 - 48 53 
+ mgendron@nrlssc. navy. mil, glayne@nrlssc. navy. mil 
+ <PER>Christy Gautre</PER>, <PER>James Hammack</PER>, and <PER>Charles Martin</PER> 
+ Mine Warfare Department 
+ Naval Oceanographic Office 
+ Christy. Gautre@navy. mil, James. Hammack@navy. mil, and Charles. B. Martin@navy. mil 
+</NER>
+<NER><PER>Dr. Marlin L. Gendron</PER> and <PER>Geary Layne</PER> 
+ Naval Research Laboratory Code 74 40.1 
+ Fax : (22 8) 68 8 - 48 53 
+ mgendron@nrlssc. navy. mil, glayne@nrlssc. navy. mil 
+ <PER>Christy Gautre</PER>, <PER>James Hammack</PER>, and <PER>Charles Martin</PER> 
+ Mine Warfare Department 
+ Naval Oceanographic Office 
+ Christy. Gautre@navy. mil, James. Hammack@navy. mil, and Charles. B. Martin@navy.</NER>
+<NER><PER>Dr. Marlin L. Gendron</PER> and <PER>Geary Layne</PER></NER>
+<NER><PER>Dr. Marvin Dr. Eric</PER> Stoll <PER>Joseph Fine</PER> 
+ Epstein 
+ <PER>Marvin. EpsteinOITT</PER>. com <PER>Eric. StollOITT</PER>. com Joseph. Fine@ITT. com 
+ ITT Industries, AerospaceKommunicationsDiv. 
+ Clifton, NJ 07 01 4 - 19 93,</NER>
+<NER><PER>Dr. Marvin</PER> <PER>Dr. Eric Stoll</PER> <PER>Joseph Fine</PER></NER>
+<NER><PER>Dr. Michael Ricard</PER> / <PER>Mr. Mark Abramson</PER> / <PER>Dr. David Carter</PER> / <PER>Dr. Stephan Kolitz</PER> 
+ The Charles Stark Draper Laboratory, Inc. 
+ Cambridge, MA 02 13 9</NER>
+<NER><PER>Dr. Michael Ricard</PER> / <PER>Mr. Mark Abramson</PER> / <PER>Dr. David Carter</PER> / <PER>Dr. Stephan Kolitz</PER></NER>
+<NER><PER>Dr. Michelle Crimi</PER></NER>
+<NER><PER>Dr. Nancy R. Mead</PER></NER>
+<NER><PER>Dr. Paul Lefebvre</PER></NER>
+<NER><PER>Dr. Paula Coble</PER></NER>
+<NER><PER>Dr. R. Mossavati</PER> 
+ Centre for Basic Metrology 
+ National Physical Laboratory 
+ Teddington 
+ TWll OLW 
+ UK 
+</NER>
+<NER><PER>Dr. R. Mossavati</PER> 
+ Centre for Basic Metrology 
+ National Physical Laboratory 
+ Teddington 
+ TWll OLW 
+</NER>
+<NER><PER>Dr. R. Mossavati</PER></NER>
+<NER><PER>Dr. R. P. Donnelly</PER> & <PER>Mr. C. J. Condley</PER> 
+ Strategic Systems Group 
+ Dstl Portsdown West 
+ Fareham, Hants, PO 17 6 AD 
+ UK 
+ rpdonnelly@dstl. gov. uk / cjcondley@dstl. gov.</NER>
+<NER><PER>Dr. R. P. Donnelly</PER> & <PER>Mr. C. J. Condley</PER></NER>
+<NER><PER>Dr. Rashid</PER> A</NER>
+<NER><PER>Dr. Richard J. Doyle</PER> 
+ Manager, Information Technology and Software Systems Division 
+ Leader, Center for Space Mission Information Systems and Software 
+ Jet Propulsion Laboratory 
+ California Institute of Technology 
+ MS 12 6 - 22 1 / 48 00 Oak Grove Drive 
+ Pasadena, California 91 10 9 - 80 99 USA 
+ rdoyle@jpl. nasa. gov 
+ http : / / it. jpl. nasa. gov, http : / / csmiss. jpl. nasa. gov, http : / / cs. jpl. nasa.</NER>
+<NER><PER>Dr. Richard J. Doyle</PER></NER>
+<NER><PER>Dr. Robert Jacobs</PER></NER>
+<NER><PER>Dr. Sarunas S. Lazdinis</PER> and 
+ <PER>COL William F. Havelka</PER> 
+ HQ Air Force Materiel Command, 
+ Office of International</NER>
+<NER><PER>Dr. Sarunas S. Lazdinis</PER></NER>
+<NER><PER>Dr. Sherifa Zuhur</PER></NER>
+<NER><PER>Dr. Stephen Blank</PER></NER>
+<NER><PER>Dr. Steven Metz</PER></NER>
+<NER><PER>Dr. Thomas Bowditch</PER></NER>
+<NER><PER>Dr. Thomas McHugh</PER></NER>
+<NER><PER>Dr. Thomas Meitzler</PER>, <PER>Darryl Bryk</PER>, <PER>Euijung Sohn</PER>, <PER>Mary Bienkowski</PER>, <PER>Gregory Smith</PER>, 
+ Kimberly Lane and Rachel Jozwiak 
+ US Army TARDEC 
+ Warren, MI 
+ <PER>Thomas Moss</PER>, <PER>Robert Speece</PER>, and <PER>Charles Stevenson</PER> 
+ NASA Kennedy Space Center 
+ <PER>Dr. Dennis Gregoris</PER> 
+ MDA Corporation 
+ Brampton, Canada 
+ <PER>Dr. James Ragusa</PER> 
+ Independent Consultant 
+</NER>
+<NER><PER>Dr. Thomas Meitzler</PER>, <PER>Darryl Bryk</PER>, <PER>Euijung Sohn</PER>, <PER>Mary Bienkowski</PER>, <PER>Gregory Smith</PER>, 
+ Kimberly Lane and Rachel Jozwiak 
+ US Army TARDEC 
+ Warren, MI 
+ <PER>Thomas Moss</PER>, <PER>Robert Speece</PER>, and <PER>Charles Stevenson</PER> 
+ NASA Kennedy Space Center 
+ <PER>Dr. Dennis Gregoris</PER> 
+ MDA Corporation 
+ Brampton, Canada 
+ <PER>Dr. James Ragusa</PER> 
+ Independent</NER>
+<NER><PER>Dr. Thomas Meitzler</PER>, <PER>Darryl Bryk</PER>, <PER>Euijung Sohn</PER>, <PER>Mary Bienkowski</PER>, <PER>Gregory Smith</PER>,</NER>
+<NER><PER>Dr. Vaidya Nathan</PER> - Air Force Research</NER>
+<NER><PER>Dragonette, R A</PER></NER>
+<NER><PER>Drakopoulos, Leonidas</PER></NER>
+<NER><PER>Drob, Douglas P</PER></NER>
+<NER><PER>Droz, F</PER></NER>
+<NER><PER>Dumont, James</PER></NER>
+<NER><PER>Duncan Hunter</PER> National Defense Authorization Act for Fiscal Year 20 09 (see enclosure I)</NER>
+<NER><PER>Duncan, J A</PER></NER>
+<NER><PER>Duncan, Michael J</PER></NER>
+<NER><PER>Durbin, Tom</PER></NER>
+<NER><PER>Durrheim, Ray</PER></NER>
+<NER><PER>Dushaw, Brian</PER></NER>
+<NER><PER>Dwyer, John J</PER></NER>
+<NER><PER>Dzakowic, James E</PER></NER>
+<NER><PER>Dzieciuch, Matthew A</PER></NER>
+<NER><PER>E Lindstrom</PER> 1, <PER>A. McCurdy</PER> 2, <PER>J. Manley</PER> 3, and <PER>A. N. Shepard</PER></NER>
+<NER><PER>E. Detoma</PER>, <PER>L. Bonafede</PER>, and <PER>P. Capetti</PER> 
+ SEPA S. p. A. 
+ Via <PER>Andrea Pozzo</PER>, 8, 10 14 1 Torino,</NER>
+<NER><PER>E. Detonia</PER></NER>
+<NER><PER>E. J. Rapacki, Jr.</PER> 
+ Weapons and Materials Research Directorate,</NER>
+<NER><PER>E. J. Rapacki, Jr.</PER></NER>
+<NER><PER>E. W. Butterline</PER>, 
+ <PER>J. E. Abate</PER>, <PER>G. P. Zampetti</PER>, 
+ AT&T End User Organization, AT&T Bell Laboratories 
+ Network Operations Group 
+</NER>
+<NER><PER>E. W. Butterline</PER>, 
+ <PER>J. E. Abate</PER>, <PER>G. P. Zampetti</PER>, 
+ AT&T End User Organization, AT&T Bell Laboratories 
+ Network Operations</NER>
+<NER><PER>E. W. Butterline</PER>,</NER>
+<NER>EMI, Next-Generation</NER>
+<NER>Ebeling, Robert M</NER>
+<NER>Eddy, Brenda</NER>
+<NER>Edgecombe, P</NER>
+<NER><PER>Editor?s Note</PER> on This Issue...................................................................................................................</NER>
+<NER><PER>Edmundo O. Acosta</PER>,</NER>
+<NER><PER>Eduardo D. Michelena</PER>, Ocean Engineer 
+ National Data Buoy Center 
+ Stennis Space Center, MS 39 52 9 
+ Ed. Michelena@noaa. gov 
+ <PER>Regina L. Moore</PER>, Systems Engineer 
+ National Data Buoy Center 
+ Stennis Space Center, MS 39 52 9 
+ Regina. Moore@noaa.</NER>
+<NER><PER>Eduardo D. Michelena</PER>, Ocean</NER>
+<NER><PER>Edward A. Watson</PER> (AFRL / RYJ) 
+ <PER>Bert Whitaker</PER> (OptiMetrics, Inc.) 
+ <PER>Scott Harris</PER> (Flatiron Research, LLC</NER>
+<NER><PER>Edward C. Kaiser</PER> 
+ Oregon Health and Science University 
+ OGI School of Science & Engineering 
+ kaiser@cse. ogi. edu 
+</NER>
+<NER><PER>Edward C. Kaiser</PER> 
+ Oregon Health and Science University 
+ OGI School of Science & Engineering 
+ kaiser@cse. ogi.</NER>
+<NER><PER>Edward C. Kaiser</PER></NER>
+<NER><PER>Edward C. Liu</PER> 
+ Legislative</NER>
+<NER><PER>Edward C. Liu</PER></NER>
+<NER><PER>Edward E. LeFebvre</PER>, et</NER>
+<NER><PER>Edward F. Bruner</PER> 
+ Specialist in National Defense 
+ Foreign Affairs, Defense, and Trade</NER>
+<NER><PER>Edward F. Bruner</PER></NER>
+<NER><PER>Edward Joseph Filardo</PER>,</NER>
+<NER><PER>Edward W. Kratovil</PER></NER>
+<NER><PER>Edward, Colonel</PER></NER>
+<NER><PER>Edwards, Dean</PER></NER>
+<NER><PER>Edwards, Stephanie S</PER></NER>
+<NER><PER>Ehrgott, Jay</PER></NER>
+<NER><PER>Ek, Carl</PER></NER>
+<NER><PER>Elder, Robert</PER></NER>
+<NER><PER>Elias, Bart</PER></NER>
+<NER><PER>Elihu Zimet</PER> and <PER>Christopher Mann</PER></NER>
+<NER><PER>Elizabeth K. Bowman</PER></NER>
+<NER><PER>Elizabeth M. Poposki</PER></NER>
+<NER><PER>Ellison, William T</PER></NER>
+<NER><PER>Elsea, Jennifer</PER></NER>
+<NER><PER>Elson, Barry</PER></NER>
+<NER><PER>Emma Chanlett-Avery</PER> (Coordinator) 
+ Analyst in Asian Affairs 
+ Foreign Affairs, Defense, and Trade Division 
+ <PER>Mark E. Manyin</PER> 
+ Specialist in Asian Affairs 
+ Foreign Affairs, Defense, and Trade Division 
+ <PER>William H. Cooper</PER> 
+ Specialist in International Trade and Finance 
+ Foreign Affairs, Defense, and Trade Division 
+ Japan-U. S. Relations : Issues for</NER>
+<NER><PER>Emma Chanlett-Avery</PER> (Coordinator) 
+ Analyst in Asian Affairs 
+ Foreign Affairs, Defense, and Trade Division 
+ <PER>Mark E. Manyin</PER> 
+ Specialist in Asian Affairs 
+ Foreign Affairs, Defense, and Trade Division 
+ <PER>William H. Cooper</PER> 
+ Specialist in International Trade and Finance 
+ Foreign Affairs, Defense, and Trade</NER>
+<NER><PER>Emma Chanlett-Avery</PER> (Coordinator</NER>
+<NER><PER>Emmanuel Boss</PER></NER>
+<NER><PER>End, T</PER></NER>
+<NER><PER>Enright, Michael P</PER></NER>
+<NER><PER>Epstein, Susan B</PER></NER>
+<NER><PER>EpsteinOITT, Marvin</PER></NER>
+<NER><PER>Eric A. Guttman</PER></NER>
+<NER><PER>Eric A. Sandvol</PER>, <PER>Bao Xueyang</PER>, <PER>Ekrem Zor</PER>, <PER>Jiakang Xie</PER>, <PER>Brian J. Mitchell</PER>, and <PER>David P. Schaff</PER> 5 
+ University of Missouri, TUBITAK Marmara Research Center-Earth Science Institute, AFRL / VSBYE, 
+ St. Louis University, and Lamont Doherty Earth Observatory, Columbia University 
+ Sponsored by National Nuclear Security Administration 
+ Office of Nonproliferation Research and Development 
+ Office of Defense Nuclear Nonproliferation 
+ Contract Nos. DE-FC 52 - 03 NA 99 51 81, 2, DE-FC 52 - 03 NA 99 51 93, 5, and DE-FC 52 - 03 NA 99 52 0</NER>
+<NER><PER>Eric A. Sandvol</PER>, <PER>Bao Xueyang</PER>, <PER>Ekrem Zor</PER>, <PER>Jiakang Xie</PER>, <PER>Brian J. Mitchell</PER>, and <PER>David P. Schaff</PER></NER>
+<NER><PER>Eric G. Helm</PER></NER>
+<NER><PER>Eric J. Terrill</PER></NER>
+<NER><PER>Eric L. Lang</PER> 
+ Defense Personnel Security Research Center 
+ <PER>Leissa C. Nelson</PER> 
+ <PER>Alissa J. Hayes</PER> 
+ Northrop Grumman Technical</NER>
+<NER><PER>Eric L. Lang</PER></NER>
+<NER><PER>Eric, Marvin D</PER></NER>
+<NER><PER>Erick T. Huang</PER></NER>
+<NER><PER>Erlandson, Ernest</PER></NER>
+<NER><PER>Ernest A. Gonzalez</PER>, MD, <PER>Frederick A. Moore</PER>, MD, <PER>John B. Holcomb</PER>, MD, <PER>Charles C. Miller</PER>, PhD, 
+ <PER>Rosemary A. Kozar</PER>, MD, PhD, <PER>S. Rob Todd</PER>, MD, <PER>Christine S. Cocanour</PER>, MD, <PER>Bjorn C. Balldin</PER>, MD, 
+ and <PER>Bruce A. McKinley</PER>, PhD 
+ Background : Acidosis, hypothermia</NER>
+<NER><PER>Ernest A. Gonzalez</PER>, MD, <PER>Frederick A. Moore</PER>, MD, <PER>John B. Holcomb</PER>, MD, <PER>Charles C. Miller</PER>, PhD, 
+ <PER>Rosemary A. Kozar</PER>, MD, PhD, <PER>S. Rob Todd</PER>, MD, <PER>Christine S. Cocanour</PER>, MD, <PER>Bjorn C. Balldin</PER>, MD, 
+ and <PER>Bruce A. McKinley</PER>,</NER>
+<NER><PER>Ernest A. Gonzalez</PER>, MD, <PER>Frederick A. Moore</PER>, MD, <PER>John B. Holcomb</PER>, MD, <PER>Charles C. Miller</PER>, PhD</NER>
+<NER><PER>Ernest J. King, Commander</PER> in Chief, U. S</NER>
+<NER><PER>Ervin Y. Rodin</PER>, P. I</NER>
+<NER><PER>Estela Minaya</PER>, <PER>Evanz LAzaro</PER>, <PER>Percy Aliaga</PER>, <PER>Magaly Gonzalez</PER>, and <PER>Wilfredo Cano</PER></NER>
+<NER><PER>Estlack, Larry E</PER></NER>
+<NER><PER>Ethan L. Hull</PER>, <PER>Richard H. Pehl</PER>, <PER>James R. Lathrop</PER>, <PER>Peggy L. Mann</PER>, <PER>Ronnie B. Mashburn</PER>, <PER>Bruce E. Suttle</PER>, 
+ <PER>Harry S. Miley</PER>, <PER>Craig E. Aalseth</PER>, <PER>Theodore W. Bowyer</PER>, and <PER>Todd W. Hossbach</PER> 
+ PHDs Co. and Pacific Northwest National Laboratory 
+ Sponsored by National Nuclear Security Administration 
+ Office of Nonproliferation Research and Development 
+ Office of Defense Nuclear</NER>
+<NER><PER>Ethan L. Hull</PER>, <PER>Richard H. Pehl</PER>, <PER>James R. Lathrop</PER>, <PER>Peggy L. Mann</PER>, <PER>Ronnie B. Mashburn</PER>, <PER>Bruce E. Suttle</PER>,</NER>
+<NER><PER>Ethel R. S. Bradley</PER></NER>
+<NER><PER>Eugene Cheung</PER></NER>
+<NER><PER>Eugene T. Herrin</PER>, <PER>Paul W. Golden</PER>, <PER>Petru T. Negraru</PER> and <PER>Mihan H. McKenna</PER> 
+ Southern Methodist University, and US Army Engineer Research and 
+ Development Center-GSL 
+ Sponsored by Army Space and Missile Defense</NER>
+<NER><PER>Eugene T. Herrin</PER>, <PER>Paul W. Golden</PER>, <PER>Petru T. Negraru</PER> and <PER>Mihan H. McKenna</PER></NER>
+<NER><PER>Everett, H R</PER></NER>
+<NER><PER>Ewing, J J</PER></NER>
+<NER><PER>F'rueholz, R P</PER></NER>
+<NER><PER>F. COTS</PER> Policy Conclusion.........................................................................................1</NER>
+<NER><PER>F. Hegeler</PER>, <PER>J. D. Sethian</PER>, <PER>M. C. Myers</PER>, <PER>M. F. Wolford</PER>, <PER>M. Friedman</PER>, <PER>J. L. Giuliani</PER>, <PER>P. Burns</PER>, and <PER>R. Jaynes</PER> 
+ Plasma Physics Division, Naval Research Laboratory, Washington, DC 20 37 5 USA 
+ Commonwealth Technology, Inc., Alexandria, VA 22 31 5 USA 
+ Research Support Instruments, Lanham, MD 20 70 6 USA 
+ Science Applications International Corporation, McLean, VA 22 10 2</NER>
+<NER><PER>F. Hegeler</PER>, <PER>J. D. Sethian</PER>, <PER>M. C. Myers</PER>, <PER>M. F. Wolford</PER>, <PER>M. Friedman</PER>, <PER>J. L. Giuliani</PER>, <PER>P. Burns</PER>, and <PER>R. Jaynes</PER></NER>
+<NER><PER>F. R. Dalgleish</PER>, <PER>F. M. Caimi</PER>, <PER>C. H. Mazel</PER> and <PER>J. M. Glynn</PER> 
+ Harbor Branch Oceanographic Institute 
+ Fort Pierce, FL 34 94 6 USA 
+ Physical Sciences Inc. 
+ Andover, MA 01 81 0</NER>
+<NER><PER>F. R. Dalgleish</PER>, <PER>F. M. Caimi</PER>, <PER>C. H. Mazel</PER> and <PER>J. M. Glynn</PER></NER>
+<NER><PER>F. Vernotte</PER>, <PER>M. Vincent</PER> 
+ Observatoire de Besan ^ on 
+ Phone : + 33 3.81.66.69.22 - Fax : + 33 3.81.66.69.44 - E-mail : francois@obs-besancon.</NER>
+<NER><PER>F. Vernotte</PER>, <PER>M. Vincent</PER> 
+ Observatoire de Besan ^</NER>
+<NER><PER>F. Vernotte</PER>, <PER>M. Vincent</PER></NER>
+<NER><PER>FAROOQ, MUHAMMAD</PER></NER>
+<NER><PER>FEA TURE</PER></NER>
+<NER><PER>FONDAMENTALE, ASTRONOMIE</PER></NER>
+<NER><PER>FREDERICK H. BARNES</PER></NER>
+<NER><PER>FRITZ, B K</PER></NER>
+<NER><PER>FRITZ, BRADLEY K</PER></NER>
+<NER><PER>Fainberg, Anthony</PER></NER>
+<NER><PER>Fareed Choudhury</PER></NER>
+<NER><PER>Farifteh F. Duffy</PER>, PhD ; <PER>Eve Moscicki</PER>, ScD, MPH ; 
+ Email : fduffy@psych.</NER>
+<NER><PER>Farley, John P</PER></NER>
+<NER><PER>Fatih Camci</PER> 
+ Impact Technologies, LLC 
+ fatih. camci@impact-tek. com 
+ <PER>G. Scott Valentine</PER> 
+ Impact Technologies, LLC 
+ scott. valentine@impact-tek.</NER>
+<NER><PER>Fatih Camci</PER></NER>
+<NER><PER>Fatih Sahin</PER> 
+ <PER>Serhat Ayhan</PER></NER>
+<NER><PER>Fatih Sahin</PER></NER>
+<NER><PER>Faye R. Toulan</PER>, <PER>Christopher Stabler</PER>, <PER>John J. La Scala</PER>, <PER>Hank Feuer</PER>, 
+ <PER>Dave Flanagan</PER>, and <PER>Paul Touchet</PER> 
+ Weapons and Materials Research Directorate,</NER>
+<NER><PER>Feau, Clementine</PER></NER>
+<NER><PER>Feder, Jody</PER></NER>
+<NER><PER>Fedkiw, Ronald</PER></NER>
+<NER><PER>Fedoroff, Nikolai</PER></NER>
+<NER><PER>Fei Cao</PER> 
+ (University of Alabama at Birmingham, Birmingham, AL, USA 
+ caof@cis. uab. edu) 
+ <PER>Barrett R. Bryant</PER> 
+ (University of Alabama at Birmingham, Birmingham, AL, USA 
+ bryant@cis. uab. edu) 
+ <PER>Rajeev R. Raje</PER> 
+ (Indiana University Purdue University, Indianapolis, IN, USA 
+ rraje@cs. iupui. edu) 
+ <PER>Andrew M. Olson</PER> 
+ (Indiana University Purdue University, Indianapolis, IN, USA 
+ aolson@cs. iupui. edu) 
+ <PER>Mikhail Auguston</PER> 
+ (Naval Postgraduate School, Monterey, CA, USA 
+ auguston@cs. nps. navy. mil) 
+ <PER>Wei Zhao</PER> 
+ (University of Alabama at Birmingham, Birmingham, AL, USA 
+ zhaow@cis. uab. edu) 
+ <PER>Carol C. Burt</PER> 
+ (University of Alabama at Birmingham, Birmingham, AL, USA 
+ cburt@cis. uab. edu</NER>
+<NER><PER>Fei Cao</PER></NER>
+<NER><PER>Fei Sun</PER>, <PER>Y. Pu</PER>, <PER>H. S Chan</PER> and <PER>R. S. Dow</PER></NER>
+<NER><PER>Felix Opitz</PER>, <PER>Thilo Trapp</PER>, Kaeye D ? stner, <PER>Thomas Kausch</PER> 
+ Defence and Communications Systems 
+ EADS Deutschland GmbH 
+ W ? rthstr.85, 89 07 7 Ulm, Germany 
+ { felix. opitz, thilo. trapp, kaeye. daestner, thomas. kausch }@eads. com 
+</NER>
+<NER><PER>Felix Opitz</PER>, <PER>Thilo Trapp</PER>, Kaeye D ? stner, <PER>Thomas Kausch</PER> 
+ Defence and Communications Systems 
+ EADS Deutschland GmbH 
+ W ? rthstr.85, 89 07 7 Ulm, Germany 
+ { felix. opitz, thilo. trapp, kaeye. daestner, thomas. kausch }@eads.</NER>
+<NER><PER>Felix Opitz</PER>, <PER>Thilo Trapp</PER>, Kaeye D ? stner, <PER>Thomas Kausch</PER></NER>
+<NER><PER>Felton, Melvin</PER></NER>
+<NER><PER>Fenton, Bruce M</PER></NER>
+<NER><PER>Fenton, Pat</PER></NER>
+<NER><PER>Ferebee, J M</PER></NER>
+<NER><PER>Ferguson, Terry</PER></NER>
+<NER><PER>Feuer, Hank</PER></NER>
+<NER><PER>Fiala, Darol D</PER></NER>
+<NER><PER>Fields, Terrance I</PER></NER>
+<NER><PER>Filardo, Edward J</PER></NER>
+<NER><PER>Fine, Joseph</PER></NER>
+<NER><PER>Fink, Yoel</PER></NER>
+<NER><PER>Fischer, Hannah</PER></NER>
+<NER><PER>Fischer, Joseph</PER></NER>
+<NER><PER>Fisher, Jeff W</PER></NER>
+<NER><PER>Fisk, Mark D</PER></NER>
+<NER><PER>Fisk, Peter T</PER></NER>
+<NER><PER>Fitch, Simeon</PER></NER>
+<NER><PER>Five-year Plan</PER></NER>
+<NER><PER>Flanagan, Dave</PER></NER>
+<NER><PER>Flanagan, Megan P</PER></NER>
+<NER><PER>Fletcher, Barbara</PER></NER>
+<NER><PER>Fling, Rick</PER></NER>
+<NER><PER>Flournoy, William S</PER></NER>
+<NER><PER>Foley, Jack</PER></NER>
+<NER><PER>Folger, Peter</PER></NER>
+<NER><PER>Foltz, Michael S</PER></NER>
+<NER><PER>Fong, Moira T</PER></NER>
+<NER><PER>Fong, Terrence</PER></NER>
+<NER><PER>Ford, Sean R</PER></NER>
+<NER><PER>Forest, Benjamin D</PER></NER>
+<NER><PER>Fort Leavenworth</PER>, Kansas 66 02 7 - 69 0</NER>
+<NER><PER>Fort Leavenworth</PER>,</NER>
+<NER><PER>Foster, Nick</PER></NER>
+<NER><PER>Frame, S</PER></NER>
+<NER><PER>Frances Hannan</PER>,</NER>
+<NER><PER>Francis, Scott</PER></NER>
+<NER><PER>Franco, Horacio</PER></NER>
+<NER><PER>Frandsen, Michael</PER></NER>
+<NER><PER>Frank E. Ritter</PER></NER>
+<NER><PER>Frank Gottron</PER> 
+ Specialist in Science and Technology Policy 
+ <PER>Dana A. Shea</PER> 
+ Specialist in Science and Technology</NER>
+<NER><PER>Frank Gottron</PER></NER>
+<NER><PER>Frank L Bub</PER>, <PER>Charles W. Horton</PER>, <PER>Melody A. Clifford</PER>, <PER>Dennis Krynen</PER>, <PER>Richard Myrick</PER> 
+ Naval Oceanographic Office 
+ Stennis Space Center, MS 39 52 2, USA 
+ BubF@NAVO. NAVY. MIL 
+ Abstract -The Naval Oceanographic Office (NAVOCEANO) 
+ deployed a Texas Automated Buoy System (TABS)</NER>
+<NER><PER>Frank L Bub</PER>, <PER>Charles W. Horton</PER>, <PER>Melody A. Clifford</PER>, <PER>Dennis Krynen</PER>, <PER>Richard Myrick</PER> 
+ Naval Oceanographic Office 
+ Stennis Space Center, MS 39 52 2, USA 
+ BubF@NAVO. NAVY.</NER>
+<NER><PER>Frank L Bub</PER>, <PER>Charles W. Horton</PER>, <PER>Melody A. Clifford</PER>, <PER>Dennis Krynen</PER>, <PER>Richard Myrick</PER></NER>
+<NER><PER>Franklin C. Wong</PER>, M. D. ;</NER>
+<NER><PER>Franklin D. Kramer</PER>, <PER>Stuart H. Starr</PER> (Point of Contact), <PER>Larry Wentz</PER>, <PER>Elihu Zimet</PER></NER>
+<NER><PER>Franks, Peter J</PER></NER>
+<NER><PER>Fraser, Nicholas A</PER></NER>
+<NER><PER>Fred S. Celec</PER></NER>
+<NER><PER>Frederick L. Crawford</PER></NER>
+<NER><PER>Frenzel, James</PER></NER>
+<NER><PER>Freytag, Lucy</PER></NER>
+<NER><PER>Friedman, Karen S</PER></NER>
+<NER><PER>Friedman, Karen</PER></NER>
+<NER><PER>Friedman, M</PER></NER>
+<NER><PER>Friedrichs, Carl T</PER></NER>
+<NER><PER>Frolova, E</PER></NER>
+<NER><PER>From, Steve L</PER></NER>
+<NER><PER>Frueholz, R P</PER></NER>
+<NER><PER>Ft. Belvoir</PER>, VA 22 06 0 - 62 1</NER>
+<NER><PER>Ft. Benning</PER>, Georgia, April-May 20 00................................................</NER>
+<NER><PER>Fuhrmann, Robert</PER></NER>
+<NER><PER>Fullenkamp, Adam M</PER></NER>
+<NER><PER>Fullerton, Anne M</PER></NER>
+<NER><PER>Funari, Tamara S</PER></NER>
+<NER><PER>Fung, Nicholas</PER></NER>
+<NER><PER>Funk, Fritz</PER></NER>
+<NER><PER>Fusco, Marnie L</PER></NER>
+<NER><PER>G. B. Deane</PER></NER>
+<NER><PER>G. B. Vunni</PER></NER>
+<NER><PER>G. F. Knoernschild</PER> 
+ Collins Air Transport Division 
+ Rockwell International Corp 
+</NER>
+<NER><PER>G. F. Knoernschild</PER> 
+ Collins Air Transport Division 
+ Rockwell International</NER>
+<NER><PER>G. F. Knoernschild</PER></NER>
+<NER><PER>G. Kogut</PER> *, <PER>G. Ahuja</PER>, <PER>B. Sights</PER>, <PER>E. B. Pacis</PER>, <PER>H. R. Everett</PER> 
+ Space and Naval Warfare Systems Center, San Diego 
+</NER>
+<NER><PER>G. Kogut</PER> *, <PER>G. Ahuja</PER>, <PER>B. Sights</PER>, <PER>E. B. Pacis</PER>, <PER>H. R. Everett</PER> 
+ Space and Naval Warfare Systems Center, San Diego</NER>
+<NER><PER>G. Kogut</PER> *, <PER>G. Ahuja</PER>, <PER>B. Sights</PER>, <PER>E. B. Pacis</PER>, <PER>H. R. Everett</PER></NER>
+<NER><PER>G. Scott Valentine</PER> 
+ <PER>James E. Dzakowic</PER> 
+ Impact Technologies, 
+ LLC 
+ scott. valentine@impact- 
+ tek. com 
+ <PER>Thomas Galie</PER> 
+ NSWC 
+ Carderock Division 
+ Philadelphia Naval 
+ Business Center, 
+ Philadelphia, PA, 19 11 2 - 
+ <PER>John Scharschan</PER> 
+</NER>
+<NER><PER>G. Scott Valentine</PER></NER>
+<NER><PER>G. Wyman</PER></NER>
+<NER><PER>GENERAL JOHN J. PERSHING</PER> ---. --------.</NER>
+<NER><PER>GEORGE C. MARSHALL</PER> AND <PER>DWIGHT D. EISENHOWER</PER></NER>
+<NER><PER>GOLIGER, Jean G</PER></NER>
+<NER><PER>GRABENSTEIN, JOHN D</PER></NER>
+<NER><PER>GROUND-PENETRATING RADAR</PER></NER>
+<NER><PER>GWINN, T</PER></NER>
+<NER><PER>Gabram, Douglas M</PER></NER>
+<NER><PER>Galaktionov, Konstantin I</PER></NER>
+<NER><PER>Galaktionov, Konstantin</PER></NER>
+<NER><PER>Galie, Thomas</PER></NER>
+<NER><PER>Galina Khitrova</PER>,</NER>
+<NER><PER>Gambino, R</PER></NER>
+<NER><PER>Gamboa, P</PER></NER>
+<NER><PER>Gameiro, Victor M</PER></NER>
+<NER><PER>Garber, Judy</PER></NER>
+<NER><PER>Garcia, Alfonzo E</PER></NER>
+<NER><PER>Garcia, Michael J</PER></NER>
+<NER><PER>Gardiner, Robert A</PER></NER>
+<NER><PER>Gardner, G B</PER></NER>
+<NER><PER>Gardner, Jennifer</PER></NER>
+<NER><PER>Gardner, Thomas A</PER></NER>
+<NER><PER>Garvey, Dennis M</PER></NER>
+<NER><PER>Garvey, R M</PER></NER>
+<NER><PER>Gary Witus</PER> * a, <PER>G. Gerhart</PER> b, <PER>W. Smuda</PER> b, <PER>H. Andrusz</PER> b 
+ a 
+</NER>
+<NER><PER>Gary Witus</PER> * a, <PER>G. Gerhart</PER> b, <PER>W. Smuda</PER> b, <PER>H. Andrusz</PER></NER>
+<NER><PER>Garza, Thomas H</PER></NER>
+<NER><PER>Gautre, Christy</PER></NER>
+<NER><PER>Gaylord, Kathryn M</PER></NER>
+<NER><PER>Geib, K M</PER></NER>
+<NER><PER>Geisbert, Jessica J</PER></NER>
+<NER><PER>Gendron, Marlin L</PER></NER>
+<NER><PER>General Charles F. Wald</PER>, USAF, is Deputy Commander, U. S. European Command. pabilities, people, and</NER>
+<NER><PER>General Dennis J. Reimer</PER> Training and</NER>
+<NER><PER>General J. H. Binford</PER> Peay III, USA,</NER>
+<NER><PER>General William Momyer, commander</PER></NER>
+<NER><PER>Genevieve J. Knezo</PER> 
+ Specialist in Science and Technology Policy 
+ Resources, Science, and Industry</NER>
+<NER><PER>Genevieve J. Knezo</PER></NER>
+<NER><PER>George P. Anderson</PER> 
+ Naval Research Laboratory 
+ Center for Bio / Molecular Science and Engineering 
+</NER>
+<NER><PER>George P. Anderson</PER> 
+ Naval Research Laboratory 
+ Center for Bio / Molecular Science and</NER>
+<NER><PER>George P. Anderson</PER></NER>
+<NER><PER>George W. Kattawar</PER> 
+ Dept. of Physics 
+ Texas A & M University 
+ phone : (40 9) 84 5 - 11 80 fax : (40 9) 84 5 - 25 90 email : kattawar@tamu. edu 
+ http : / / people. physics. tamu. edu / trouble / work. html 
+ LONG-TERM GOALS 
+ We wish to develop the theoretical and computational groundwork for a new and innovative program 
+ for the remote detection and characterization of both organic and inorganic aerosols using both active 
+ (lidar) and passive techniques. This aerosol study should be very beneficial to the Navy in the areas of 
+ communications, high power laser transmission, air-sea interactions, and standoff biological detection 
+ methods. We also want to continue our collaborative program in polarimetry with the group in Minsk 
+ headed by <PER>Dr. Eleonora Zege</PER></NER>
+<NER><PER>George W. Kattawar</PER> 
+ Dept. of Physics 
+ Texas A & M University 
+ phone : (40 9) 84 5 - 11 80 fax : (40 9) 84 5 - 25 90 email : kattawar@tamu. edu 
+ http : / / people. physics. tamu. edu / trouble / work.</NER>
+<NER><PER>George W. Kattawar</PER></NER>
+<NER><PER>Georgia?s Black</PER> Sea coast</NER>
+<NER><PER>Georgios Tsivgoulis</PER></NER>
+<NER><PER>Gerald Brown</PER>, <PER>Matthew Carlyle</PER>, <PER>Douglas Diehl</PER>, <PER>Jeffrey Kline</PER>, <PER>Kevin Wood</PER> 
+ { gbrown@nps. edu, mcarlyle@nps. edu, ddiehl@nps. edu, jekline@nps. edu, kwood@nps. edu</NER>
+<NER><PER>Gerald Brown</PER>, <PER>Matthew Carlyle</PER>, <PER>Douglas Diehl</PER>, <PER>Jeffrey Kline</PER>, <PER>Kevin Wood</PER></NER>
+<NER><PER>Gerald G. Brown</PER> ? <PER>Robert F. Dell</PER></NER>
+<NER><PER>Gerard Torenvliet</PER> and <PER>Iain Culligan</PER></NER>
+<NER><PER>Gerhard Wotawa</PER> and <PER>Andreas W. N. Becker</PER> 
+ Provisional Technical Secretariat of the Preparatory Commission 
+ for the Comprehensive Nuclear-Test-Ban Treaty</NER>
+<NER><PER>Gerhard Wotawa</PER> and <PER>Andreas W. N. Becker</PER></NER>
+<NER><PER>Gerhart, G</PER></NER>
+<NER><PER>Germany, F R</PER></NER>
+<NER><PER>Gertler, Jeremiah</PER></NER>
+<NER><PER>Gervais, Maria R</PER></NER>
+<NER><PER>Gesser, Edward</PER></NER>
+<NER><PER>Getachew Kirose</PER> 
+ Sensors and Electron Devices Directorate,</NER>
+<NER><PER>Getachew Kirose</PER></NER>
+<NER><PER>Gewirtz, David A</PER></NER>
+<NER><PER>Gi Young Kim</PER></NER>
+<NER><PER>Gibson, Robert G</PER></NER>
+<NER><PER>Giffard, P</PER></NER>
+<NER><PER>Gifford, Al</PER></NER>
+<NER><PER>Gilbert, Kong P</PER></NER>
+<NER><PER>Gillen, K</PER></NER>
+<NER><PER>Ginart, Antonio</PER></NER>
+<NER><PER>Ginn, D</PER></NER>
+<NER><PER>Gioia, M</PER></NER>
+<NER><PER>Giovannini, G</PER></NER>
+<NER><PER>Giuliani, J L</PER></NER>
+<NER><PER>Giuliani, J</PER></NER>
+<NER><PER>Givi, P</PER></NER>
+<NER><PER>Gjestvang, Jens A</PER></NER>
+<NER><PER>Glass, W R</PER></NER>
+<NER><PER>Glen Wilt</PER> CFDRC 
+ <PER>Jonathan Hood</PER> CFDRC 
+ <PER>Jerry Jenkins</PER> CFDRC 
+ <PER>Matt Thomas</PER> CFDRC 
+ JefTMorris CCNY 
+ <PER>Morton Denn</PER> CCNY 
+ <PER>Boris Khusid</PER> NJIT 
+ <PER>Yueyang Shen</PER></NER>
+<NER><PER>Glen Wilt</PER></NER>
+<NER><PER>Glenn Gunzelmann</PER> and <PER>Kevin A. Gluck</PER> 
+ Air Force Research Laboratory 
+ The deleterious consequences of fatigue have motivated decades of research to understand the 
+ impact of inadequate sleep on cognitive performance. A key objective is to use insights from that 
+ research to develop predictive models that can serve as valid tools for managing work - rest 
+ schedules and making Go, No - Go mission decisions. Ultimately, this is about maximizing 
+ human performance and minimizing risk. In this paper, we describe a methodology that is 
+ moving us in the direction of achieving this goal, involving the integration of mathematical and 
+ computational process modeling approaches to understand how fatigue affects human cognitive 
+ processes. Mathematical models that capture the dynamics of the human arousal system are 
+ integrated with a cognitive architecture that instantiates a unified theory of the mechanisms of 
+ human cognition. The integration of these approaches leads to an enhanced ability to quantify the 
+ impact of fatigue on performance in particular tasks. We illustrate this by making principled, a 
+ priori predictions regarding how human performance in instrument flight with a Predator UAV 
+ synthetic task environment may change across 4 days without sleep</NER>
+<NER><PER>Glenn Gunzelmann</PER> and <PER>Kevin A. Gluck</PER> 
+ Air Force Research</NER>
+<NER><PER>Glenn Gunzelmann</PER> and <PER>Kevin A. Gluck</PER></NER>
+<NER><PER>Glenn, S M</PER></NER>
+<NER><PER>Glenn, Scott</PER></NER>
+<NER><PER>Gluck, Kevin A</PER></NER>
+<NER><PER>Glynn, J M</PER></NER>
+<NER><PER>Gobbo, G</PER></NER>
+<NER><PER>Goddard, Douglas N</PER></NER>
+<NER><PER>Godfrey, Michael</PER></NER>
+<NER><PER>Gok, Rengin</PER></NER>
+<NER><PER>Gokcicek, Bulent</PER></NER>
+<NER><PER>Golany, Boaz</PER></NER>
+<NER><PER>Goldberg, S</PER></NER>
+<NER><PER>Golden, Paul W</PER></NER>
+<NER><PER>Goldstein, Peter</PER></NER>
+<NER><PER>Gong, D</PER></NER>
+<NER><PER>Gonzalez, Ernest A</PER></NER>
+<NER><PER>Gonzalez, Magaly</PER></NER>
+<NER><PER>Goodfellow, Gerald V</PER></NER>
+<NER><PER>Goodman, Steven R</PER></NER>
+<NER><PER>Goodwin, Gerald F</PER></NER>
+<NER><PER>Goodyear Brands</PER> (STEEL / STEEL CONSTRUCTION)</NER>
+<NER><PER>Gord, James R</PER></NER>
+<NER><PER>Gordon, James</PER></NER>
+<NER><PER>Gorsich, David</PER></NER>
+<NER><PER>Gottron, Frank</PER></NER>
+<NER><PER>Gouldstone, C</PER></NER>
+<NER><PER>Govind Mallick</PER> and <PER>Shashi P. Karna</PER> 
+ Weapons and Materials Research Directorate,</NER>
+<NER><PER>Govind Mallick</PER> and <PER>Shashi P. Karna</PER></NER>
+<NER><PER>Grady, N R</PER></NER>
+<NER><PER>Graf, Kirsten S</PER></NER>
+<NER><PER>Gragg, Robert F</PER></NER>
+<NER><PER>Graham, Jeffrey J</PER></NER>
+<NER><PER>Graham, John</PER></NER>
+<NER><PER>Grant No</PER> : W 31 P 4 Q- 08 - 1 - 00</NER>
+<NER><PER>Granuzzo, Joe</PER></NER>
+<NER><PER>Gray, Deric J</PER></NER>
+<NER><PER>Gray, Howard L</PER></NER>
+<NER><PER>Gray, Jeffrey G</PER></NER>
+<NER><PER>Grealy, Michael</PER></NER>
+<NER><PER>Green, W H</PER></NER>
+<NER><PER>Greenhall, Charles A</PER></NER>
+<NER><PER>Greenhall, Charles</PER></NER>
+<NER><PER>Greg Steeger</PER></NER>
+<NER><PER>Gregoris, Dennis</PER></NER>
+<NER><PER>Gregory G. Spanjers</PER>, <PER>Keith A. McFall</PER>, <PER>Frank S. Gulczinski III</PER>,</NER>
+<NER><PER>Gregory G. Spanjers</PER>, a <PER>Keith A. McFallh</PER></NER>
+<NER><PER>Gregory J. Bilhartz, MAJ</PER>,</NER>
+<NER><PER>Gregory Orndorff</PER> 
+ Senior Professional Staff, Johns Hopkins University 
+ Applied Physics Laboratory 
+ USA 
+ greg. orndorff@jhuapl.</NER>
+<NER><PER>Gregory Orndorff</PER></NER>
+<NER><PER>Greise, Mark</PER></NER>
+<NER><PER>Griffith, E</PER></NER>
+<NER><PER>Grimmett, Richard F</PER></NER>
+<NER><PER>Grishaev, Andrei A</PER></NER>
+<NER><PER>Grotewold, William R</PER></NER>
+<NER><PER>Grove, Jay R</PER></NER>
+<NER><PER>Groves, J G</PER></NER>
+<NER><PER>Guangchao Sui</PER>,</NER>
+<NER><PER>Guldahl, Martin</PER></NER>
+<NER><PER>Gulden, Jack G</PER></NER>
+<NER><PER>Gunzelmann, Glenn</PER></NER>
+<NER><PER>Guozhi Xiao</PER>, M. D.,</NER>
+<NER><PER>Gurton, Kristan</PER></NER>
+<NER><PER>Guttman, Eric A</PER></NER>
+<NER><PER>H. C. Lambert</PER>. <PER>S. R. Vogl</PER>. <PER>A. S. Brewster</PER>, and <PER>K-P. Dunn</PER></NER>
+<NER><PER>H. Chadsey</PER>, USNO 
+</NER>
+<NER><PER>H. Chadsey</PER>,</NER>
+<NER><PER>H. Chadsey</PER></NER>
+<NER><PER>H. H. Nelson</PER> 
+ Chemical Dynamics and Diagnostics Branch 
+ Chemistry Division 
+ <PER>T. Bell</PER> 
+ <PER>J. Kingdon</PER> 
+ <PER>N. Khadr</PER> 
+ SAIC, Inc. 
+ Arlington, Virginia 
+ <PER>D. A. Steinhurst</PER> 
+ Nova Research, Inc. 
+ Alexandria,</NER>
+<NER><PER>H. H. Nelson</PER></NER>
+<NER><PER>H. Lee Task</PER>, Ph.D 
+ Task Consulting 
+ <PER>Alan R. Pinkus</PER>, Ph.D 
+ Warfighter Interface Division 
+ Battlespace Visualization Branch 
+ August 20 0</NER>
+<NER><PER>H. Lee Task</PER>, Ph.D 
+ Task Consulting 
+ <PER>Alan R. Pinkus</PER>, Ph.D 
+ Warfighter Interface Division 
+ Battlespace Visualization</NER>
+<NER><PER>H. Lee Task</PER>,</NER>
+<NER><PER>HADDEN, R L</PER></NER>
+<NER><PER>HARTSON, H R</PER></NER>
+<NER><PER>HEMMER, CHRISTOPHER</PER></NER>
+<NER><PER>HIGH-DENSITY POWER</PER> SUPPLIES USING</NER>
+<NER><PER>HOFFMANN, W C</PER></NER>
+<NER><PER>HQ PACAF</PER></NER>
+<NER><PER>Hadcock, Lindsay J</PER></NER>
+<NER><PER>Hadden, Robert L</PER></NER>
+<NER><PER>Haeger, Steven D</PER></NER>
+<NER><PER>Hager, Kevin</PER></NER>
+<NER><PER>Hagstrom, Thomas</PER></NER>
+<NER><PER>Hall, David</PER></NER>
+<NER><PER>Hall, G</PER></NER>
+<NER><PER>Hallin, J</PER></NER>
+<NER><PER>Halsey, Carl</PER></NER>
+<NER><PER>Hama, Shin'ichi</PER></NER>
+<NER><PER>Hamell, R L</PER></NER>
+<NER><PER>Hamilton, Booz A</PER></NER>
+<NER><PER>Hammack, James</PER></NER>
+<NER><PER>Hammesfah-, J</PER></NER>
+<NER><PER>Hammesfahr, Jens</PER></NER>
+<NER><PER>Hampton, Jeff</PER></NER>
+<NER><PER>Hampton, Virginia</PER></NER>
+<NER><PER>Hanes, Daniel M</PER></NER>
+<NER><PER>Hannah Fischer</PER> 
+ Information Research Specialist 
+ Knowledge Services</NER>
+<NER><PER>Hannah Fischer</PER> 
+ Information Research</NER>
+<NER><PER>Hannah Fischer</PER></NER>
+<NER><PER>Hannan, Frances</PER></NER>
+<NER><PER>Hansen, Leif, A., MAJ</PER>,</NER>
+<NER><PER>Hanson, Alfred K</PER></NER>
+<NER><PER>Hanson, Donald B</PER></NER>
+<NER><PER>Hanson, Jeffrey A</PER></NER>
+<NER><PER>Hanus, Joseph P</PER></NER>
+<NER><PER>Harmegnies, A</PER></NER>
+<NER><PER>Harold Balbach</PER> ? U. S. Army ERDC-CERL, Champaign,</NER>
+<NER><PER>Harris, David B</PER></NER>
+<NER><PER>Harris, Nichole M</PER></NER>
+<NER><PER>Harrison, Michael J</PER></NER>
+<NER><PER>Harrison, Mike</PER></NER>
+<NER><PER>Harrison, Roger</PER></NER>
+<NER><PER>Harry S. Neilsen, Jr.</PER>,</NER>
+<NER><PER>Hart, Kyle D</PER></NER>
+<NER><PER>Hart, Mary K</PER></NER>
+<NER><PER>Hartka, J E</PER></NER>
+<NER><PER>Hartmann, Lynn C</PER></NER>
+<NER><PER>Hartse, H E</PER></NER>
+<NER><PER>Harvey, Steven P</PER></NER>
+<NER><PER>Hasan, Sa?a</PER></NER>
+<NER><PER>Hatch, Leila T</PER></NER>
+<NER><PER>Hatcher, Donald J</PER></NER>
+<NER><PER>Hatfield, Jay N</PER></NER>
+<NER><PER>Havelka, William F</PER></NER>
+<NER><PER>Hayashi, Teruhiko</PER></NER>
+<NER><PER>Hayes, Alissa J</PER></NER>
+<NER><PER>Hayes, Shaun P</PER></NER>
+<NER><PER>Hayward, Chris</PER></NER>
+<NER><PER>Hayward, Simon W</PER></NER>
+<NER><PER>Healy, Paul F</PER></NER>
+<NER><PER>Heather D. Willauer</PER> 
+ <PER>Ramagopal Ananth</PER> 
+ <PER>John P. Farley</PER> 
+ <PER>Frederick W. Williams</PER> 
+ Navy Technology Center for Safety and Survivability 
+ Chemistry Division 
+ <PER>Gerald G. Back</PER> 
+ Hughes Associates, Inc. 
+ Baltimore, Maryland 
+ <PER>Matthew C. Kennedy</PER> 
+ <PER>John O'Connor</PER> 
+ Naval Surface Warfare Center 
+ Indian Head, Maryland 
+ <PER>Victor M. Gameiro</PER> 
+ Marioff, Inc. 
+ Linthicum,</NER>
+<NER><PER>Heather D. Willauer</PER></NER>
+<NER><PER>Heaton, J. S.</PER>, T. C. <PER>Esque, K. E.</PER> <PER>Nussear, R.</PER> <PER>Inman, F. M.</PER> <PER>Davenport, T. E.</PER> <PER>Leuteritz, P. A.</PER> <PER>Medica, N. W.</PER> <PER>Strout, P. A.</PER> Burgess, and L</NER>
+<NER><PER>Hegeler, F</PER></NER>
+<NER><PER>Heiddis Valdimarsdottir</PER>,</NER>
+<NER><PER>Heidt, Phil E</PER></NER>
+<NER><PER>Heimbuch, Brian K</PER></NER>
+<NER><PER>Heintz, Matt</PER></NER>
+<NER><PER>Heinz Fa</PER> ?</NER>
+<NER><PER>Heitmeyer, Constance L</PER></NER>
+<NER><PER>Helen Altman Klein</PER> <PER>Mei-Hua Lin</PER></NER>
+<NER><PER>Hellesen, Petter</PER></NER>
+<NER><PER>Helm, Eric G</PER></NER>
+<NER><PER>Hemmelgarn, Ronald J</PER></NER>
+<NER><PER>Hendrickson, John E</PER></NER>
+<NER><PER>Henning, Anna C</PER></NER>
+<NER><PER>Henning, Charles A</PER></NER>
+<NER><PER>Henry A. Catherino</PER> 
+ U. S. Army Research Development and Engineering Command 
+ AMSRD-TAR-R / MS 12 1 
+ henry. catherino@comcast. net 
+</NER>
+<NER><PER>Henry A. Catherino</PER> 
+ U. S. Army Research Development and Engineering Command 
+ AMSRD-TAR-R / MS 12 1 
+ henry. catherino@comcast.</NER>
+<NER><PER>Henry A. Catherino</PER></NER>
+<NER><PER>Herbst, D</PER></NER>
+<NER><PER>Herrera, Monica</PER></NER>
+<NER><PER>Herrin, Eugene T</PER></NER>
+<NER><PER>Hetzel, Peter</PER></NER>
+<NER><PER>Hewgley, Charles W</PER></NER>
+<NER><PER>Heyman, Richard E</PER></NER>
+<NER><PER>Hicks, Brian C</PER></NER>
+<NER><PER>High Levels</PER></NER>
+<NER><PER>Hill, Brian P</PER></NER>
+<NER><PER>Hill, James R</PER></NER>
+<NER><PER>Hill, Paul S</PER></NER>
+<NER><PER>Hiller, Robert J</PER></NER>
+<NER><PER>Hinks, Robert P</PER></NER>
+<NER><PER>Hiralal Khatri</PER>, <PER>Kenneth Ranney</PER>,</NER>
+<NER><PER>Hirvonen, J K</PER></NER>
+<NER><PER>HitoshiKiuchi, Yukio T</PER></NER>
+<NER><PER>Hoemann, John M</PER></NER>
+<NER><PER>Hoff, Patrick R</PER></NER>
+<NER><PER>Hogan, Patrick J</PER></NER>
+<NER><PER>Holcomb, Franklin H</PER></NER>
+<NER><PER>Holcomb, John B</PER></NER>
+<NER><PER>Holden, Bruce</PER></NER>
+<NER><PER>Holland, K T</PER></NER>
+<NER><PER>Holmes, Marcus</PER></NER>
+<NER><PER>Holzbeierlein, Jeffrey</PER></NER>
+<NER><PER>Homer, Mark</PER></NER>
+<NER><PER>Hong, Chi-Chen</PER></NER>
+<NER><PER>Hong, Waun K</PER></NER>
+<NER><PER>Hood, Jonathan</PER></NER>
+<NER><PER>Hopkins, John</PER></NER>
+<NER><PER>Hopper, Grace</PER></NER>
+<NER><PER>Horeczy, Christopher A</PER></NER>
+<NER><PER>Hornbeak, Scott</PER></NER>
+<NER><PER>Horton, Charles W</PER></NER>
+<NER><PER>Horton, Robert</PER></NER>
+<NER><PER>Hosokawa, Mizuhiko</PER></NER>
+<NER><PER>Hossack, John A</PER></NER>
+<NER><PER>Hossbach, Todd W</PER></NER>
+<NER><PER>Hou, Weilin</PER></NER>
+<NER><PER>Howard R. Gordon</PER></NER>
+<NER><PER>Howard Schultz</PER></NER>
+<NER><PER>Howarth, Thomas R</PER></NER>
+<NER><PER>Howd, Peter A</PER></NER>
+<NER><PER>Howe, D A</PER></NER>
+<NER><PER>Howe, Peter</PER></NER>
+<NER><PER>Hromas, Robert A</PER></NER>
+<NER><PER>Hu, Angang</PER></NER>
+<NER><PER>Hu, Shengteng</PER></NER>
+<NER><PER>Hu, Xin</PER></NER>
+<NER><PER>Hua Xiao</PER> 
+ E-Mail : xiaoh@msu.</NER>
+<NER><PER>Huang, D H</PER></NER>
+<NER><PER>Huang, Dehua</PER></NER>
+<NER><PER>Huang, Fanzhang</PER></NER>
+<NER><PER>Huang, Jiaoti</PER></NER>
+<NER><PER>Huang, Kuang-tzu</PER></NER>
+<NER><PER>Huang, Qiaojian</PER></NER>
+<NER><PER>Huang, Renwei</PER></NER>
+<NER><PER>Hueneme, Pt</PER></NER>
+<NER><PER>Hufbauer, Gary</PER></NER>
+<NER><PER>Hugh Thomson</PER></NER>
+<NER><PER>Hulet, Melissa S</PER></NER>
